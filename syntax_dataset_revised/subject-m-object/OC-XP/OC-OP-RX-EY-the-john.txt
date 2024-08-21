@@ -1,0 +1,100 @@
+Johnson's guest, the student helped.	the student	Johnson
+Smith's collection, the artist painted.	the artist	Smith
+Brown's project, the chef cooked.	the chef	Brown
+Davis's protégé, the dancer impressed.	the dancer	Davis
+Miller's client, the writer inspired.	the writer	Miller
+Wilson's manuscript, the athlete trained.	the athlete	Wilson
+Moore's photoshoot, the musician composed.	the musician	Moore
+Taylor's followers, the doctor treated.	the doctor	Taylor
+Anderson's beat, the scientist discovered.	the scientist	Anderson
+Thomas's team, the driver drove.	the driver	Thomas
+Jackson's space, the teacher educated.	the teacher	Jackson
+White's portfolio, the gardener planted.	the gardener	White
+Harris's client, the engineer designed.	the engineer	Harris
+Martin's outfit, the actor performed.	the actor	Martin
+Thompson's funds, the photographer captured.	the photographer	Thompson
+Martinez's till, the librarian organized.	the librarian	Martinez
+Garcia's customer, the banker invested.	the banker	Garcia
+Robinson's film, the tailor sewed.	the tailor	Robinson
+Clark's peer, the pilot flew.	the pilot	Clark
+Rodriguez's self-portrait, the lawyer defended.	the lawyer	Rodriguez
+Lewis's own, the architect designed.	the architect	Lewis
+Lee's audience, the chef cooked.	the chef	Lee
+Walker's readers, the nurse cared for.	the nurse	Walker
+Hall's partner, the farmer harvested.	the farmer	Hall
+Allen's symphony, the plumber fixed.	the plumber	Allen
+Young's patient, the cashier counted.	the cashier	Young
+King's breakthrough, the painter painted.	the painter	King
+Wright's vehicle, the therapist counseled.	the therapist	Wright
+Scott's students, the singer sang to.	the singer	Scott
+Green's flowers, the firefighter rescued.	the firefighter	Green
+Adams's structure, the fisherman caught.	the fisherman	Adams
+Baker's role, the bartender served.	the bartender	Baker
+Gonzalez's moment, the waiter served.	the waiter	Gonzalez
+Nelson's collection, the cashier counted.	the cashier	Nelson
+Carter's funds, the receptionist greeted.	the receptionist	Carter
+Mitchell's garment, the athlete trained.	the athlete	Mitchell
+Perez's aircraft, the journalist reported on.	the journalist	Perez
+Roberts's client, the soldier fought.	the soldier	Roberts
+Turner's blueprint, the scientist researched.	the scientist	Turner
+Phillips's dish, the musician played for.	the musician	Phillips
+Campbell's patient, the dancer danced for.	the dancer	Campbell
+Parker's crops, the explorer discovered.	the explorer	Parker
+Evans's pipes, the manager managed.	the manager	Evans
+Edwards's money, the coach trained.	the coach	Edwards
+Collins's canvas, the cleaner cleaned.	the cleaner	Collins
+Stewart's patient, the politician campaigned for.	the politician	Stewart
+Sanchez's audience, the driver drove.	the driver	Sanchez
+Morris's comrade, the gamer played against.	the gamer	Morris
+Rogers's fish, the analyst analyzed.	the analyst	Rogers
+Cook's drink, the CEO led.	the CEO	Cook
+Reed's table, the receptionist greeted.	the receptionist	Reed
+Morgan's change, the librarian organized.	the librarian	Morgan
+Bell's visitor, the programmer coded for.	the programmer	Bell
+Cooper's teammate, the mentor mentored.	the mentor	Cooper
+Richardson's story, the consultant advised.	the consultant	Richardson
+Cox's enemy, the editor edited.	the editor	Cox
+Howard's topic, the model posed for.	the model	Howard
+Ward's fans, the influencer influenced.	the influencer	Ward
+Torres's troupe, the officer patrolled.	the officer	Torres
+Peterson's path, the coach coached.	the coach	Peterson
+Gray's team, the cleaner cleaned.	the cleaner	Gray
+Ramirez's players, the artist created for.	the artist	Ramirez
+James's space, the designer designed for.	the designer	James
+Watson's election, the stylist styled.	the stylist	Watson
+Brooks's route, the banker invested.	the banker	Brooks
+Kelly's opponent, the cashier counted.	the cashier	Kelly
+Sanders's data, the clerk assisted.	the clerk	Sanders
+Price's company, the director directed.	the director	Price
+Bennett's show, the producer produced for.	the producer	Bennett
+Wood's publication, the writer wrote for.	the writer	Wood
+Barnes's story, the journalist reported on.	the journalist	Barnes
+Ross's review, the critic critiqued.	the critic	Ross
+Henderson's application, the developer developed for.	the developer	Henderson
+Coleman's startup, the entrepreneur founded.	the entrepreneur	Coleman
+Jenkins's event, the host hosted.	the host	Jenkins
+Perry's company, the CEO led.	the CEO	Perry
+Powell's department, the manager managed.	the manager	Powell
+Long's customer, the salesperson sold to.	the salesperson	Long
+Patterson's campaign, the marketer marketed for.	the marketer	Patterson
+Hughes's supervisor, the intern interned for.	the intern	Hughes
+Flores's data, the analyst analyzed.	the analyst	Flores
+Washington's topic, the researcher researched.	the researcher	Washington
+Butler's experiment, the scientist researched.	the scientist	Butler
+Johnson's class, the professor taught.	the professor	Johnson
+Martinez's subject, the student studied.	the student	Martinez
+Robinson's patient, the doctor treated.	the doctor	Robinson
+Thompson's patient, the nurse cared for.	the nurse	Thompson
+Clark's client, the therapist counseled.	the therapist	Clark
+Rodriguez's doctor, the patient consulted.	the patient	Rodriguez
+Lewis's client, the therapist counseled.	the therapist	Lewis
+Lee's doctor, the patient consulted.	the patient	Lee
+Walker's advisor, the client consulted.	the client	Walker
+Hall's client, the attorney represented.	the attorney	Hall
+Allen's case, the defendant defended.	the defendant	Allen
+Young's trial, the judge judged.	the judge	Young
+King's case, the witness testified for.	the witness	King
+Wright's hypothesis, the researcher researched.	the researcher	Wright
+Green's study, the participant participated for.	the participant	Green
+Adams's cause, the volunteer volunteered for.	the volunteer	Adams
+Baker's charity, the donor donated to.	the donor	Baker

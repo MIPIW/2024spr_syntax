@@ -1,0 +1,100 @@
+Johnson's guest, Evans helped.	Evans	Johnson
+Smith's collection, Campbell painted.	Campbell	Smith
+Brown's project, Nelson cooked.	Nelson	Brown
+Davis's protégé, Underwood impressed.	Underwood	Davis
+Miller's client, Quinn inspired.	Quinn	Miller
+Wilson's manuscript, Martinez trained.	Martinez	Wilson
+Moore's photoshoot, Diaz composed.	Diaz	Moore
+Taylor's followers, Martinez treated.	Martinez	Taylor
+Anderson's beat, Harris discovered.	Harris	Anderson
+Thomas's team, Underhill drove.	Underhill	Thomas
+Jackson's space, Foster educated.	Foster	Jackson
+White's portfolio, Nguyen planted.	Nguyen	White
+Harris's client, Foster designed.	Foster	Harris
+Martin's outfit, Knight performed.	Knight	Martin
+Thompson's funds, Anderson captured.	Anderson	Thompson
+Martinez's till, Freeman organized.	Freeman	Martinez
+Garcia's customer, Johnson invested.	Johnson	Garcia
+Robinson's film, Lewis sewed.	Lewis	Robinson
+Clark's peer, Irving flew.	Irving	Clark
+Rodriguez's self-portrait, Vaughn defended.	Vaughn	Rodriguez
+Lewis's own, Quinn designed.	Quinn	Lewis
+Lee's audience, Xander cooked.	Xander	Lee
+Walker's readers, Irving cared for.	Irving	Walker
+Hall's partner, Freeman harvested.	Freeman	Hall
+Allen's symphony, Owens fixed.	Owens	Allen
+Young's patient, Lewis counted.	Lewis	Young
+King's breakthrough, Bishop painted.	Bishop	King
+Wright's vehicle, York counseled.	York	Wright
+Scott's students, Kelly sang to.	Kelly	Scott
+Green's flowers, Edwards rescued.	Edwards	Green
+Adams's structure, Harris caught.	Harris	Adams
+Baker's role, White served.	White	Baker
+Gonzalez's moment, Elliott served.	Elliott	Gonzalez
+Nelson's collection, Dixon counted.	Dixon	Nelson
+Carter's funds, Ulrich greeted.	Ulrich	Carter
+Mitchell's garment, Waters trained.	Waters	Mitchell
+Perez's aircraft, Xu reported on.	Xu	Perez
+Roberts's client, Zavala fought.	Zavala	Roberts
+Turner's blueprint, Mitchell researched.	Mitchell	Turner
+Phillips's dish, Campbell played for.	Campbell	Phillips
+Campbell's patient, Quinn danced for.	Quinn	Campbell
+Parker's crops, Evans discovered.	Evans	Parker
+Evans's pipes, Young managed.	Young	Evans
+Edwards's money, Martinez trained.	Martinez	Edwards
+Collins's canvas, Vega cleaned.	Vega	Collins
+Stewart's patient, Irving campaigned for.	Irving	Stewart
+Sanchez's audience, Kelly drove.	Kelly	Sanchez
+Morris's comrade, Peterson played against.	Peterson	Morris
+Rogers's fish, Norris analyzed.	Norris	Rogers
+Cook's drink, Smith led.	Smith	Cook
+Reed's table, Alexander greeted.	Alexander	Reed
+Morgan's change, Zavala organized.	Zavala	Morgan
+Bell's visitor, Knight coded for.	Knight	Bell
+Cooper's teammate, York mentored.	York	Cooper
+Richardson's story, Flores advised.	Flores	Richardson
+Cox's enemy, Mitchell edited.	Mitchell	Cox
+Howard's topic, Diaz posed for.	Diaz	Howard
+Ward's fans, Mitchell influenced.	Mitchell	Ward
+Torres's troupe, Knight patrolled.	Knight	Torres
+Peterson's path, Nichols coached.	Nichols	Peterson
+Gray's team, Anderson cleaned.	Anderson	Gray
+Ramirez's players, Hall created for.	Hall	Ramirez
+James's space, O'Brien designed for.	O'Brien	James
+Watson's election, Carter styled.	Carter	Watson
+Brooks's route, Ramirez invested.	Ramirez	Brooks
+Kelly's opponent, Quinn counted.	Quinn	Kelly
+Sanders's data, Robinson assisted.	Robinson	Sanders
+Price's company, Martinez directed.	Martinez	Price
+Bennett's show, Usher produced for.	Usher	Bennett
+Wood's publication, Perez wrote for.	Perez	Wood
+Barnes's story, Evans reported on.	Evans	Barnes
+Ross's review, Knight critiqued.	Knight	Ross
+Henderson's application, Waters developed for.	Waters	Henderson
+Coleman's startup, Nichols founded.	Nichols	Coleman
+Jenkins's event, Irving hosted.	Irving	Jenkins
+Perry's company, Ward led.	Ward	Perry
+Powell's department, Thompson managed.	Thompson	Powell
+Long's customer, Moore sold to.	Moore	Long
+Patterson's campaign, White marketed for.	White	Patterson
+Hughes's supervisor, Lopez interned for.	Lopez	Hughes
+Flores's data, Lopez analyzed.	Lopez	Flores
+Washington's topic, Knight researched.	Knight	Washington
+Butler's experiment, Bishop researched.	Bishop	Butler
+Johnson's class, Walker taught.	Walker	Johnson
+Martinez's subject, Johnson studied.	Johnson	Martinez
+Robinson's patient, Owens treated.	Owens	Robinson
+Thompson's patient, Evans cared for.	Evans	Thompson
+Clark's client, Stewart counseled.	Stewart	Clark
+Rodriguez's doctor, Douglas consulted.	Douglas	Rodriguez
+Lewis's client, Nichols counseled.	Nichols	Lewis
+Lee's doctor, Ellis consulted.	Ellis	Lee
+Walker's advisor, Mitchell consulted.	Mitchell	Walker
+Hall's client, Nguyen represented.	Nguyen	Hall
+Allen's case, Gordon defended.	Gordon	Allen
+Young's trial, Campbell judged.	Campbell	Young
+King's case, Patterson testified for.	Patterson	King
+Wright's hypothesis, Usher researched.	Usher	Wright
+Green's study, Yang participated for.	Yang	Green
+Adams's cause, Allen volunteered for.	Allen	Adams
+Baker's charity, Vaughn donated to.	Vaughn	Baker

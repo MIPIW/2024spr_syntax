@@ -1,0 +1,100 @@
+some student, his guest helped.	some student	his
+some artist, his collection painted.	some artist	his
+some chef, his project cooked.	some chef	his
+some dancer, his protégé impressed.	some dancer	his
+some writer, his client inspired.	some writer	his
+some athlete, his manuscript trained.	some athlete	his
+some musician, his photoshoot composed.	some musician	his
+some doctor, his followers treated.	some doctor	his
+some scientist, his beat discovered.	some scientist	his
+some driver, his team drove.	some driver	his
+some teacher, his space educated.	some teacher	his
+some gardener, his portfolio planted.	some gardener	his
+some engineer, his client designed.	some engineer	his
+some actor, his outfit performed.	some actor	his
+some photographer, his funds captured.	some photographer	his
+some librarian, his till organized.	some librarian	his
+some banker, his customer invested.	some banker	his
+some tailor, his film sewed.	some tailor	his
+some pilot, his peer flew.	some pilot	his
+some lawyer, his self-portrait defended.	some lawyer	his
+some architect, his own designed.	some architect	his
+some chef, his audience cooked.	some chef	his
+some nurse, his readers cared for.	some nurse	his
+some farmer, his partner harvested.	some farmer	his
+some plumber, his symphony fixed.	some plumber	his
+some cashier, his patient counted.	some cashier	his
+some painter, his breakthrough painted.	some painter	his
+some therapist, his vehicle counseled.	some therapist	his
+some singer, his students sang to.	some singer	his
+some firefighter, his flowers rescued.	some firefighter	his
+some fisherman, his structure caught.	some fisherman	his
+some bartender, his role served.	some bartender	his
+some waiter, his moment served.	some waiter	his
+some cashier, his collection counted.	some cashier	his
+some receptionist, his funds greeted.	some receptionist	his
+some athlete, his garment trained.	some athlete	his
+some journalist, his aircraft reported on.	some journalist	his
+some soldier, his client fought.	some soldier	his
+some scientist, his blueprint researched.	some scientist	his
+some musician, his dish played for.	some musician	his
+some dancer, his patient danced for.	some dancer	his
+some explorer, his crops discovered.	some explorer	his
+some manager, his pipes managed.	some manager	his
+some coach, his money trained.	some coach	his
+some cleaner, his canvas cleaned.	some cleaner	his
+some politician, his patient campaigned for.	some politician	his
+some driver, his audience drove.	some driver	his
+some gamer, his comrade played against.	some gamer	his
+some analyst, his fish analyzed.	some analyst	his
+some CEO, his drink led.	some CEO	his
+some receptionist, his table greeted.	some receptionist	his
+some librarian, his change organized.	some librarian	his
+some programmer, his visitor coded for.	some programmer	his
+some mentor, his teammate mentored.	some mentor	his
+some consultant, his story advised.	some consultant	his
+some editor, his enemy edited.	some editor	his
+some model, his topic posed for.	some model	his
+some influencer, his fans influenced.	some influencer	his
+some officer, his troupe patrolled.	some officer	his
+some coach, his path coached.	some coach	his
+some cleaner, his team cleaned.	some cleaner	his
+some artist, his players created for.	some artist	his
+some designer, his space designed for.	some designer	his
+some stylist, his election styled.	some stylist	his
+some banker, his route invested.	some banker	his
+some cashier, his opponent counted.	some cashier	his
+some clerk, his data assisted.	some clerk	his
+some director, his company directed.	some director	his
+some producer, his show produced for.	some producer	his
+some writer, his publication wrote for.	some writer	his
+some journalist, his story reported on.	some journalist	his
+some critic, his review critiqued.	some critic	his
+some developer, his application developed for.	some developer	his
+some entrepreneur, his startup founded.	some entrepreneur	his
+some host, his event hosted.	some host	his
+some CEO, his company led.	some CEO	his
+some manager, his department managed.	some manager	his
+some salesperson, his customer sold to.	some salesperson	his
+some marketer, his campaign marketed for.	some marketer	his
+some intern, his supervisor interned for.	some intern	his
+some analyst, his data analyzed.	some analyst	his
+some researcher, his topic researched.	some researcher	his
+some scientist, his experiment researched.	some scientist	his
+some professor, his class taught.	some professor	his
+some student, his subject studied.	some student	his
+some doctor, his patient treated.	some doctor	his
+some nurse, his patient cared for.	some nurse	his
+some therapist, his client counseled.	some therapist	his
+some patient, his doctor consulted.	some patient	his
+some therapist, his client counseled.	some therapist	his
+some patient, his doctor consulted.	some patient	his
+some client, his advisor consulted.	some client	his
+some attorney, his client represented.	some attorney	his
+some defendant, his case defended.	some defendant	his
+some judge, his trial judged.	some judge	his
+some witness, his case testified for.	some witness	his
+some researcher, his hypothesis researched.	some researcher	his
+some participant, his study participated for.	some participant	his
+some volunteer, his cause volunteered for.	some volunteer	his
+some donor, his charity donated to.	some donor	his

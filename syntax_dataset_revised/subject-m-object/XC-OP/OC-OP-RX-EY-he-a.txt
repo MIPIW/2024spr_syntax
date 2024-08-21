@@ -1,0 +1,100 @@
+he, a student's guest helped.	he	a student
+he, a artist's collection painted.	he	a artist
+he, a chef's project cooked.	he	a chef
+he, a dancer's protégé impressed.	he	a dancer
+he, a writer's client inspired.	he	a writer
+he, a athlete's manuscript trained.	he	a athlete
+he, a musician's photoshoot composed.	he	a musician
+he, a doctor's followers treated.	he	a doctor
+he, a scientist's beat discovered.	he	a scientist
+he, a driver's team drove.	he	a driver
+he, a teacher's space educated.	he	a teacher
+he, a gardener's portfolio planted.	he	a gardener
+he, a engineer's client designed.	he	a engineer
+he, a actor's outfit performed.	he	a actor
+he, a photographer's funds captured.	he	a photographer
+he, a librarian's till organized.	he	a librarian
+he, a banker's customer invested.	he	a banker
+he, a tailor's film sewed.	he	a tailor
+he, a pilot's peer flew.	he	a pilot
+he, a lawyer's self-portrait defended.	he	a lawyer
+he, a architect's own designed.	he	a architect
+he, a chef's audience cooked.	he	a chef
+he, a nurse's readers cared for.	he	a nurse
+he, a farmer's partner harvested.	he	a farmer
+he, a plumber's symphony fixed.	he	a plumber
+he, a cashier's patient counted.	he	a cashier
+he, a painter's breakthrough painted.	he	a painter
+he, a therapist's vehicle counseled.	he	a therapist
+he, a singer's students sang to.	he	a singer
+he, a firefighter's flowers rescued.	he	a firefighter
+he, a fisherman's structure caught.	he	a fisherman
+he, a bartender's role served.	he	a bartender
+he, a waiter's moment served.	he	a waiter
+he, a cashier's collection counted.	he	a cashier
+he, a receptionist's funds greeted.	he	a receptionist
+he, a athlete's garment trained.	he	a athlete
+he, a journalist's aircraft reported on.	he	a journalist
+he, a soldier's client fought.	he	a soldier
+he, a scientist's blueprint researched.	he	a scientist
+he, a musician's dish played for.	he	a musician
+he, a dancer's patient danced for.	he	a dancer
+he, a explorer's crops discovered.	he	a explorer
+he, a manager's pipes managed.	he	a manager
+he, a coach's money trained.	he	a coach
+he, a cleaner's canvas cleaned.	he	a cleaner
+he, a politician's patient campaigned for.	he	a politician
+he, a driver's audience drove.	he	a driver
+he, a gamer's comrade played against.	he	a gamer
+he, a analyst's fish analyzed.	he	a analyst
+he, a CEO's drink led.	he	a CEO
+he, a receptionist's table greeted.	he	a receptionist
+he, a librarian's change organized.	he	a librarian
+he, a programmer's visitor coded for.	he	a programmer
+he, a mentor's teammate mentored.	he	a mentor
+he, a consultant's story advised.	he	a consultant
+he, a editor's enemy edited.	he	a editor
+he, a model's topic posed for.	he	a model
+he, a influencer's fans influenced.	he	a influencer
+he, a officer's troupe patrolled.	he	a officer
+he, a coach's path coached.	he	a coach
+he, a cleaner's team cleaned.	he	a cleaner
+he, a artist's players created for.	he	a artist
+he, a designer's space designed for.	he	a designer
+he, a stylist's election styled.	he	a stylist
+he, a banker's route invested.	he	a banker
+he, a cashier's opponent counted.	he	a cashier
+he, a clerk's data assisted.	he	a clerk
+he, a director's company directed.	he	a director
+he, a producer's show produced for.	he	a producer
+he, a writer's publication wrote for.	he	a writer
+he, a journalist's story reported on.	he	a journalist
+he, a critic's review critiqued.	he	a critic
+he, a developer's application developed for.	he	a developer
+he, a entrepreneur's startup founded.	he	a entrepreneur
+he, a host's event hosted.	he	a host
+he, a CEO's company led.	he	a CEO
+he, a manager's department managed.	he	a manager
+he, a salesperson's customer sold to.	he	a salesperson
+he, a marketer's campaign marketed for.	he	a marketer
+he, a intern's supervisor interned for.	he	a intern
+he, a analyst's data analyzed.	he	a analyst
+he, a researcher's topic researched.	he	a researcher
+he, a scientist's experiment researched.	he	a scientist
+he, a professor's class taught.	he	a professor
+he, a student's subject studied.	he	a student
+he, a doctor's patient treated.	he	a doctor
+he, a nurse's patient cared for.	he	a nurse
+he, a therapist's client counseled.	he	a therapist
+he, a patient's doctor consulted.	he	a patient
+he, a therapist's client counseled.	he	a therapist
+he, a patient's doctor consulted.	he	a patient
+he, a client's advisor consulted.	he	a client
+he, a attorney's client represented.	he	a attorney
+he, a defendant's case defended.	he	a defendant
+he, a judge's trial judged.	he	a judge
+he, a witness's case testified for.	he	a witness
+he, a researcher's hypothesis researched.	he	a researcher
+he, a participant's study participated for.	he	a participant
+he, a volunteer's cause volunteered for.	he	a volunteer
+he, a donor's charity donated to.	he	a donor

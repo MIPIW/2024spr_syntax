@@ -1,0 +1,90 @@
+themes which resonate with the poet, the poet writes verses with.	the poet	the poet
+plants which delight the gardener, the gardener tends gardens with.	the gardener	the gardener
+movements which inspire the dancer, the dancer performs routines with.	the dancer	the dancer
+logic which challenges the programmer, the programmer codes programs with.	the programmer	the programmer
+values which shape the parent, the parent raises children with.	the parent	the parent
+techniques which empower the psychologist, the psychologist conducts therapy with.	the psychologist	the psychologist
+methods which heal the doctor, the doctor treats patients with.	the doctor	the doctor
+melodies which captivate the musician, the musician plays instruments with.	the musician	the musician
+recipes which satisfy the chef, the chef prepares meals with.	the chef	the chef
+stories which intrigue the filmmaker, the filmmaker directs movies with.	the filmmaker	the filmmaker
+designs which impress the carpenter, the carpenter builds furniture with.	the carpenter	the carpenter
+strategies which motivate the coach, the coach trains athletes with.	the coach	the coach
+concepts which intrigue the philosopher, the philosopher explores ideas with.	the philosopher	the philosopher
+routes which challenge the driver, the driver navigates roads with.	the driver	the driver
+strategies which benefit the accountant, the accountant manages finances with.	the accountant	the accountant
+points which persuade the lawyer, the lawyer argues cases with.	the lawyer	the lawyer
+techniques which sell to the salesperson, the salesperson pitches products with.	the salesperson	the salesperson
+stories which engage the journalist, the journalist reports news with.	the journalist	the journalist
+efforts which fulfill the volunteer, the volunteer helps communities with.	the volunteer	the volunteer
+methodologies which yield results for the researcher, the researcher conducts studies with.	the researcher	the researcher
+emotions which resonate with the singer, the singer performs songs with.	the singer	the singer
+depth which impresses the actor, the actor portrays characters with.	the actor	the actor
+empathy which touches the nurse, the nurse cares for patients with.	the nurse	the nurse
+bravery which defines the firefighter, the firefighter tackles fires with.	the firefighter	the firefighter
+compassion which defines the social worker, the social worker assists clients with.	the social	social worker
+expertise which benefits the consultant, the consultant advises clients with.	the consultant	the consultant
+tactics which energize the coach, the coach motivates teams with.	the coach	the coach
+styles which define the stylist, the stylist creates looks with.	the stylist	the stylist
+strokes which define the painter, the painter creates art with.	the painter	the painter
+perspectives which intrigue the philosopher, the philosopher ponders questions with.	the philosopher	the philosopher
+strategies which benefit the banker, the banker manages finances with.	the banker	the banker
+approaches which heal the therapist, the therapist counsels clients with.	the therapist	the therapist
+methods which comfort the veterinarian, the veterinarian cares for animals with.	the veterinarian	the veterinarian
+concepts which inspire the architect, the architect designs buildings with.	the architect	the architect
+styles which define the florist, the florist arranges flowers with.	the florist	the florist
+techniques which satisfy the plumber, the plumber fixes pipes with.	the plumber	the plumber
+methods which inspire the teacher, the teacher educates students with.	the teacher	the teacher
+skills which define the mechanic, the mechanic repairs vehicles with.	the mechanic	the mechanic
+care which defines the caregiver, the caregiver supports individuals with.	the caregiver	the caregiver
+methodologies which define the scientist, the scientist conducts experiments with.	the scientist	the scientist
+accuracy which defines the translator, the translator interprets languages with.	the translator	the translator
+strategies which define the CEO, the CEO leads companies with.	the CEO	the CEO
+systems which define the librarian, the librarian organizes resources with.	the librarian	the librarian
+vigilance which defines the lifeguard, the lifeguard monitors pools with.	the lifeguard	the lifeguard
+services which define the flight attendant, the flight attendant assists passengers with.	the flight	flight attendant
+warmth which defines the receptionist, the receptionist greets visitors with.	the receptionist	the receptionist
+vigilance which defines the security guard, the security guard patrols areas with.	the security	security guard
+caution which defines the lifeguard, the lifeguard monitors beaches with.	the lifeguard	the lifeguard
+methods which define the therapist, the therapist counsels clients with.	the therapist	the therapist
+precision which defines the scientist, the scientist conducts experiments with.	the scientist	the scientist
+dedication which defines the teacher, the teacher educates students with.	the teacher	the teacher
+flavors which define the chef, the chef prepares dishes with.	the chef	the chef
+pieces which define the musician, the musician performs concerts with.	the musician	the musician
+stories which define the author, the author writes novels with.	the author	the author
+techniques which define the painter, the painter creates artworks with.	the painter	the painter
+methods which define the coach, the coach trains athletes with.	the coach	the coach
+colors which inspire the artist, the artist paints masterpieces with.	the artist	the artist
+ingredients which challenge the chef, the chef cooks dishes with.	the chef	the chef
+characters which intrigue the writer, the writer pens novels with.	the writer	the writer
+subjects which fascinate the photographer, the photographer captures moments with.	the photographer	the photographer
+hypotheses which puzzle the scientist, the scientist conducts experiments with.	the scientist	the scientist
+methods which engage the teacher, the teacher educates students with.	the teacher	the teacher
+songs which move the musician, the musician performs concerts with.	the musician	the musician
+routines which challenge the athlete, the athlete trains with.	the athlete	the athlete
+designs which excite the designer, the designer creates fashion with.	the designer	the designer
+algorithms which challenge the programmer, the programmer codes software with.	the programmer	the programmer
+perspectives which define the photographer, the photographer captures images with.	the photographer	the photographer
+techniques which define the therapist, the therapist counsels clients with.	the therapist	the therapist
+concepts which define the engineer, the engineer designs structures with.	the engineer	the engineer
+care which defines the doctor, the doctor treats patients with.	the doctor	the doctor
+styles which define the designer, the designer creates fashion with.	the designer	the designer
+songs which define the musician, the musician performs concerts with.	the musician	the musician
+narratives which define the writer, the writer pens stories with.	the writer	the writer
+methods which define the scientist, the scientist conducts research with.	the scientist	the scientist
+methods which define the teacher, the teacher educates students with.	the teacher	the teacher
+ingredients which define the chef, the chef prepares meals with.	the chef	the chef
+techniques which define the photographer, the photographer captures moments with.	the photographer	the photographer
+approaches which define the therapist, the therapist counsels clients with.	the therapist	the therapist
+pieces which define the musician, the musician performs concerts with.	the musician	the musician
+styles which define the artist, the artist creates sculptures with.	the artist	the artist
+visions which define the filmmaker, the filmmaker directs films with.	the filmmaker	the filmmaker
+designs which define the designer, the designer creates fashion with.	the designer	the designer
+flavors which define the chef, the chef cooks meals with.	the chef	the chef
+music which define the musician, the musician performs concerts with.	the musician	the musician
+narratives which define the writer, the writer pens stories with.	the writer	the writer
+methods which define the scientist, the scientist conducts experiments with.	the scientist	the scientist
+techniques which define the teacher, the teacher educates students with.	the teacher	the teacher
+techniques which define the therapist, the therapist counsels clients with.	the therapist	the therapist
+pieces which define the musician, the musician performs concerts with.	the musician	the musician
+ingredients which define the chef, the chef prepares dishes with.	the chef	the chef

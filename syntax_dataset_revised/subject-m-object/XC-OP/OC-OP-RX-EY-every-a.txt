@@ -1,0 +1,100 @@
+every student, a student's guest helped.	every student	a student
+every artist, a artist's collection painted.	every artist	a artist
+every chef, a chef's project cooked.	every chef	a chef
+every dancer, a dancer's protégé impressed.	every dancer	a dancer
+every writer, a writer's client inspired.	every writer	a writer
+every athlete, a athlete's manuscript trained.	every athlete	a athlete
+every musician, a musician's photoshoot composed.	every musician	a musician
+every doctor, a doctor's followers treated.	every doctor	a doctor
+every scientist, a scientist's beat discovered.	every scientist	a scientist
+every driver, a driver's team drove.	every driver	a driver
+every teacher, a teacher's space educated.	every teacher	a teacher
+every gardener, a gardener's portfolio planted.	every gardener	a gardener
+every engineer, a engineer's client designed.	every engineer	a engineer
+every actor, a actor's outfit performed.	every actor	a actor
+every photographer, a photographer's funds captured.	every photographer	a photographer
+every librarian, a librarian's till organized.	every librarian	a librarian
+every banker, a banker's customer invested.	every banker	a banker
+every tailor, a tailor's film sewed.	every tailor	a tailor
+every pilot, a pilot's peer flew.	every pilot	a pilot
+every lawyer, a lawyer's self-portrait defended.	every lawyer	a lawyer
+every architect, a architect's own designed.	every architect	a architect
+every chef, a chef's audience cooked.	every chef	a chef
+every nurse, a nurse's readers cared for.	every nurse	a nurse
+every farmer, a farmer's partner harvested.	every farmer	a farmer
+every plumber, a plumber's symphony fixed.	every plumber	a plumber
+every cashier, a cashier's patient counted.	every cashier	a cashier
+every painter, a painter's breakthrough painted.	every painter	a painter
+every therapist, a therapist's vehicle counseled.	every therapist	a therapist
+every singer, a singer's students sang to.	every singer	a singer
+every firefighter, a firefighter's flowers rescued.	every firefighter	a firefighter
+every fisherman, a fisherman's structure caught.	every fisherman	a fisherman
+every bartender, a bartender's role served.	every bartender	a bartender
+every waiter, a waiter's moment served.	every waiter	a waiter
+every cashier, a cashier's collection counted.	every cashier	a cashier
+every receptionist, a receptionist's funds greeted.	every receptionist	a receptionist
+every athlete, a athlete's garment trained.	every athlete	a athlete
+every journalist, a journalist's aircraft reported on.	every journalist	a journalist
+every soldier, a soldier's client fought.	every soldier	a soldier
+every scientist, a scientist's blueprint researched.	every scientist	a scientist
+every musician, a musician's dish played for.	every musician	a musician
+every dancer, a dancer's patient danced for.	every dancer	a dancer
+every explorer, a explorer's crops discovered.	every explorer	a explorer
+every manager, a manager's pipes managed.	every manager	a manager
+every coach, a coach's money trained.	every coach	a coach
+every cleaner, a cleaner's canvas cleaned.	every cleaner	a cleaner
+every politician, a politician's patient campaigned for.	every politician	a politician
+every driver, a driver's audience drove.	every driver	a driver
+every gamer, a gamer's comrade played against.	every gamer	a gamer
+every analyst, a analyst's fish analyzed.	every analyst	a analyst
+every CEO, a CEO's drink led.	every CEO	a CEO
+every receptionist, a receptionist's table greeted.	every receptionist	a receptionist
+every librarian, a librarian's change organized.	every librarian	a librarian
+every programmer, a programmer's visitor coded for.	every programmer	a programmer
+every mentor, a mentor's teammate mentored.	every mentor	a mentor
+every consultant, a consultant's story advised.	every consultant	a consultant
+every editor, a editor's enemy edited.	every editor	a editor
+every model, a model's topic posed for.	every model	a model
+every influencer, a influencer's fans influenced.	every influencer	a influencer
+every officer, a officer's troupe patrolled.	every officer	a officer
+every coach, a coach's path coached.	every coach	a coach
+every cleaner, a cleaner's team cleaned.	every cleaner	a cleaner
+every artist, a artist's players created for.	every artist	a artist
+every designer, a designer's space designed for.	every designer	a designer
+every stylist, a stylist's election styled.	every stylist	a stylist
+every banker, a banker's route invested.	every banker	a banker
+every cashier, a cashier's opponent counted.	every cashier	a cashier
+every clerk, a clerk's data assisted.	every clerk	a clerk
+every director, a director's company directed.	every director	a director
+every producer, a producer's show produced for.	every producer	a producer
+every writer, a writer's publication wrote for.	every writer	a writer
+every journalist, a journalist's story reported on.	every journalist	a journalist
+every critic, a critic's review critiqued.	every critic	a critic
+every developer, a developer's application developed for.	every developer	a developer
+every entrepreneur, a entrepreneur's startup founded.	every entrepreneur	a entrepreneur
+every host, a host's event hosted.	every host	a host
+every CEO, a CEO's company led.	every CEO	a CEO
+every manager, a manager's department managed.	every manager	a manager
+every salesperson, a salesperson's customer sold to.	every salesperson	a salesperson
+every marketer, a marketer's campaign marketed for.	every marketer	a marketer
+every intern, a intern's supervisor interned for.	every intern	a intern
+every analyst, a analyst's data analyzed.	every analyst	a analyst
+every researcher, a researcher's topic researched.	every researcher	a researcher
+every scientist, a scientist's experiment researched.	every scientist	a scientist
+every professor, a professor's class taught.	every professor	a professor
+every student, a student's subject studied.	every student	a student
+every doctor, a doctor's patient treated.	every doctor	a doctor
+every nurse, a nurse's patient cared for.	every nurse	a nurse
+every therapist, a therapist's client counseled.	every therapist	a therapist
+every patient, a patient's doctor consulted.	every patient	a patient
+every therapist, a therapist's client counseled.	every therapist	a therapist
+every patient, a patient's doctor consulted.	every patient	a patient
+every client, a client's advisor consulted.	every client	a client
+every attorney, a attorney's client represented.	every attorney	a attorney
+every defendant, a defendant's case defended.	every defendant	a defendant
+every judge, a judge's trial judged.	every judge	a judge
+every witness, a witness's case testified for.	every witness	a witness
+every researcher, a researcher's hypothesis researched.	every researcher	a researcher
+every participant, a participant's study participated for.	every participant	a participant
+every volunteer, a volunteer's cause volunteered for.	every volunteer	a volunteer
+every donor, a donor's charity donated to.	every donor	a donor

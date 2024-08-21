@@ -1,0 +1,90 @@
+themes which resonate with the poet, him writes verses with.	the poet	him
+plants which delight the gardener, him tends gardens with.	the gardener	him
+movements which inspire the dancer, him performs routines with.	the dancer	him
+logic which challenges the programmer, him codes programs with.	the programmer	him
+values which shape the parent, him raises children with.	the parent	him
+techniques which empower the psychologist, him conducts therapy with.	the psychologist	him
+methods which heal the doctor, him treats patients with.	the doctor	him
+melodies which captivate the musician, him plays instruments with.	the musician	him
+recipes which satisfy the chef, him prepares meals with.	the chef	him
+stories which intrigue the filmmaker, him directs movies with.	the filmmaker	him
+designs which impress the carpenter, him builds furniture with.	the carpenter	him
+strategies which motivate the coach, him trains athletes with.	the coach	him
+concepts which intrigue the philosopher, him explores ideas with.	the philosopher	him
+routes which challenge the driver, him navigates roads with.	the driver	him
+strategies which benefit the accountant, him manages finances with.	the accountant	him
+points which persuade the lawyer, him argues cases with.	the lawyer	him
+techniques which sell to the salesperson, him pitches products with.	the salesperson	him
+stories which engage the journalist, him reports news with.	the journalist	him
+efforts which fulfill the volunteer, him helps communities with.	the volunteer	him
+methodologies which yield results for the researcher, him conducts studies with.	the researcher	him
+emotions which resonate with the singer, him performs songs with.	the singer	him
+depth which impresses the actor, him portrays characters with.	the actor	him
+empathy which touches the nurse, him cares for patients with.	the nurse	him
+bravery which defines the firefighter, him tackles fires with.	the firefighter	him
+compassion which defines the social, him worker assists clients with.	the social	him
+expertise which benefits the consultant, him advises clients with.	the consultant	him
+tactics which energize the coach, him motivates teams with.	the coach	him
+styles which define the stylist, him creates looks with.	the stylist	him
+strokes which define the painter, him creates art with.	the painter	him
+perspectives which intrigue the philosopher, him ponders questions with.	the philosopher	him
+strategies which benefit the banker, him manages finances with.	the banker	him
+approaches which heal the therapist, him counsels clients with.	the therapist	him
+methods which comfort the veterinarian, him cares for animals with.	the veterinarian	him
+concepts which inspire the architect, him designs buildings with.	the architect	him
+styles which define the florist, him arranges flowers with.	the florist	him
+techniques which satisfy the plumber, him fixes pipes with.	the plumber	him
+methods which inspire the teacher, him educates students with.	the teacher	him
+skills which define the mechanic, him repairs vehicles with.	the mechanic	him
+care which defines the caregiver, him supports individuals with.	the caregiver	him
+methodologies which define the scientist, him conducts experiments with.	the scientist	him
+accuracy which defines the translator, him interprets languages with.	the translator	him
+strategies which define the CEO, him leads companies with.	the CEO	him
+systems which define the librarian, him organizes resources with.	the librarian	him
+vigilance which defines the lifeguard, him monitors pools with.	the lifeguard	him
+services which defines the flight, him attendant assists passengers with.	the flight	him
+warmth which defines the receptionist, him greets visitors with.	the receptionist	him
+vigilance which defines the security, him guard patrols areas with.	the security	him
+caution which defines the lifeguard, him monitors beaches with.	the lifeguard	him
+methods which define the therapist, him counsels clients with.	the therapist	him
+precision which defines the scientist, him conducts experiments with.	the scientist	him
+dedication which defines the teacher, him educates students with.	the teacher	him
+flavors which define the chef, him prepares dishes with.	the chef	him
+pieces which define the musician, him performs concerts with.	the musician	him
+stories which define the author, him writes novels with.	the author	him
+techniques which define the painter, him creates artworks with.	the painter	him
+methods which define the coach, him trains athletes with.	the coach	him
+colors which inspire the artist, him paints masterpieces with.	the artist	him
+ingredients which challenge the chef, him cooks dishes with.	the chef	him
+characters which intrigue the writer, him pens novels with.	the writer	him
+subjects which fascinate the photographer, him captures moments with.	the photographer	him
+hypotheses which puzzle the scientist, him conducts experiments with.	the scientist	him
+methods which engage the teacher, him educates students with.	the teacher	him
+songs which move the musician, him performs concerts with.	the musician	him
+routines which challenge the athlete, him trains with.	the athlete	him
+designs which excite the designer, him creates fashion with.	the designer	him
+algorithms which challenge the programmer, him codes software with.	the programmer	him
+perspectives which define the photographer, him captures images with.	the photographer	him
+techniques which define the therapist, him counsels clients with.	the therapist	him
+concepts which define the engineer, him designs structures with.	the engineer	him
+care which defines the doctor, him treats patients with.	the doctor	him
+styles which define the designer, him creates fashion with.	the designer	him
+songs which define the musician, him performs concerts with.	the musician	him
+narratives which define the writer, him pens stories with.	the writer	him
+methods which define the scientist, him conducts research with.	the scientist	him
+methods which define the teacher, him educates students with.	the teacher	him
+ingredients which define the chef, him prepares meals with.	the chef	him
+techniques which define the photographer, him captures moments with.	the photographer	him
+approaches which define the therapist, him counsels clients with.	the therapist	him
+pieces which define the musician, him performs concerts with.	the musician	him
+styles which define the artist, him creates sculptures with.	the artist	him
+visions which define the filmmaker, him directs films with.	the filmmaker	him
+designs which define the designer, him creates fashion with.	the designer	him
+flavors which define the chef, him cooks meals with.	the chef	him
+music which define the musician, him performs concerts with.	the musician	him
+narratives which define the writer, him pens stories with.	the writer	him
+methods which define the scientist, him conducts experiments with.	the scientist	him
+techniques which define the teacher, him educates students with.	the teacher	him
+techniques which define the therapist, him counsels clients with.	the therapist	him
+pieces which define the musician, him performs concerts with.	the musician	him
+ingredients which define the chef, him prepares dishes with.	the chef	him

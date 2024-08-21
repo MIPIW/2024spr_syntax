@@ -1,0 +1,100 @@
+a student helped he.	he	a student
+a artist painted he.	he	a artist
+a chef cooked he.	he	a chef
+a dancer impressed he.	he	a dancer
+a writer inspired he.	he	a writer
+a athlete trained he.	he	a athlete
+a musician composed he.	he	a musician
+a doctor treated he.	he	a doctor
+a scientist discovered he.	he	a scientist
+a driver drove he.	he	a driver
+a teacher educated he.	he	a teacher
+a gardener planted he.	he	a gardener
+a engineer designed he.	he	a engineer
+a actor performed he.	he	a actor
+a photographer captured he.	he	a photographer
+a librarian organized he.	he	a librarian
+a banker invested he.	he	a banker
+a tailor sewed he.	he	a tailor
+a pilot flew he.	he	a pilot
+a lawyer defended he.	he	a lawyer
+a architect designed he.	he	a architect
+a chef cooked he.	he	a chef
+a nurse cared for he.	he	a nurse
+a farmer harvested he.	he	a farmer
+a plumber fixed he.	he	a plumber
+a cashier counted he.	he	a cashier
+a painter painted he.	he	a painter
+a therapist counseled he.	he	a therapist
+a singer sang to he.	he	a singer
+a firefighter rescued he.	he	a firefighter
+a fisherman caught he.	he	a fisherman
+a bartender served he.	he	a bartender
+a waiter served he.	he	a waiter
+a cashier counted he.	he	a cashier
+a receptionist greeted he.	he	a receptionist
+a athlete trained he.	he	a athlete
+a journalist reported on he.	he	a journalist
+a soldier fought he.	he	a soldier
+a scientist researched he.	he	a scientist
+a musician played for he.	he	a musician
+a dancer danced for he.	he	a dancer
+a explorer discovered he.	he	a explorer
+a manager managed he.	he	a manager
+a coach trained he.	he	a coach
+a cleaner cleaned he.	he	a cleaner
+a politician campaigned for he.	he	a politician
+a driver drove he.	he	a driver
+a gamer played against he.	he	a gamer
+a analyst analyzed he.	he	a analyst
+a CEO led he.	he	a CEO
+a receptionist greeted he.	he	a receptionist
+a librarian organized he.	he	a librarian
+a programmer coded for he.	he	a programmer
+a mentor mentored he.	he	a mentor
+a consultant advised he.	he	a consultant
+a editor edited he.	he	a editor
+a model posed for he.	he	a model
+a influencer influenced he.	he	a influencer
+a officer patrolled he.	he	a officer
+a coach coached he.	he	a coach
+a cleaner cleaned he.	he	a cleaner
+a artist created for he.	he	a artist
+a designer designed for he.	he	a designer
+a stylist styled he.	he	a stylist
+a banker invested he.	he	a banker
+a cashier counted he.	he	a cashier
+a clerk assisted he.	he	a clerk
+a director directed he.	he	a director
+a producer produced for he.	he	a producer
+a writer wrote for he.	he	a writer
+a journalist reported on he.	he	a journalist
+a critic critiqued he.	he	a critic
+a developer developed for he.	he	a developer
+a entrepreneur founded he.	he	a entrepreneur
+a host hosted he.	he	a host
+a CEO led he.	he	a CEO
+a manager managed he.	he	a manager
+a salesperson sold to he.	he	a salesperson
+a marketer marketed for he.	he	a marketer
+a intern interned for he.	he	a intern
+a analyst analyzed he.	he	a analyst
+a researcher researched he.	he	a researcher
+a scientist researched he.	he	a scientist
+a professor taught he.	he	a professor
+a student studied he.	he	a student
+a doctor treated he.	he	a doctor
+a nurse cared for he.	he	a nurse
+a therapist counseled he.	he	a therapist
+a patient consulted he.	he	a patient
+a therapist counseled he.	he	a therapist
+a patient consulted he.	he	a patient
+a client consulted he.	he	a client
+a attorney represented he.	he	a attorney
+a defendant defended he.	he	a defendant
+a judge judged he.	he	a judge
+a witness testified for he.	he	a witness
+a researcher researched he.	he	a researcher
+a participant participated for he.	he	a participant
+a volunteer volunteered for he.	he	a volunteer
+a donor donated to he.	he	a donor

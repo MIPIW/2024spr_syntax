@@ -1,0 +1,100 @@
+a student, he helped.	he	a student
+a artist, he painted.	he	a artist
+a chef, he cooked.	he	a chef
+a dancer, he impressed.	he	a dancer
+a writer, he inspired.	he	a writer
+a athlete, he trained.	he	a athlete
+a musician, he composed.	he	a musician
+a doctor, he treated.	he	a doctor
+a scientist, he discovered.	he	a scientist
+a driver, he drove.	he	a driver
+a teacher, he educated.	he	a teacher
+a gardener, he planted.	he	a gardener
+a engineer, he designed.	he	a engineer
+a actor, he performed.	he	a actor
+a photographer, he captured.	he	a photographer
+a librarian, he organized.	he	a librarian
+a banker, he invested.	he	a banker
+a tailor, he sewed.	he	a tailor
+a pilot, he flew.	he	a pilot
+a lawyer, he defended.	he	a lawyer
+a architect, he designed.	he	a architect
+a chef, he cooked.	he	a chef
+a nurse, he cared for.	he	a nurse
+a farmer, he harvested.	he	a farmer
+a plumber, he fixed.	he	a plumber
+a cashier, he counted.	he	a cashier
+a painter, he painted.	he	a painter
+a therapist, he counseled.	he	a therapist
+a singer, he sang to.	he	a singer
+a firefighter, he rescued.	he	a firefighter
+a fisherman, he caught.	he	a fisherman
+a bartender, he served.	he	a bartender
+a waiter, he served.	he	a waiter
+a cashier, he counted.	he	a cashier
+a receptionist, he greeted.	he	a receptionist
+a athlete, he trained.	he	a athlete
+a journalist, he reported on.	he	a journalist
+a soldier, he fought.	he	a soldier
+a scientist, he researched.	he	a scientist
+a musician, he played for.	he	a musician
+a dancer, he danced for.	he	a dancer
+a explorer, he discovered.	he	a explorer
+a manager, he managed.	he	a manager
+a coach, he trained.	he	a coach
+a cleaner, he cleaned.	he	a cleaner
+a politician, he campaigned for.	he	a politician
+a driver, he drove.	he	a driver
+a gamer, he played against.	he	a gamer
+a analyst, he analyzed.	he	a analyst
+a CEO, he led.	he	a CEO
+a receptionist, he greeted.	he	a receptionist
+a librarian, he organized.	he	a librarian
+a programmer, he coded for.	he	a programmer
+a mentor, he mentored.	he	a mentor
+a consultant, he advised.	he	a consultant
+a editor, he edited.	he	a editor
+a model, he posed for.	he	a model
+a influencer, he influenced.	he	a influencer
+a officer, he patrolled.	he	a officer
+a coach, he coached.	he	a coach
+a cleaner, he cleaned.	he	a cleaner
+a artist, he created for.	he	a artist
+a designer, he designed for.	he	a designer
+a stylist, he styled.	he	a stylist
+a banker, he invested.	he	a banker
+a cashier, he counted.	he	a cashier
+a clerk, he assisted.	he	a clerk
+a director, he directed.	he	a director
+a producer, he produced for.	he	a producer
+a writer, he wrote for.	he	a writer
+a journalist, he reported on.	he	a journalist
+a critic, he critiqued.	he	a critic
+a developer, he developed for.	he	a developer
+a entrepreneur, he founded.	he	a entrepreneur
+a host, he hosted.	he	a host
+a CEO, he led.	he	a CEO
+a manager, he managed.	he	a manager
+a salesperson, he sold to.	he	a salesperson
+a marketer, he marketed for.	he	a marketer
+a intern, he interned for.	he	a intern
+a analyst, he analyzed.	he	a analyst
+a researcher, he researched.	he	a researcher
+a scientist, he researched.	he	a scientist
+a professor, he taught.	he	a professor
+a student, he studied.	he	a student
+a doctor, he treated.	he	a doctor
+a nurse, he cared for.	he	a nurse
+a therapist, he counseled.	he	a therapist
+a patient, he consulted.	he	a patient
+a therapist, he counseled.	he	a therapist
+a patient, he consulted.	he	a patient
+a client, he consulted.	he	a client
+a attorney, he represented.	he	a attorney
+a defendant, he defended.	he	a defendant
+a judge, he judged.	he	a judge
+a witness, he testified for.	he	a witness
+a researcher, he researched.	he	a researcher
+a participant, he participated for.	he	a participant
+a volunteer, he volunteered for.	he	a volunteer
+a donor, he donated to.	he	a donor

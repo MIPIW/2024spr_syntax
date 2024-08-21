@@ -1,0 +1,100 @@
+every student helped, the student.	every student	the student
+every artist painted, the artist.	every artist	the artist
+every chef cooked, the chef.	every chef	the chef
+every dancer impressed, the dancer.	every dancer	the dancer
+every writer inspired, the writer.	every writer	the writer
+every athlete trained, the athlete.	every athlete	the athlete
+every musician composed, the musician.	every musician	the musician
+every doctor treated, the doctor.	every doctor	the doctor
+every scientist discovered, the scientist.	every scientist	the scientist
+every driver drove, the driver.	every driver	the driver
+every teacher educated, the teacher.	every teacher	the teacher
+every gardener planted, the gardener.	every gardener	the gardener
+every engineer designed, the engineer.	every engineer	the engineer
+every actor performed, the actor.	every actor	the actor
+every photographer captured, the photographer.	every photographer	the photographer
+every librarian organized, the librarian.	every librarian	the librarian
+every banker invested, the banker.	every banker	the banker
+every tailor sewed, the tailor.	every tailor	the tailor
+every pilot flew, the pilot.	every pilot	the pilot
+every lawyer defended, the lawyer.	every lawyer	the lawyer
+every architect designed, the architect.	every architect	the architect
+every chef cooked, the chef.	every chef	the chef
+every nurse cared for, the nurse.	every nurse	the nurse
+every farmer harvested, the farmer.	every farmer	the farmer
+every plumber fixed, the plumber.	every plumber	the plumber
+every cashier counted, the cashier.	every cashier	the cashier
+every painter painted, the painter.	every painter	the painter
+every therapist counseled, the therapist.	every therapist	the therapist
+every singer sang to, the singer.	every singer	the singer
+every firefighter rescued, the firefighter.	every firefighter	the firefighter
+every fisherman caught, the fisherman.	every fisherman	the fisherman
+every bartender served, the bartender.	every bartender	the bartender
+every waiter served, the waiter.	every waiter	the waiter
+every cashier counted, the cashier.	every cashier	the cashier
+every receptionist greeted, the receptionist.	every receptionist	the receptionist
+every athlete trained, the athlete.	every athlete	the athlete
+every journalist reported on, the journalist.	every journalist	the journalist
+every soldier fought, the soldier.	every soldier	the soldier
+every scientist researched, the scientist.	every scientist	the scientist
+every musician played for, the musician.	every musician	the musician
+every dancer danced for, the dancer.	every dancer	the dancer
+every explorer discovered, the explorer.	every explorer	the explorer
+every manager managed, the manager.	every manager	the manager
+every coach trained, the coach.	every coach	the coach
+every cleaner cleaned, the cleaner.	every cleaner	the cleaner
+every politician campaigned for, the politician.	every politician	the politician
+every driver drove, the driver.	every driver	the driver
+every gamer played against, the gamer.	every gamer	the gamer
+every analyst analyzed, the analyst.	every analyst	the analyst
+every CEO led, the CEO.	every CEO	the CEO
+every receptionist greeted, the receptionist.	every receptionist	the receptionist
+every librarian organized, the librarian.	every librarian	the librarian
+every programmer coded for, the programmer.	every programmer	the programmer
+every mentor mentored, the mentor.	every mentor	the mentor
+every consultant advised, the consultant.	every consultant	the consultant
+every editor edited, the editor.	every editor	the editor
+every model posed for, the model.	every model	the model
+every influencer influenced, the influencer.	every influencer	the influencer
+every officer patrolled, the officer.	every officer	the officer
+every coach coached, the coach.	every coach	the coach
+every cleaner cleaned, the cleaner.	every cleaner	the cleaner
+every artist created for, the artist.	every artist	the artist
+every designer designed for, the designer.	every designer	the designer
+every stylist styled, the stylist.	every stylist	the stylist
+every banker invested, the banker.	every banker	the banker
+every cashier counted, the cashier.	every cashier	the cashier
+every clerk assisted, the clerk.	every clerk	the clerk
+every director directed, the director.	every director	the director
+every producer produced for, the producer.	every producer	the producer
+every writer wrote for, the writer.	every writer	the writer
+every journalist reported on, the journalist.	every journalist	the journalist
+every critic critiqued, the critic.	every critic	the critic
+every developer developed for, the developer.	every developer	the developer
+every entrepreneur founded, the entrepreneur.	every entrepreneur	the entrepreneur
+every host hosted, the host.	every host	the host
+every CEO led, the CEO.	every CEO	the CEO
+every manager managed, the manager.	every manager	the manager
+every salesperson sold to, the salesperson.	every salesperson	the salesperson
+every marketer marketed for, the marketer.	every marketer	the marketer
+every intern interned for, the intern.	every intern	the intern
+every analyst analyzed, the analyst.	every analyst	the analyst
+every researcher researched, the researcher.	every researcher	the researcher
+every scientist researched, the scientist.	every scientist	the scientist
+every professor taught, the professor.	every professor	the professor
+every student studied, the student.	every student	the student
+every doctor treated, the doctor.	every doctor	the doctor
+every nurse cared for, the nurse.	every nurse	the nurse
+every therapist counseled, the therapist.	every therapist	the therapist
+every patient consulted, the patient.	every patient	the patient
+every therapist counseled, the therapist.	every therapist	the therapist
+every patient consulted, the patient.	every patient	the patient
+every client consulted, the client.	every client	the client
+every attorney represented, the attorney.	every attorney	the attorney
+every defendant defended, the defendant.	every defendant	the defendant
+every judge judged, the judge.	every judge	the judge
+every witness testified for, the witness.	every witness	the witness
+every researcher researched, the researcher.	every researcher	the researcher
+every participant participated for, the participant.	every participant	the participant
+every volunteer volunteered for, the volunteer.	every volunteer	the volunteer
+every donor donated to, the donor.	every donor	the donor

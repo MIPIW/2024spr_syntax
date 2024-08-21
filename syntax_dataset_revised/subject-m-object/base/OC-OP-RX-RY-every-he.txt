@@ -1,0 +1,100 @@
+every student helped him.	every student	him
+every artist painted him.	every artist	him
+every chef cooked him.	every chef	him
+every dancer impressed him.	every dancer	him
+every writer inspired him.	every writer	him
+every athlete trained him.	every athlete	him
+every musician composed him.	every musician	him
+every doctor treated him.	every doctor	him
+every scientist discovered him.	every scientist	him
+every driver drove him.	every driver	him
+every teacher educated him.	every teacher	him
+every gardener planted him.	every gardener	him
+every engineer designed him.	every engineer	him
+every actor performed him.	every actor	him
+every photographer captured him.	every photographer	him
+every librarian organized him.	every librarian	him
+every banker invested him.	every banker	him
+every tailor sewed him.	every tailor	him
+every pilot flew him.	every pilot	him
+every lawyer defended him.	every lawyer	him
+every architect designed him.	every architect	him
+every chef cooked him.	every chef	him
+every nurse cared for him.	every nurse	him
+every farmer harvested him.	every farmer	him
+every plumber fixed him.	every plumber	him
+every cashier counted him.	every cashier	him
+every painter painted him.	every painter	him
+every therapist counseled him.	every therapist	him
+every singer sang to him.	every singer	him
+every firefighter rescued him.	every firefighter	him
+every fisherman caught him.	every fisherman	him
+every bartender served him.	every bartender	him
+every waiter served him.	every waiter	him
+every cashier counted him.	every cashier	him
+every receptionist greeted him.	every receptionist	him
+every athlete trained him.	every athlete	him
+every journalist reported on him.	every journalist	him
+every soldier fought him.	every soldier	him
+every scientist researched him.	every scientist	him
+every musician played for him.	every musician	him
+every dancer danced for him.	every dancer	him
+every explorer discovered him.	every explorer	him
+every manager managed him.	every manager	him
+every coach trained him.	every coach	him
+every cleaner cleaned him.	every cleaner	him
+every politician campaigned for him.	every politician	him
+every driver drove him.	every driver	him
+every gamer played against him.	every gamer	him
+every analyst analyzed him.	every analyst	him
+every CEO led him.	every CEO	him
+every receptionist greeted him.	every receptionist	him
+every librarian organized him.	every librarian	him
+every programmer coded for him.	every programmer	him
+every mentor mentored him.	every mentor	him
+every consultant advised him.	every consultant	him
+every editor edited him.	every editor	him
+every model posed for him.	every model	him
+every influencer influenced him.	every influencer	him
+every officer patrolled him.	every officer	him
+every coach coached him.	every coach	him
+every cleaner cleaned him.	every cleaner	him
+every artist created for him.	every artist	him
+every designer designed for him.	every designer	him
+every stylist styled him.	every stylist	him
+every banker invested him.	every banker	him
+every cashier counted him.	every cashier	him
+every clerk assisted him.	every clerk	him
+every director directed him.	every director	him
+every producer produced for him.	every producer	him
+every writer wrote for him.	every writer	him
+every journalist reported on him.	every journalist	him
+every critic critiqued him.	every critic	him
+every developer developed for him.	every developer	him
+every entrepreneur founded him.	every entrepreneur	him
+every host hosted him.	every host	him
+every CEO led him.	every CEO	him
+every manager managed him.	every manager	him
+every salesperson sold to him.	every salesperson	him
+every marketer marketed for him.	every marketer	him
+every intern interned for him.	every intern	him
+every analyst analyzed him.	every analyst	him
+every researcher researched him.	every researcher	him
+every scientist researched him.	every scientist	him
+every professor taught him.	every professor	him
+every student studied him.	every student	him
+every doctor treated him.	every doctor	him
+every nurse cared for him.	every nurse	him
+every therapist counseled him.	every therapist	him
+every patient consulted him.	every patient	him
+every therapist counseled him.	every therapist	him
+every patient consulted him.	every patient	him
+every client consulted him.	every client	him
+every attorney represented him.	every attorney	him
+every defendant defended him.	every defendant	him
+every judge judged him.	every judge	him
+every witness testified for him.	every witness	him
+every researcher researched him.	every researcher	him
+every participant participated for him.	every participant	him
+every volunteer volunteered for him.	every volunteer	him
+every donor donated to him.	every donor	him

@@ -1,0 +1,100 @@
+Yang helped, him.	Yang	him
+Knight painted, him.	Knight	him
+Zane cooked, him.	Zane	him
+Quinn impressed, him.	Quinn	him
+Vasquez inspired, him.	Vasquez	him
+Zimmerman trained, him.	Zimmerman	him
+Waters composed, him.	Waters	him
+O'Brien treated, him.	O'Brien	him
+Douglas discovered, him.	Douglas	him
+Owens drove, him.	Owens	him
+Dixon educated, him.	Dixon	him
+Baker planted, him.	Baker	him
+Norris designed, him.	Norris	him
+Elliott performed, him.	Elliott	him
+Baker captured, him.	Baker	him
+Hughes organized, him.	Hughes	him
+Nelson invested, him.	Nelson	him
+Vaughn sewed, him.	Vaughn	him
+Bishop flew, him.	Bishop	him
+Reed defended, him.	Reed	him
+Ingram designed, him.	Ingram	him
+Xu cooked, him.	Xu	him
+Davis cared for, him.	Davis	him
+Reed harvested, him.	Reed	him
+Parker fixed, him.	Parker	him
+Thompson counted, him.	Thompson	him
+Nelson painted, him.	Nelson	him
+Johnson counseled, him.	Johnson	him
+Patterson sang to, him.	Patterson	him
+Peterson rescued, him.	Peterson	him
+Robinson caught, him.	Robinson	him
+Owens served, him.	Owens	him
+Vaughn served, him.	Vaughn	him
+Zimmerman counted, him.	Zimmerman	him
+Flores greeted, him.	Flores	him
+Diaz trained, him.	Diaz	him
+Quinn reported on, him.	Quinn	him
+Knight fought, him.	Knight	him
+Richardson researched, him.	Richardson	him
+Jackson played for, him.	Jackson	him
+Hernandez danced for, him.	Hernandez	him
+Perez discovered, him.	Perez	him
+Hughes managed, him.	Hughes	him
+Patterson trained, him.	Patterson	him
+Thompson cleaned, him.	Thompson	him
+Ingram campaigned for, him.	Ingram	him
+Hughes drove, him.	Hughes	him
+Grant played against, him.	Grant	him
+Jackson analyzed, him.	Jackson	him
+Nichols led, him.	Nichols	him
+Stewart greeted, him.	Stewart	him
+Yates organized, him.	Yates	him
+Zavala coded for, him.	Zavala	him
+Vaughn mentored, him.	Vaughn	him
+Zane advised, him.	Zane	him
+Vincent edited, him.	Vincent	him
+Alexander posed for, him.	Alexander	him
+Moore influenced, him.	Moore	him
+Smith patrolled, him.	Smith	him
+Quinn coached, him.	Quinn	him
+Ulrich cleaned, him.	Ulrich	him
+Underwood created for, him.	Underwood	him
+Davis designed for, him.	Davis	him
+Xenos styled, him.	Xenos	him
+Ortiz invested, him.	Ortiz	him
+Jackson counted, him.	Jackson	him
+Young assisted, him.	Young	him
+Gordon directed, him.	Gordon	him
+Young produced for, him.	Young	him
+Evans wrote for, him.	Evans	him
+Hall reported on, him.	Hall	him
+Lawson critiqued, him.	Lawson	him
+Quinn developed for, him.	Quinn	him
+Zavala founded, him.	Zavala	him
+Vega hosted, him.	Vega	him
+Yang led, him.	Yang	him
+Vega managed, him.	Vega	him
+Diaz sold to, him.	Diaz	him
+Franklin marketed for, him.	Franklin	him
+Collins interned for, him.	Collins	him
+Franklin analyzed, him.	Franklin	him
+Hughes researched, him.	Hughes	him
+Grant researched, him.	Grant	him
+Zane taught, him.	Zane	him
+Smith studied, him.	Smith	him
+Xenos treated, him.	Xenos	him
+Adams cared for, him.	Adams	him
+Owens counseled, him.	Owens	him
+Grant consulted, him.	Grant	him
+Bennett counseled, him.	Bennett	him
+Bishop consulted, him.	Bishop	him
+Irving consulted, him.	Irving	him
+Edwards represented, him.	Edwards	him
+Scott defended, him.	Scott	him
+Lewis judged, him.	Lewis	him
+Taylor testified for, him.	Taylor	him
+Gordon researched, him.	Gordon	him
+Green participated for, him.	Green	him
+Thompson volunteered for, him.	Thompson	him
+Jackson donated to, him.	Jackson	him

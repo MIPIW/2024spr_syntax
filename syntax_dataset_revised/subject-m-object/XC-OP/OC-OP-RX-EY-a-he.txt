@@ -1,0 +1,100 @@
+A student, his guest helped.	A student	his
+A artist, his collection painted.	A artist	his
+A chef, his project cooked.	A chef	his
+A dancer, his protégé impressed.	A dancer	his
+A writer, his client inspired.	A writer	his
+A athlete, his manuscript trained.	A athlete	his
+A musician, his photoshoot composed.	A musician	his
+A doctor, his followers treated.	A doctor	his
+A scientist, his beat discovered.	A scientist	his
+A driver, his team drove.	A driver	his
+A teacher, his space educated.	A teacher	his
+A gardener, his portfolio planted.	A gardener	his
+A engineer, his client designed.	A engineer	his
+A actor, his outfit performed.	A actor	his
+A photographer, his funds captured.	A photographer	his
+A librarian, his till organized.	A librarian	his
+A banker, his customer invested.	A banker	his
+A tailor, his film sewed.	A tailor	his
+A pilot, his peer flew.	A pilot	his
+A lawyer, his self-portrait defended.	A lawyer	his
+A architect, his own designed.	A architect	his
+A chef, his audience cooked.	A chef	his
+A nurse, his readers cared for.	A nurse	his
+A farmer, his partner harvested.	A farmer	his
+A plumber, his symphony fixed.	A plumber	his
+A cashier, his patient counted.	A cashier	his
+A painter, his breakthrough painted.	A painter	his
+A therapist, his vehicle counseled.	A therapist	his
+A singer, his students sang to.	A singer	his
+A firefighter, his flowers rescued.	A firefighter	his
+A fisherman, his structure caught.	A fisherman	his
+A bartender, his role served.	A bartender	his
+A waiter, his moment served.	A waiter	his
+A cashier, his collection counted.	A cashier	his
+A receptionist, his funds greeted.	A receptionist	his
+A athlete, his garment trained.	A athlete	his
+A journalist, his aircraft reported on.	A journalist	his
+A soldier, his client fought.	A soldier	his
+A scientist, his blueprint researched.	A scientist	his
+A musician, his dish played for.	A musician	his
+A dancer, his patient danced for.	A dancer	his
+A explorer, his crops discovered.	A explorer	his
+A manager, his pipes managed.	A manager	his
+A coach, his money trained.	A coach	his
+A cleaner, his canvas cleaned.	A cleaner	his
+A politician, his patient campaigned for.	A politician	his
+A driver, his audience drove.	A driver	his
+A gamer, his comrade played against.	A gamer	his
+A analyst, his fish analyzed.	A analyst	his
+A CEO, his drink led.	A CEO	his
+A receptionist, his table greeted.	A receptionist	his
+A librarian, his change organized.	A librarian	his
+A programmer, his visitor coded for.	A programmer	his
+A mentor, his teammate mentored.	A mentor	his
+A consultant, his story advised.	A consultant	his
+A editor, his enemy edited.	A editor	his
+A model, his topic posed for.	A model	his
+A influencer, his fans influenced.	A influencer	his
+A officer, his troupe patrolled.	A officer	his
+A coach, his path coached.	A coach	his
+A cleaner, his team cleaned.	A cleaner	his
+A artist, his players created for.	A artist	his
+A designer, his space designed for.	A designer	his
+A stylist, his election styled.	A stylist	his
+A banker, his route invested.	A banker	his
+A cashier, his opponent counted.	A cashier	his
+A clerk, his data assisted.	A clerk	his
+A director, his company directed.	A director	his
+A producer, his show produced for.	A producer	his
+A writer, his publication wrote for.	A writer	his
+A journalist, his story reported on.	A journalist	his
+A critic, his review critiqued.	A critic	his
+A developer, his application developed for.	A developer	his
+A entrepreneur, his startup founded.	A entrepreneur	his
+A host, his event hosted.	A host	his
+A CEO, his company led.	A CEO	his
+A manager, his department managed.	A manager	his
+A salesperson, his customer sold to.	A salesperson	his
+A marketer, his campaign marketed for.	A marketer	his
+A intern, his supervisor interned for.	A intern	his
+A analyst, his data analyzed.	A analyst	his
+A researcher, his topic researched.	A researcher	his
+A scientist, his experiment researched.	A scientist	his
+A professor, his class taught.	A professor	his
+A student, his subject studied.	A student	his
+A doctor, his patient treated.	A doctor	his
+A nurse, his patient cared for.	A nurse	his
+A therapist, his client counseled.	A therapist	his
+A patient, his doctor consulted.	A patient	his
+A therapist, his client counseled.	A therapist	his
+A patient, his doctor consulted.	A patient	his
+A client, his advisor consulted.	A client	his
+A attorney, his client represented.	A attorney	his
+A defendant, his case defended.	A defendant	his
+A judge, his trial judged.	A judge	his
+A witness, his case testified for.	A witness	his
+A researcher, his hypothesis researched.	A researcher	his
+A participant, his study participated for.	A participant	his
+A volunteer, his cause volunteered for.	A volunteer	his
+A donor, his charity donated to.	A donor	his

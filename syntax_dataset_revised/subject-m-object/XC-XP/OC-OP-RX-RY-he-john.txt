@@ -1,0 +1,100 @@
+Johnson helped he.	he	Johnson
+Smith painted he.	he	Smith
+Brown cooked he.	he	Brown
+Davis impressed he.	he	Davis
+Miller inspired he.	he	Miller
+Wilson trained he.	he	Wilson
+Moore composed he.	he	Moore
+Taylor treated he.	he	Taylor
+Anderson discovered he.	he	Anderson
+Thomas drove he.	he	Thomas
+Jackson educated he.	he	Jackson
+White planted he.	he	White
+Harris designed he.	he	Harris
+Martin performed he.	he	Martin
+Thompson captured he.	he	Thompson
+Martinez organized he.	he	Martinez
+Garcia invested he.	he	Garcia
+Robinson sewed he.	he	Robinson
+Clark flew he.	he	Clark
+Rodriguez defended he.	he	Rodriguez
+Lewis designed he.	he	Lewis
+Lee cooked he.	he	Lee
+Walker cared for he.	he	Walker
+Hall harvested he.	he	Hall
+Allen fixed he.	he	Allen
+Young counted he.	he	Young
+King painted he.	he	King
+Wright counseled he.	he	Wright
+Scott sang to he.	he	Scott
+Green rescued he.	he	Green
+Adams caught he.	he	Adams
+Baker served he.	he	Baker
+Gonzalez served he.	he	Gonzalez
+Nelson counted he.	he	Nelson
+Carter greeted he.	he	Carter
+Mitchell trained he.	he	Mitchell
+Perez reported on he.	he	Perez
+Roberts fought he.	he	Roberts
+Turner researched he.	he	Turner
+Phillips played for he.	he	Phillips
+Campbell danced for he.	he	Campbell
+Parker discovered he.	he	Parker
+Evans managed he.	he	Evans
+Edwards trained he.	he	Edwards
+Collins cleaned he.	he	Collins
+Stewart campaigned for he.	he	Stewart
+Sanchez drove he.	he	Sanchez
+Morris played against he.	he	Morris
+Rogers analyzed he.	he	Rogers
+Cook led he.	he	Cook
+Reed greeted he.	he	Reed
+Morgan organized he.	he	Morgan
+Bell coded for he.	he	Bell
+Cooper mentored he.	he	Cooper
+Richardson advised he.	he	Richardson
+Cox edited he.	he	Cox
+Howard posed for he.	he	Howard
+Ward influenced he.	he	Ward
+Torres patrolled he.	he	Torres
+Peterson coached he.	he	Peterson
+Gray cleaned he.	he	Gray
+Ramirez created for he.	he	Ramirez
+James designed for he.	he	James
+Watson styled he.	he	Watson
+Brooks invested he.	he	Brooks
+Kelly counted he.	he	Kelly
+Sanders assisted he.	he	Sanders
+Price directed he.	he	Price
+Bennett produced for he.	he	Bennett
+Wood wrote for he.	he	Wood
+Barnes reported on he.	he	Barnes
+Ross critiqued he.	he	Ross
+Henderson developed for he.	he	Henderson
+Coleman founded he.	he	Coleman
+Jenkins hosted he.	he	Jenkins
+Perry led he.	he	Perry
+Powell managed he.	he	Powell
+Long sold to he.	he	Long
+Patterson marketed for he.	he	Patterson
+Hughes interned for he.	he	Hughes
+Flores analyzed he.	he	Flores
+Washington researched he.	he	Washington
+Butler researched he.	he	Butler
+Johnson taught he.	he	Johnson
+Martinez studied he.	he	Martinez
+Robinson treated he.	he	Robinson
+Thompson cared for he.	he	Thompson
+Clark counseled he.	he	Clark
+Rodriguez consulted he.	he	Rodriguez
+Lewis counseled he.	he	Lewis
+Lee consulted he.	he	Lee
+Walker consulted he.	he	Walker
+Hall represented he.	he	Hall
+Allen defended he.	he	Allen
+Young judged he.	he	Young
+King testified for he.	he	King
+Wright researched he.	he	Wright
+Green participated for he.	he	Green
+Adams volunteered for he.	he	Adams
+Baker donated to he.	he	Baker

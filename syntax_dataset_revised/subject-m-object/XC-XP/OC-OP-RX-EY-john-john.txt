@@ -1,0 +1,100 @@
+Johnson's guest helped Evans.	Evans	Johnson
+Smith's collection painted Campbell.	Campbell	Smith
+Brown's project cooked Nelson.	Nelson	Brown
+Davis's protégé impressed Underwood.	Underwood	Davis
+Miller's client inspired Quinn.	Quinn	Miller
+Wilson's manuscript trained Martinez.	Martinez	Wilson
+Moore's photoshoot composed Diaz.	Diaz	Moore
+Taylor's followers treated Martinez.	Martinez	Taylor
+Anderson's beat discovered Harris.	Harris	Anderson
+Thomas's team drove Underhill.	Underhill	Thomas
+Jackson's space educated Foster.	Foster	Jackson
+White's portfolio planted Nguyen.	Nguyen	White
+Harris's client designed Foster.	Foster	Harris
+Martin's outfit performed Knight.	Knight	Martin
+Thompson's funds captured Anderson.	Anderson	Thompson
+Martinez's till organized Freeman.	Freeman	Martinez
+Garcia's customer invested Johnson.	Johnson	Garcia
+Robinson's film sewed Lewis.	Lewis	Robinson
+Clark's peer flew Irving.	Irving	Clark
+Rodriguez's self-portrait defended Vaughn.	Vaughn	Rodriguez
+Lewis's own designed Quinn.	Quinn	Lewis
+Lee's audience cooked Xander.	Xander	Lee
+Walker's readers cared for Irving.	Irving	Walker
+Hall's partner harvested Freeman.	Freeman	Hall
+Allen's symphony fixed Owens.	Owens	Allen
+Young's patient counted Lewis.	Lewis	Young
+King's breakthrough painted Bishop.	Bishop	King
+Wright's vehicle counseled York.	York	Wright
+Scott's students sang to Kelly.	Kelly	Scott
+Green's flowers rescued Edwards.	Edwards	Green
+Adams's structure caught Harris.	Harris	Adams
+Baker's role served White.	White	Baker
+Gonzalez's moment served Elliott.	Elliott	Gonzalez
+Nelson's collection counted Dixon.	Dixon	Nelson
+Carter's funds greeted Ulrich.	Ulrich	Carter
+Mitchell's garment trained Waters.	Waters	Mitchell
+Perez's aircraft reported on Xu.	Xu	Perez
+Roberts's client fought Zavala.	Zavala	Roberts
+Turner's blueprint researched Mitchell.	Mitchell	Turner
+Phillips's dish played for Campbell.	Campbell	Phillips
+Campbell's patient danced for Quinn.	Quinn	Campbell
+Parker's crops discovered Evans.	Evans	Parker
+Evans's pipes managed Young.	Young	Evans
+Edwards's money trained Martinez.	Martinez	Edwards
+Collins's canvas cleaned Vega.	Vega	Collins
+Stewart's patient campaigned for Irving.	Irving	Stewart
+Sanchez's audience drove Kelly.	Kelly	Sanchez
+Morris's comrade played against Peterson.	Peterson	Morris
+Rogers's fish analyzed Norris.	Norris	Rogers
+Cook's drink led Smith.	Smith	Cook
+Reed's table greeted Alexander.	Alexander	Reed
+Morgan's change organized Zavala.	Zavala	Morgan
+Bell's visitor coded for Knight.	Knight	Bell
+Cooper's teammate mentored York.	York	Cooper
+Richardson's story advised Flores.	Flores	Richardson
+Cox's enemy edited Mitchell.	Mitchell	Cox
+Howard's topic posed for Diaz.	Diaz	Howard
+Ward's fans influenced Mitchell.	Mitchell	Ward
+Torres's troupe patrolled Knight.	Knight	Torres
+Peterson's path coached Nichols.	Nichols	Peterson
+Gray's team cleaned Anderson.	Anderson	Gray
+Ramirez's players created for Hall.	Hall	Ramirez
+James's space designed for O'Brien.	O'Brien	James
+Watson's election styled Carter.	Carter	Watson
+Brooks's route invested Ramirez.	Ramirez	Brooks
+Kelly's opponent counted Quinn.	Quinn	Kelly
+Sanders's data assisted Robinson.	Robinson	Sanders
+Price's company directed Martinez.	Martinez	Price
+Bennett's show produced for Usher.	Usher	Bennett
+Wood's publication wrote for Perez.	Perez	Wood
+Barnes's story reported on Evans.	Evans	Barnes
+Ross's review critiqued Knight.	Knight	Ross
+Henderson's application developed for Waters.	Waters	Henderson
+Coleman's startup founded Nichols.	Nichols	Coleman
+Jenkins's event hosted Irving.	Irving	Jenkins
+Perry's company led Ward.	Ward	Perry
+Powell's department managed Thompson.	Thompson	Powell
+Long's customer sold to Moore.	Moore	Long
+Patterson's campaign marketed for White.	White	Patterson
+Hughes's supervisor interned for Lopez.	Lopez	Hughes
+Flores's data analyzed Lopez.	Lopez	Flores
+Washington's topic researched Knight.	Knight	Washington
+Butler's experiment researched Bishop.	Bishop	Butler
+Johnson's class taught Walker.	Walker	Johnson
+Martinez's subject studied Johnson.	Johnson	Martinez
+Robinson's patient treated Owens.	Owens	Robinson
+Thompson's patient cared for Evans.	Evans	Thompson
+Clark's client counseled Stewart.	Stewart	Clark
+Rodriguez's doctor consulted Douglas.	Douglas	Rodriguez
+Lewis's client counseled Nichols.	Nichols	Lewis
+Lee's doctor consulted Ellis.	Ellis	Lee
+Walker's advisor consulted Mitchell.	Mitchell	Walker
+Hall's client represented Nguyen.	Nguyen	Hall
+Allen's case defended Gordon.	Gordon	Allen
+Young's trial judged Campbell.	Campbell	Young
+King's case testified for Patterson.	Patterson	King
+Wright's hypothesis researched Usher.	Usher	Wright
+Green's study participated for Yang.	Yang	Green
+Adams's cause volunteered for Allen.	Allen	Adams
+Baker's charity donated to Vaughn.	Vaughn	Baker

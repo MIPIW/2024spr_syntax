@@ -1,0 +1,100 @@
+a student's guest helped A student.	A student	a student
+a artist's collection painted A artist.	A artist	a artist
+a chef's project cooked A chef.	A chef	a chef
+a dancer's protégé impressed A dancer.	A dancer	a dancer
+a writer's client inspired A writer.	A writer	a writer
+a athlete's manuscript trained A athlete.	A athlete	a athlete
+a musician's photoshoot composed A musician.	A musician	a musician
+a doctor's followers treated A doctor.	A doctor	a doctor
+a scientist's beat discovered A scientist.	A scientist	a scientist
+a driver's team drove A driver.	A driver	a driver
+a teacher's space educated A teacher.	A teacher	a teacher
+a gardener's portfolio planted A gardener.	A gardener	a gardener
+a engineer's client designed A engineer.	A engineer	a engineer
+a actor's outfit performed A actor.	A actor	a actor
+a photographer's funds captured A photographer.	A photographer	a photographer
+a librarian's till organized A librarian.	A librarian	a librarian
+a banker's customer invested A banker.	A banker	a banker
+a tailor's film sewed A tailor.	A tailor	a tailor
+a pilot's peer flew A pilot.	A pilot	a pilot
+a lawyer's self-portrait defended A lawyer.	A lawyer	a lawyer
+a architect's own designed A architect.	A architect	a architect
+a chef's audience cooked A chef.	A chef	a chef
+a nurse's readers cared for A nurse.	A nurse	a nurse
+a farmer's partner harvested A farmer.	A farmer	a farmer
+a plumber's symphony fixed A plumber.	A plumber	a plumber
+a cashier's patient counted A cashier.	A cashier	a cashier
+a painter's breakthrough painted A painter.	A painter	a painter
+a therapist's vehicle counseled A therapist.	A therapist	a therapist
+a singer's students sang to A singer.	A singer	a singer
+a firefighter's flowers rescued A firefighter.	A firefighter	a firefighter
+a fisherman's structure caught A fisherman.	A fisherman	a fisherman
+a bartender's role served A bartender.	A bartender	a bartender
+a waiter's moment served A waiter.	A waiter	a waiter
+a cashier's collection counted A cashier.	A cashier	a cashier
+a receptionist's funds greeted A receptionist.	A receptionist	a receptionist
+a athlete's garment trained A athlete.	A athlete	a athlete
+a journalist's aircraft reported on A journalist.	A journalist	a journalist
+a soldier's client fought A soldier.	A soldier	a soldier
+a scientist's blueprint researched A scientist.	A scientist	a scientist
+a musician's dish played for A musician.	A musician	a musician
+a dancer's patient danced for A dancer.	A dancer	a dancer
+a explorer's crops discovered A explorer.	A explorer	a explorer
+a manager's pipes managed A manager.	A manager	a manager
+a coach's money trained A coach.	A coach	a coach
+a cleaner's canvas cleaned A cleaner.	A cleaner	a cleaner
+a politician's patient campaigned for A politician.	A politician	a politician
+a driver's audience drove A driver.	A driver	a driver
+a gamer's comrade played against A gamer.	A gamer	a gamer
+a analyst's fish analyzed A analyst.	A analyst	a analyst
+a CEO's drink led A CEO.	A CEO	a CEO
+a receptionist's table greeted A receptionist.	A receptionist	a receptionist
+a librarian's change organized A librarian.	A librarian	a librarian
+a programmer's visitor coded for A programmer.	A programmer	a programmer
+a mentor's teammate mentored A mentor.	A mentor	a mentor
+a consultant's story advised A consultant.	A consultant	a consultant
+a editor's enemy edited A editor.	A editor	a editor
+a model's topic posed for A model.	A model	a model
+a influencer's fans influenced A influencer.	A influencer	a influencer
+a officer's troupe patrolled A officer.	A officer	a officer
+a coach's path coached A coach.	A coach	a coach
+a cleaner's team cleaned A cleaner.	A cleaner	a cleaner
+a artist's players created for A artist.	A artist	a artist
+a designer's space designed for A designer.	A designer	a designer
+a stylist's election styled A stylist.	A stylist	a stylist
+a banker's route invested A banker.	A banker	a banker
+a cashier's opponent counted A cashier.	A cashier	a cashier
+a clerk's data assisted A clerk.	A clerk	a clerk
+a director's company directed A director.	A director	a director
+a producer's show produced for A producer.	A producer	a producer
+a writer's publication wrote for A writer.	A writer	a writer
+a journalist's story reported on A journalist.	A journalist	a journalist
+a critic's review critiqued A critic.	A critic	a critic
+a developer's application developed for A developer.	A developer	a developer
+a entrepreneur's startup founded A entrepreneur.	A entrepreneur	a entrepreneur
+a host's event hosted A host.	A host	a host
+a CEO's company led A CEO.	A CEO	a CEO
+a manager's department managed A manager.	A manager	a manager
+a salesperson's customer sold to A salesperson.	A salesperson	a salesperson
+a marketer's campaign marketed for A marketer.	A marketer	a marketer
+a intern's supervisor interned for A intern.	A intern	a intern
+a analyst's data analyzed A analyst.	A analyst	a analyst
+a researcher's topic researched A researcher.	A researcher	a researcher
+a scientist's experiment researched A scientist.	A scientist	a scientist
+a professor's class taught A professor.	A professor	a professor
+a student's subject studied A student.	A student	a student
+a doctor's patient treated A doctor.	A doctor	a doctor
+a nurse's patient cared for A nurse.	A nurse	a nurse
+a therapist's client counseled A therapist.	A therapist	a therapist
+a patient's doctor consulted A patient.	A patient	a patient
+a therapist's client counseled A therapist.	A therapist	a therapist
+a patient's doctor consulted A patient.	A patient	a patient
+a client's advisor consulted A client.	A client	a client
+a attorney's client represented A attorney.	A attorney	a attorney
+a defendant's case defended A defendant.	A defendant	a defendant
+a judge's trial judged A judge.	A judge	a judge
+a witness's case testified for A witness.	A witness	a witness
+a researcher's hypothesis researched A researcher.	A researcher	a researcher
+a participant's study participated for A participant.	A participant	a participant
+a volunteer's cause volunteered for A volunteer.	A volunteer	a volunteer
+a donor's charity donated to A donor.	A donor	a donor

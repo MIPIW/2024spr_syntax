@@ -1,0 +1,100 @@
+him helped Yang.	Yang	him
+him painted Knight.	Knight	him
+him cooked Zane.	Zane	him
+him impressed Quinn.	Quinn	him
+him inspired Vasquez.	Vasquez	him
+him trained Zimmerman.	Zimmerman	him
+him composed Waters.	Waters	him
+him treated O'Brien.	O'Brien	him
+him discovered Douglas.	Douglas	him
+him drove Owens.	Owens	him
+him educated Dixon.	Dixon	him
+him planted Baker.	Baker	him
+him designed Norris.	Norris	him
+him performed Elliott.	Elliott	him
+him captured Baker.	Baker	him
+him organized Hughes.	Hughes	him
+him invested Nelson.	Nelson	him
+him sewed Vaughn.	Vaughn	him
+him flew Bishop.	Bishop	him
+him defended Reed.	Reed	him
+him designed Ingram.	Ingram	him
+him cooked Xu.	Xu	him
+him cared for Davis.	Davis	him
+him harvested Reed.	Reed	him
+him fixed Parker.	Parker	him
+him counted Thompson.	Thompson	him
+him painted Nelson.	Nelson	him
+him counseled Johnson.	Johnson	him
+him sang to Patterson.	Patterson	him
+him rescued Peterson.	Peterson	him
+him caught Robinson.	Robinson	him
+him served Owens.	Owens	him
+him served Vaughn.	Vaughn	him
+him counted Zimmerman.	Zimmerman	him
+him greeted Flores.	Flores	him
+him trained Diaz.	Diaz	him
+him reported on Quinn.	Quinn	him
+him fought Knight.	Knight	him
+him researched Richardson.	Richardson	him
+him played for Jackson.	Jackson	him
+him danced for Hernandez.	Hernandez	him
+him discovered Perez.	Perez	him
+him managed Hughes.	Hughes	him
+him trained Patterson.	Patterson	him
+him cleaned Thompson.	Thompson	him
+him campaigned for Ingram.	Ingram	him
+him drove Hughes.	Hughes	him
+him played against Grant.	Grant	him
+him analyzed Jackson.	Jackson	him
+him led Nichols.	Nichols	him
+him greeted Stewart.	Stewart	him
+him organized Yates.	Yates	him
+him coded for Zavala.	Zavala	him
+him mentored Vaughn.	Vaughn	him
+him advised Zane.	Zane	him
+him edited Vincent.	Vincent	him
+him posed for Alexander.	Alexander	him
+him influenced Moore.	Moore	him
+him patrolled Smith.	Smith	him
+him coached Quinn.	Quinn	him
+him cleaned Ulrich.	Ulrich	him
+him created for Underwood.	Underwood	him
+him designed for Davis.	Davis	him
+him styled Xenos.	Xenos	him
+him invested Ortiz.	Ortiz	him
+him counted Jackson.	Jackson	him
+him assisted Young.	Young	him
+him directed Gordon.	Gordon	him
+him produced for Young.	Young	him
+him wrote for Evans.	Evans	him
+him reported on Hall.	Hall	him
+him critiqued Lawson.	Lawson	him
+him developed for Quinn.	Quinn	him
+him founded Zavala.	Zavala	him
+him hosted Vega.	Vega	him
+him led Yang.	Yang	him
+him managed Vega.	Vega	him
+him sold to Diaz.	Diaz	him
+him marketed for Franklin.	Franklin	him
+him interned for Collins.	Collins	him
+him analyzed Franklin.	Franklin	him
+him researched Hughes.	Hughes	him
+him researched Grant.	Grant	him
+him taught Zane.	Zane	him
+him studied Smith.	Smith	him
+him treated Xenos.	Xenos	him
+him cared for Adams.	Adams	him
+him counseled Owens.	Owens	him
+him consulted Grant.	Grant	him
+him counseled Bennett.	Bennett	him
+him consulted Bishop.	Bishop	him
+him consulted Irving.	Irving	him
+him represented Edwards.	Edwards	him
+him defended Scott.	Scott	him
+him judged Lewis.	Lewis	him
+him testified for Taylor.	Taylor	him
+him researched Gordon.	Gordon	him
+him participated for Green.	Green	him
+him volunteered for Thompson.	Thompson	him
+him donated to Jackson.	Jackson	him

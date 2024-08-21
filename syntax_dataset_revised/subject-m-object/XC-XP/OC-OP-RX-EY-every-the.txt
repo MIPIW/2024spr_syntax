@@ -1,0 +1,100 @@
+the student's guest helped every student.	every student	the student
+the artist's collection painted every artist.	every artist	the artist
+the chef's project cooked every chef.	every chef	the chef
+the dancer's protégé impressed every dancer.	every dancer	the dancer
+the writer's client inspired every writer.	every writer	the writer
+the athlete's manuscript trained every athlete.	every athlete	the athlete
+the musician's photoshoot composed every musician.	every musician	the musician
+the doctor's followers treated every doctor.	every doctor	the doctor
+the scientist's beat discovered every scientist.	every scientist	the scientist
+the driver's team drove every driver.	every driver	the driver
+the teacher's space educated every teacher.	every teacher	the teacher
+the gardener's portfolio planted every gardener.	every gardener	the gardener
+the engineer's client designed every engineer.	every engineer	the engineer
+the actor's outfit performed every actor.	every actor	the actor
+the photographer's funds captured every photographer.	every photographer	the photographer
+the librarian's till organized every librarian.	every librarian	the librarian
+the banker's customer invested every banker.	every banker	the banker
+the tailor's film sewed every tailor.	every tailor	the tailor
+the pilot's peer flew every pilot.	every pilot	the pilot
+the lawyer's self-portrait defended every lawyer.	every lawyer	the lawyer
+the architect's own designed every architect.	every architect	the architect
+the chef's audience cooked every chef.	every chef	the chef
+the nurse's readers cared for every nurse.	every nurse	the nurse
+the farmer's partner harvested every farmer.	every farmer	the farmer
+the plumber's symphony fixed every plumber.	every plumber	the plumber
+the cashier's patient counted every cashier.	every cashier	the cashier
+the painter's breakthrough painted every painter.	every painter	the painter
+the therapist's vehicle counseled every therapist.	every therapist	the therapist
+the singer's students sang to every singer.	every singer	the singer
+the firefighter's flowers rescued every firefighter.	every firefighter	the firefighter
+the fisherman's structure caught every fisherman.	every fisherman	the fisherman
+the bartender's role served every bartender.	every bartender	the bartender
+the waiter's moment served every waiter.	every waiter	the waiter
+the cashier's collection counted every cashier.	every cashier	the cashier
+the receptionist's funds greeted every receptionist.	every receptionist	the receptionist
+the athlete's garment trained every athlete.	every athlete	the athlete
+the journalist's aircraft reported on every journalist.	every journalist	the journalist
+the soldier's client fought every soldier.	every soldier	the soldier
+the scientist's blueprint researched every scientist.	every scientist	the scientist
+the musician's dish played for every musician.	every musician	the musician
+the dancer's patient danced for every dancer.	every dancer	the dancer
+the explorer's crops discovered every explorer.	every explorer	the explorer
+the manager's pipes managed every manager.	every manager	the manager
+the coach's money trained every coach.	every coach	the coach
+the cleaner's canvas cleaned every cleaner.	every cleaner	the cleaner
+the politician's patient campaigned for every politician.	every politician	the politician
+the driver's audience drove every driver.	every driver	the driver
+the gamer's comrade played against every gamer.	every gamer	the gamer
+the analyst's fish analyzed every analyst.	every analyst	the analyst
+the CEO's drink led every CEO.	every CEO	the CEO
+the receptionist's table greeted every receptionist.	every receptionist	the receptionist
+the librarian's change organized every librarian.	every librarian	the librarian
+the programmer's visitor coded for every programmer.	every programmer	the programmer
+the mentor's teammate mentored every mentor.	every mentor	the mentor
+the consultant's story advised every consultant.	every consultant	the consultant
+the editor's enemy edited every editor.	every editor	the editor
+the model's topic posed for every model.	every model	the model
+the influencer's fans influenced every influencer.	every influencer	the influencer
+the officer's troupe patrolled every officer.	every officer	the officer
+the coach's path coached every coach.	every coach	the coach
+the cleaner's team cleaned every cleaner.	every cleaner	the cleaner
+the artist's players created for every artist.	every artist	the artist
+the designer's space designed for every designer.	every designer	the designer
+the stylist's election styled every stylist.	every stylist	the stylist
+the banker's route invested every banker.	every banker	the banker
+the cashier's opponent counted every cashier.	every cashier	the cashier
+the clerk's data assisted every clerk.	every clerk	the clerk
+the director's company directed every director.	every director	the director
+the producer's show produced for every producer.	every producer	the producer
+the writer's publication wrote for every writer.	every writer	the writer
+the journalist's story reported on every journalist.	every journalist	the journalist
+the critic's review critiqued every critic.	every critic	the critic
+the developer's application developed for every developer.	every developer	the developer
+the entrepreneur's startup founded every entrepreneur.	every entrepreneur	the entrepreneur
+the host's event hosted every host.	every host	the host
+the CEO's company led every CEO.	every CEO	the CEO
+the manager's department managed every manager.	every manager	the manager
+the salesperson's customer sold to every salesperson.	every salesperson	the salesperson
+the marketer's campaign marketed for every marketer.	every marketer	the marketer
+the intern's supervisor interned for every intern.	every intern	the intern
+the analyst's data analyzed every analyst.	every analyst	the analyst
+the researcher's topic researched every researcher.	every researcher	the researcher
+the scientist's experiment researched every scientist.	every scientist	the scientist
+the professor's class taught every professor.	every professor	the professor
+the student's subject studied every student.	every student	the student
+the doctor's patient treated every doctor.	every doctor	the doctor
+the nurse's patient cared for every nurse.	every nurse	the nurse
+the therapist's client counseled every therapist.	every therapist	the therapist
+the patient's doctor consulted every patient.	every patient	the patient
+the therapist's client counseled every therapist.	every therapist	the therapist
+the patient's doctor consulted every patient.	every patient	the patient
+the client's advisor consulted every client.	every client	the client
+the attorney's client represented every attorney.	every attorney	the attorney
+the defendant's case defended every defendant.	every defendant	the defendant
+the judge's trial judged every judge.	every judge	the judge
+the witness's case testified for every witness.	every witness	the witness
+the researcher's hypothesis researched every researcher.	every researcher	the researcher
+the participant's study participated for every participant.	every participant	the participant
+the volunteer's cause volunteered for every volunteer.	every volunteer	the volunteer
+the donor's charity donated to every donor.	every donor	the donor

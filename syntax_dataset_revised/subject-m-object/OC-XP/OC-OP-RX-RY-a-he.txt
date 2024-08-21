@@ -1,0 +1,100 @@
+him, A student helped.	A student	him
+him, A artist painted.	A artist	him
+him, A chef cooked.	A chef	him
+him, A dancer impressed.	A dancer	him
+him, A writer inspired.	A writer	him
+him, A athlete trained.	A athlete	him
+him, A musician composed.	A musician	him
+him, A doctor treated.	A doctor	him
+him, A scientist discovered.	A scientist	him
+him, A driver drove.	A driver	him
+him, A teacher educated.	A teacher	him
+him, A gardener planted.	A gardener	him
+him, A engineer designed.	A engineer	him
+him, A actor performed.	A actor	him
+him, A photographer captured.	A photographer	him
+him, A librarian organized.	A librarian	him
+him, A banker invested.	A banker	him
+him, A tailor sewed.	A tailor	him
+him, A pilot flew.	A pilot	him
+him, A lawyer defended.	A lawyer	him
+him, A architect designed.	A architect	him
+him, A chef cooked.	A chef	him
+him, A nurse cared for.	A nurse	him
+him, A farmer harvested.	A farmer	him
+him, A plumber fixed.	A plumber	him
+him, A cashier counted.	A cashier	him
+him, A painter painted.	A painter	him
+him, A therapist counseled.	A therapist	him
+him, A singer sang to.	A singer	him
+him, A firefighter rescued.	A firefighter	him
+him, A fisherman caught.	A fisherman	him
+him, A bartender served.	A bartender	him
+him, A waiter served.	A waiter	him
+him, A cashier counted.	A cashier	him
+him, A receptionist greeted.	A receptionist	him
+him, A athlete trained.	A athlete	him
+him, A journalist reported on.	A journalist	him
+him, A soldier fought.	A soldier	him
+him, A scientist researched.	A scientist	him
+him, A musician played for.	A musician	him
+him, A dancer danced for.	A dancer	him
+him, A explorer discovered.	A explorer	him
+him, A manager managed.	A manager	him
+him, A coach trained.	A coach	him
+him, A cleaner cleaned.	A cleaner	him
+him, A politician campaigned for.	A politician	him
+him, A driver drove.	A driver	him
+him, A gamer played against.	A gamer	him
+him, A analyst analyzed.	A analyst	him
+him, A CEO led.	A CEO	him
+him, A receptionist greeted.	A receptionist	him
+him, A librarian organized.	A librarian	him
+him, A programmer coded for.	A programmer	him
+him, A mentor mentored.	A mentor	him
+him, A consultant advised.	A consultant	him
+him, A editor edited.	A editor	him
+him, A model posed for.	A model	him
+him, A influencer influenced.	A influencer	him
+him, A officer patrolled.	A officer	him
+him, A coach coached.	A coach	him
+him, A cleaner cleaned.	A cleaner	him
+him, A artist created for.	A artist	him
+him, A designer designed for.	A designer	him
+him, A stylist styled.	A stylist	him
+him, A banker invested.	A banker	him
+him, A cashier counted.	A cashier	him
+him, A clerk assisted.	A clerk	him
+him, A director directed.	A director	him
+him, A producer produced for.	A producer	him
+him, A writer wrote for.	A writer	him
+him, A journalist reported on.	A journalist	him
+him, A critic critiqued.	A critic	him
+him, A developer developed for.	A developer	him
+him, A entrepreneur founded.	A entrepreneur	him
+him, A host hosted.	A host	him
+him, A CEO led.	A CEO	him
+him, A manager managed.	A manager	him
+him, A salesperson sold to.	A salesperson	him
+him, A marketer marketed for.	A marketer	him
+him, A intern interned for.	A intern	him
+him, A analyst analyzed.	A analyst	him
+him, A researcher researched.	A researcher	him
+him, A scientist researched.	A scientist	him
+him, A professor taught.	A professor	him
+him, A student studied.	A student	him
+him, A doctor treated.	A doctor	him
+him, A nurse cared for.	A nurse	him
+him, A therapist counseled.	A therapist	him
+him, A patient consulted.	A patient	him
+him, A therapist counseled.	A therapist	him
+him, A patient consulted.	A patient	him
+him, A client consulted.	A client	him
+him, A attorney represented.	A attorney	him
+him, A defendant defended.	A defendant	him
+him, A judge judged.	A judge	him
+him, A witness testified for.	A witness	him
+him, A researcher researched.	A researcher	him
+him, A participant participated for.	A participant	him
+him, A volunteer volunteered for.	A volunteer	him
+him, A donor donated to.	A donor	him

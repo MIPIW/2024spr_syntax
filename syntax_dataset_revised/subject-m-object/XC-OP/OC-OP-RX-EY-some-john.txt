@@ -1,0 +1,100 @@
+some student, Johnson's guest helped.	some student	Johnson
+some artist, Smith's collection painted.	some artist	Smith
+some chef, Brown's project cooked.	some chef	Brown
+some dancer, Davis's protégé impressed.	some dancer	Davis
+some writer, Miller's client inspired.	some writer	Miller
+some athlete, Wilson's manuscript trained.	some athlete	Wilson
+some musician, Moore's photoshoot composed.	some musician	Moore
+some doctor, Taylor's followers treated.	some doctor	Taylor
+some scientist, Anderson's beat discovered.	some scientist	Anderson
+some driver, Thomas's team drove.	some driver	Thomas
+some teacher, Jackson's space educated.	some teacher	Jackson
+some gardener, White's portfolio planted.	some gardener	White
+some engineer, Harris's client designed.	some engineer	Harris
+some actor, Martin's outfit performed.	some actor	Martin
+some photographer, Thompson's funds captured.	some photographer	Thompson
+some librarian, Martinez's till organized.	some librarian	Martinez
+some banker, Garcia's customer invested.	some banker	Garcia
+some tailor, Robinson's film sewed.	some tailor	Robinson
+some pilot, Clark's peer flew.	some pilot	Clark
+some lawyer, Rodriguez's self-portrait defended.	some lawyer	Rodriguez
+some architect, Lewis's own designed.	some architect	Lewis
+some chef, Lee's audience cooked.	some chef	Lee
+some nurse, Walker's readers cared for.	some nurse	Walker
+some farmer, Hall's partner harvested.	some farmer	Hall
+some plumber, Allen's symphony fixed.	some plumber	Allen
+some cashier, Young's patient counted.	some cashier	Young
+some painter, King's breakthrough painted.	some painter	King
+some therapist, Wright's vehicle counseled.	some therapist	Wright
+some singer, Scott's students sang to.	some singer	Scott
+some firefighter, Green's flowers rescued.	some firefighter	Green
+some fisherman, Adams's structure caught.	some fisherman	Adams
+some bartender, Baker's role served.	some bartender	Baker
+some waiter, Gonzalez's moment served.	some waiter	Gonzalez
+some cashier, Nelson's collection counted.	some cashier	Nelson
+some receptionist, Carter's funds greeted.	some receptionist	Carter
+some athlete, Mitchell's garment trained.	some athlete	Mitchell
+some journalist, Perez's aircraft reported on.	some journalist	Perez
+some soldier, Roberts's client fought.	some soldier	Roberts
+some scientist, Turner's blueprint researched.	some scientist	Turner
+some musician, Phillips's dish played for.	some musician	Phillips
+some dancer, Campbell's patient danced for.	some dancer	Campbell
+some explorer, Parker's crops discovered.	some explorer	Parker
+some manager, Evans's pipes managed.	some manager	Evans
+some coach, Edwards's money trained.	some coach	Edwards
+some cleaner, Collins's canvas cleaned.	some cleaner	Collins
+some politician, Stewart's patient campaigned for.	some politician	Stewart
+some driver, Sanchez's audience drove.	some driver	Sanchez
+some gamer, Morris's comrade played against.	some gamer	Morris
+some analyst, Rogers's fish analyzed.	some analyst	Rogers
+some CEO, Cook's drink led.	some CEO	Cook
+some receptionist, Reed's table greeted.	some receptionist	Reed
+some librarian, Morgan's change organized.	some librarian	Morgan
+some programmer, Bell's visitor coded for.	some programmer	Bell
+some mentor, Cooper's teammate mentored.	some mentor	Cooper
+some consultant, Richardson's story advised.	some consultant	Richardson
+some editor, Cox's enemy edited.	some editor	Cox
+some model, Howard's topic posed for.	some model	Howard
+some influencer, Ward's fans influenced.	some influencer	Ward
+some officer, Torres's troupe patrolled.	some officer	Torres
+some coach, Peterson's path coached.	some coach	Peterson
+some cleaner, Gray's team cleaned.	some cleaner	Gray
+some artist, Ramirez's players created for.	some artist	Ramirez
+some designer, James's space designed for.	some designer	James
+some stylist, Watson's election styled.	some stylist	Watson
+some banker, Brooks's route invested.	some banker	Brooks
+some cashier, Kelly's opponent counted.	some cashier	Kelly
+some clerk, Sanders's data assisted.	some clerk	Sanders
+some director, Price's company directed.	some director	Price
+some producer, Bennett's show produced for.	some producer	Bennett
+some writer, Wood's publication wrote for.	some writer	Wood
+some journalist, Barnes's story reported on.	some journalist	Barnes
+some critic, Ross's review critiqued.	some critic	Ross
+some developer, Henderson's application developed for.	some developer	Henderson
+some entrepreneur, Coleman's startup founded.	some entrepreneur	Coleman
+some host, Jenkins's event hosted.	some host	Jenkins
+some CEO, Perry's company led.	some CEO	Perry
+some manager, Powell's department managed.	some manager	Powell
+some salesperson, Long's customer sold to.	some salesperson	Long
+some marketer, Patterson's campaign marketed for.	some marketer	Patterson
+some intern, Hughes's supervisor interned for.	some intern	Hughes
+some analyst, Flores's data analyzed.	some analyst	Flores
+some researcher, Washington's topic researched.	some researcher	Washington
+some scientist, Butler's experiment researched.	some scientist	Butler
+some professor, Johnson's class taught.	some professor	Johnson
+some student, Martinez's subject studied.	some student	Martinez
+some doctor, Robinson's patient treated.	some doctor	Robinson
+some nurse, Thompson's patient cared for.	some nurse	Thompson
+some therapist, Clark's client counseled.	some therapist	Clark
+some patient, Rodriguez's doctor consulted.	some patient	Rodriguez
+some therapist, Lewis's client counseled.	some therapist	Lewis
+some patient, Lee's doctor consulted.	some patient	Lee
+some client, Walker's advisor consulted.	some client	Walker
+some attorney, Hall's client represented.	some attorney	Hall
+some defendant, Allen's case defended.	some defendant	Allen
+some judge, Young's trial judged.	some judge	Young
+some witness, King's case testified for.	some witness	King
+some researcher, Wright's hypothesis researched.	some researcher	Wright
+some participant, Green's study participated for.	some participant	Green
+some volunteer, Adams's cause volunteered for.	some volunteer	Adams
+some donor, Baker's charity donated to.	some donor	Baker

@@ -1,0 +1,100 @@
+he, Johnson helped.	he	Johnson
+he, Smith painted.	he	Smith
+he, Brown cooked.	he	Brown
+he, Davis impressed.	he	Davis
+he, Miller inspired.	he	Miller
+he, Wilson trained.	he	Wilson
+he, Moore composed.	he	Moore
+he, Taylor treated.	he	Taylor
+he, Anderson discovered.	he	Anderson
+he, Thomas drove.	he	Thomas
+he, Jackson educated.	he	Jackson
+he, White planted.	he	White
+he, Harris designed.	he	Harris
+he, Martin performed.	he	Martin
+he, Thompson captured.	he	Thompson
+he, Martinez organized.	he	Martinez
+he, Garcia invested.	he	Garcia
+he, Robinson sewed.	he	Robinson
+he, Clark flew.	he	Clark
+he, Rodriguez defended.	he	Rodriguez
+he, Lewis designed.	he	Lewis
+he, Lee cooked.	he	Lee
+he, Walker cared for.	he	Walker
+he, Hall harvested.	he	Hall
+he, Allen fixed.	he	Allen
+he, Young counted.	he	Young
+he, King painted.	he	King
+he, Wright counseled.	he	Wright
+he, Scott sang to.	he	Scott
+he, Green rescued.	he	Green
+he, Adams caught.	he	Adams
+he, Baker served.	he	Baker
+he, Gonzalez served.	he	Gonzalez
+he, Nelson counted.	he	Nelson
+he, Carter greeted.	he	Carter
+he, Mitchell trained.	he	Mitchell
+he, Perez reported on.	he	Perez
+he, Roberts fought.	he	Roberts
+he, Turner researched.	he	Turner
+he, Phillips played for.	he	Phillips
+he, Campbell danced for.	he	Campbell
+he, Parker discovered.	he	Parker
+he, Evans managed.	he	Evans
+he, Edwards trained.	he	Edwards
+he, Collins cleaned.	he	Collins
+he, Stewart campaigned for.	he	Stewart
+he, Sanchez drove.	he	Sanchez
+he, Morris played against.	he	Morris
+he, Rogers analyzed.	he	Rogers
+he, Cook led.	he	Cook
+he, Reed greeted.	he	Reed
+he, Morgan organized.	he	Morgan
+he, Bell coded for.	he	Bell
+he, Cooper mentored.	he	Cooper
+he, Richardson advised.	he	Richardson
+he, Cox edited.	he	Cox
+he, Howard posed for.	he	Howard
+he, Ward influenced.	he	Ward
+he, Torres patrolled.	he	Torres
+he, Peterson coached.	he	Peterson
+he, Gray cleaned.	he	Gray
+he, Ramirez created for.	he	Ramirez
+he, James designed for.	he	James
+he, Watson styled.	he	Watson
+he, Brooks invested.	he	Brooks
+he, Kelly counted.	he	Kelly
+he, Sanders assisted.	he	Sanders
+he, Price directed.	he	Price
+he, Bennett produced for.	he	Bennett
+he, Wood wrote for.	he	Wood
+he, Barnes reported on.	he	Barnes
+he, Ross critiqued.	he	Ross
+he, Henderson developed for.	he	Henderson
+he, Coleman founded.	he	Coleman
+he, Jenkins hosted.	he	Jenkins
+he, Perry led.	he	Perry
+he, Powell managed.	he	Powell
+he, Long sold to.	he	Long
+he, Patterson marketed for.	he	Patterson
+he, Hughes interned for.	he	Hughes
+he, Flores analyzed.	he	Flores
+he, Washington researched.	he	Washington
+he, Butler researched.	he	Butler
+he, Johnson taught.	he	Johnson
+he, Martinez studied.	he	Martinez
+he, Robinson treated.	he	Robinson
+he, Thompson cared for.	he	Thompson
+he, Clark counseled.	he	Clark
+he, Rodriguez consulted.	he	Rodriguez
+he, Lewis counseled.	he	Lewis
+he, Lee consulted.	he	Lee
+he, Walker consulted.	he	Walker
+he, Hall represented.	he	Hall
+he, Allen defended.	he	Allen
+he, Young judged.	he	Young
+he, King testified for.	he	King
+he, Wright researched.	he	Wright
+he, Green participated for.	he	Green
+he, Adams volunteered for.	he	Adams
+he, Baker donated to.	he	Baker

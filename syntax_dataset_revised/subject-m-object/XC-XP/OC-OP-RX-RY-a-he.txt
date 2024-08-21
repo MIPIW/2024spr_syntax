@@ -1,0 +1,100 @@
+him helped A student.	A student	him
+him painted A artist.	A artist	him
+him cooked A chef.	A chef	him
+him impressed A dancer.	A dancer	him
+him inspired A writer.	A writer	him
+him trained A athlete.	A athlete	him
+him composed A musician.	A musician	him
+him treated A doctor.	A doctor	him
+him discovered A scientist.	A scientist	him
+him drove A driver.	A driver	him
+him educated A teacher.	A teacher	him
+him planted A gardener.	A gardener	him
+him designed A engineer.	A engineer	him
+him performed A actor.	A actor	him
+him captured A photographer.	A photographer	him
+him organized A librarian.	A librarian	him
+him invested A banker.	A banker	him
+him sewed A tailor.	A tailor	him
+him flew A pilot.	A pilot	him
+him defended A lawyer.	A lawyer	him
+him designed A architect.	A architect	him
+him cooked A chef.	A chef	him
+him cared for A nurse.	A nurse	him
+him harvested A farmer.	A farmer	him
+him fixed A plumber.	A plumber	him
+him counted A cashier.	A cashier	him
+him painted A painter.	A painter	him
+him counseled A therapist.	A therapist	him
+him sang to A singer.	A singer	him
+him rescued A firefighter.	A firefighter	him
+him caught A fisherman.	A fisherman	him
+him served A bartender.	A bartender	him
+him served A waiter.	A waiter	him
+him counted A cashier.	A cashier	him
+him greeted A receptionist.	A receptionist	him
+him trained A athlete.	A athlete	him
+him reported on A journalist.	A journalist	him
+him fought A soldier.	A soldier	him
+him researched A scientist.	A scientist	him
+him played for A musician.	A musician	him
+him danced for A dancer.	A dancer	him
+him discovered A explorer.	A explorer	him
+him managed A manager.	A manager	him
+him trained A coach.	A coach	him
+him cleaned A cleaner.	A cleaner	him
+him campaigned for A politician.	A politician	him
+him drove A driver.	A driver	him
+him played against A gamer.	A gamer	him
+him analyzed A analyst.	A analyst	him
+him led A CEO.	A CEO	him
+him greeted A receptionist.	A receptionist	him
+him organized A librarian.	A librarian	him
+him coded for A programmer.	A programmer	him
+him mentored A mentor.	A mentor	him
+him advised A consultant.	A consultant	him
+him edited A editor.	A editor	him
+him posed for A model.	A model	him
+him influenced A influencer.	A influencer	him
+him patrolled A officer.	A officer	him
+him coached A coach.	A coach	him
+him cleaned A cleaner.	A cleaner	him
+him created for A artist.	A artist	him
+him designed for A designer.	A designer	him
+him styled A stylist.	A stylist	him
+him invested A banker.	A banker	him
+him counted A cashier.	A cashier	him
+him assisted A clerk.	A clerk	him
+him directed A director.	A director	him
+him produced for A producer.	A producer	him
+him wrote for A writer.	A writer	him
+him reported on A journalist.	A journalist	him
+him critiqued A critic.	A critic	him
+him developed for A developer.	A developer	him
+him founded A entrepreneur.	A entrepreneur	him
+him hosted A host.	A host	him
+him led A CEO.	A CEO	him
+him managed A manager.	A manager	him
+him sold to A salesperson.	A salesperson	him
+him marketed for A marketer.	A marketer	him
+him interned for A intern.	A intern	him
+him analyzed A analyst.	A analyst	him
+him researched A researcher.	A researcher	him
+him researched A scientist.	A scientist	him
+him taught A professor.	A professor	him
+him studied A student.	A student	him
+him treated A doctor.	A doctor	him
+him cared for A nurse.	A nurse	him
+him counseled A therapist.	A therapist	him
+him consulted A patient.	A patient	him
+him counseled A therapist.	A therapist	him
+him consulted A patient.	A patient	him
+him consulted A client.	A client	him
+him represented A attorney.	A attorney	him
+him defended A defendant.	A defendant	him
+him judged A judge.	A judge	him
+him testified for A witness.	A witness	him
+him researched A researcher.	A researcher	him
+him participated for A participant.	A participant	him
+him volunteered for A volunteer.	A volunteer	him
+him donated to A donor.	A donor	him

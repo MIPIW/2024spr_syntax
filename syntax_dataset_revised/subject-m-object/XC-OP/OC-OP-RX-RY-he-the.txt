@@ -1,0 +1,100 @@
+he, the student helped.	he	the student
+he, the artist painted.	he	the artist
+he, the chef cooked.	he	the chef
+he, the dancer impressed.	he	the dancer
+he, the writer inspired.	he	the writer
+he, the athlete trained.	he	the athlete
+he, the musician composed.	he	the musician
+he, the doctor treated.	he	the doctor
+he, the scientist discovered.	he	the scientist
+he, the driver drove.	he	the driver
+he, the teacher educated.	he	the teacher
+he, the gardener planted.	he	the gardener
+he, the engineer designed.	he	the engineer
+he, the actor performed.	he	the actor
+he, the photographer captured.	he	the photographer
+he, the librarian organized.	he	the librarian
+he, the banker invested.	he	the banker
+he, the tailor sewed.	he	the tailor
+he, the pilot flew.	he	the pilot
+he, the lawyer defended.	he	the lawyer
+he, the architect designed.	he	the architect
+he, the chef cooked.	he	the chef
+he, the nurse cared for.	he	the nurse
+he, the farmer harvested.	he	the farmer
+he, the plumber fixed.	he	the plumber
+he, the cashier counted.	he	the cashier
+he, the painter painted.	he	the painter
+he, the therapist counseled.	he	the therapist
+he, the singer sang to.	he	the singer
+he, the firefighter rescued.	he	the firefighter
+he, the fisherman caught.	he	the fisherman
+he, the bartender served.	he	the bartender
+he, the waiter served.	he	the waiter
+he, the cashier counted.	he	the cashier
+he, the receptionist greeted.	he	the receptionist
+he, the athlete trained.	he	the athlete
+he, the journalist reported on.	he	the journalist
+he, the soldier fought.	he	the soldier
+he, the scientist researched.	he	the scientist
+he, the musician played for.	he	the musician
+he, the dancer danced for.	he	the dancer
+he, the explorer discovered.	he	the explorer
+he, the manager managed.	he	the manager
+he, the coach trained.	he	the coach
+he, the cleaner cleaned.	he	the cleaner
+he, the politician campaigned for.	he	the politician
+he, the driver drove.	he	the driver
+he, the gamer played against.	he	the gamer
+he, the analyst analyzed.	he	the analyst
+he, the CEO led.	he	the CEO
+he, the receptionist greeted.	he	the receptionist
+he, the librarian organized.	he	the librarian
+he, the programmer coded for.	he	the programmer
+he, the mentor mentored.	he	the mentor
+he, the consultant advised.	he	the consultant
+he, the editor edited.	he	the editor
+he, the model posed for.	he	the model
+he, the influencer influenced.	he	the influencer
+he, the officer patrolled.	he	the officer
+he, the coach coached.	he	the coach
+he, the cleaner cleaned.	he	the cleaner
+he, the artist created for.	he	the artist
+he, the designer designed for.	he	the designer
+he, the stylist styled.	he	the stylist
+he, the banker invested.	he	the banker
+he, the cashier counted.	he	the cashier
+he, the clerk assisted.	he	the clerk
+he, the director directed.	he	the director
+he, the producer produced for.	he	the producer
+he, the writer wrote for.	he	the writer
+he, the journalist reported on.	he	the journalist
+he, the critic critiqued.	he	the critic
+he, the developer developed for.	he	the developer
+he, the entrepreneur founded.	he	the entrepreneur
+he, the host hosted.	he	the host
+he, the CEO led.	he	the CEO
+he, the manager managed.	he	the manager
+he, the salesperson sold to.	he	the salesperson
+he, the marketer marketed for.	he	the marketer
+he, the intern interned for.	he	the intern
+he, the analyst analyzed.	he	the analyst
+he, the researcher researched.	he	the researcher
+he, the scientist researched.	he	the scientist
+he, the professor taught.	he	the professor
+he, the student studied.	he	the student
+he, the doctor treated.	he	the doctor
+he, the nurse cared for.	he	the nurse
+he, the therapist counseled.	he	the therapist
+he, the patient consulted.	he	the patient
+he, the therapist counseled.	he	the therapist
+he, the patient consulted.	he	the patient
+he, the client consulted.	he	the client
+he, the attorney represented.	he	the attorney
+he, the defendant defended.	he	the defendant
+he, the judge judged.	he	the judge
+he, the witness testified for.	he	the witness
+he, the researcher researched.	he	the researcher
+he, the participant participated for.	he	the participant
+he, the volunteer volunteered for.	he	the volunteer
+he, the donor donated to.	he	the donor

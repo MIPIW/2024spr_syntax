@@ -1,0 +1,100 @@
+some student helped, a student's guest.	some student	a student
+some artist painted, a artist's collection.	some artist	a artist
+some chef cooked, a chef's project.	some chef	a chef
+some dancer impressed, a dancer's protégé.	some dancer	a dancer
+some writer inspired, a writer's client.	some writer	a writer
+some athlete trained, a athlete's manuscript.	some athlete	a athlete
+some musician composed, a musician's photoshoot.	some musician	a musician
+some doctor treated, a doctor's followers.	some doctor	a doctor
+some scientist discovered, a scientist's beat.	some scientist	a scientist
+some driver drove, a driver's team.	some driver	a driver
+some teacher educated, a teacher's space.	some teacher	a teacher
+some gardener planted, a gardener's portfolio.	some gardener	a gardener
+some engineer designed, a engineer's client.	some engineer	a engineer
+some actor performed, a actor's outfit.	some actor	a actor
+some photographer captured, a photographer's funds.	some photographer	a photographer
+some librarian organized, a librarian's till.	some librarian	a librarian
+some banker invested, a banker's customer.	some banker	a banker
+some tailor sewed, a tailor's film.	some tailor	a tailor
+some pilot flew, a pilot's peer.	some pilot	a pilot
+some lawyer defended, a lawyer's self-portrait.	some lawyer	a lawyer
+some architect designed, a architect's own.	some architect	a architect
+some chef cooked, a chef's audience.	some chef	a chef
+some nurse cared for, a nurse's readers.	some nurse	a nurse
+some farmer harvested, a farmer's partner.	some farmer	a farmer
+some plumber fixed, a plumber's symphony.	some plumber	a plumber
+some cashier counted, a cashier's patient.	some cashier	a cashier
+some painter painted, a painter's breakthrough.	some painter	a painter
+some therapist counseled, a therapist's vehicle.	some therapist	a therapist
+some singer sang to, a singer's students.	some singer	a singer
+some firefighter rescued, a firefighter's flowers.	some firefighter	a firefighter
+some fisherman caught, a fisherman's structure.	some fisherman	a fisherman
+some bartender served, a bartender's role.	some bartender	a bartender
+some waiter served, a waiter's moment.	some waiter	a waiter
+some cashier counted, a cashier's collection.	some cashier	a cashier
+some receptionist greeted, a receptionist's funds.	some receptionist	a receptionist
+some athlete trained, a athlete's garment.	some athlete	a athlete
+some journalist reported on, a journalist's aircraft.	some journalist	a journalist
+some soldier fought, a soldier's client.	some soldier	a soldier
+some scientist researched, a scientist's blueprint.	some scientist	a scientist
+some musician played for, a musician's dish.	some musician	a musician
+some dancer danced for, a dancer's patient.	some dancer	a dancer
+some explorer discovered, a explorer's crops.	some explorer	a explorer
+some manager managed, a manager's pipes.	some manager	a manager
+some coach trained, a coach's money.	some coach	a coach
+some cleaner cleaned, a cleaner's canvas.	some cleaner	a cleaner
+some politician campaigned for, a politician's patient.	some politician	a politician
+some driver drove, a driver's audience.	some driver	a driver
+some gamer played against, a gamer's comrade.	some gamer	a gamer
+some analyst analyzed, a analyst's fish.	some analyst	a analyst
+some CEO led, a CEO's drink.	some CEO	a CEO
+some receptionist greeted, a receptionist's table.	some receptionist	a receptionist
+some librarian organized, a librarian's change.	some librarian	a librarian
+some programmer coded for, a programmer's visitor.	some programmer	a programmer
+some mentor mentored, a mentor's teammate.	some mentor	a mentor
+some consultant advised, a consultant's story.	some consultant	a consultant
+some editor edited, a editor's enemy.	some editor	a editor
+some model posed for, a model's topic.	some model	a model
+some influencer influenced, a influencer's fans.	some influencer	a influencer
+some officer patrolled, a officer's troupe.	some officer	a officer
+some coach coached, a coach's path.	some coach	a coach
+some cleaner cleaned, a cleaner's team.	some cleaner	a cleaner
+some artist created for, a artist's players.	some artist	a artist
+some designer designed for, a designer's space.	some designer	a designer
+some stylist styled, a stylist's election.	some stylist	a stylist
+some banker invested, a banker's route.	some banker	a banker
+some cashier counted, a cashier's opponent.	some cashier	a cashier
+some clerk assisted, a clerk's data.	some clerk	a clerk
+some director directed, a director's company.	some director	a director
+some producer produced for, a producer's show.	some producer	a producer
+some writer wrote for, a writer's publication.	some writer	a writer
+some journalist reported on, a journalist's story.	some journalist	a journalist
+some critic critiqued, a critic's review.	some critic	a critic
+some developer developed for, a developer's application.	some developer	a developer
+some entrepreneur founded, a entrepreneur's startup.	some entrepreneur	a entrepreneur
+some host hosted, a host's event.	some host	a host
+some CEO led, a CEO's company.	some CEO	a CEO
+some manager managed, a manager's department.	some manager	a manager
+some salesperson sold to, a salesperson's customer.	some salesperson	a salesperson
+some marketer marketed for, a marketer's campaign.	some marketer	a marketer
+some intern interned for, a intern's supervisor.	some intern	a intern
+some analyst analyzed, a analyst's data.	some analyst	a analyst
+some researcher researched, a researcher's topic.	some researcher	a researcher
+some scientist researched, a scientist's experiment.	some scientist	a scientist
+some professor taught, a professor's class.	some professor	a professor
+some student studied, a student's subject.	some student	a student
+some doctor treated, a doctor's patient.	some doctor	a doctor
+some nurse cared for, a nurse's patient.	some nurse	a nurse
+some therapist counseled, a therapist's client.	some therapist	a therapist
+some patient consulted, a patient's doctor.	some patient	a patient
+some therapist counseled, a therapist's client.	some therapist	a therapist
+some patient consulted, a patient's doctor.	some patient	a patient
+some client consulted, a client's advisor.	some client	a client
+some attorney represented, a attorney's client.	some attorney	a attorney
+some defendant defended, a defendant's case.	some defendant	a defendant
+some judge judged, a judge's trial.	some judge	a judge
+some witness testified for, a witness's case.	some witness	a witness
+some researcher researched, a researcher's hypothesis.	some researcher	a researcher
+some participant participated for, a participant's study.	some participant	a participant
+some volunteer volunteered for, a volunteer's cause.	some volunteer	a volunteer
+some donor donated to, a donor's charity.	some donor	a donor

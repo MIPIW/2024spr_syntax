@@ -1,0 +1,100 @@
+Johnson, some student helped.	some student	Johnson
+Smith, some artist painted.	some artist	Smith
+Brown, some chef cooked.	some chef	Brown
+Davis, some dancer impressed.	some dancer	Davis
+Miller, some writer inspired.	some writer	Miller
+Wilson, some athlete trained.	some athlete	Wilson
+Moore, some musician composed.	some musician	Moore
+Taylor, some doctor treated.	some doctor	Taylor
+Anderson, some scientist discovered.	some scientist	Anderson
+Thomas, some driver drove.	some driver	Thomas
+Jackson, some teacher educated.	some teacher	Jackson
+White, some gardener planted.	some gardener	White
+Harris, some engineer designed.	some engineer	Harris
+Martin, some actor performed.	some actor	Martin
+Thompson, some photographer captured.	some photographer	Thompson
+Martinez, some librarian organized.	some librarian	Martinez
+Garcia, some banker invested.	some banker	Garcia
+Robinson, some tailor sewed.	some tailor	Robinson
+Clark, some pilot flew.	some pilot	Clark
+Rodriguez, some lawyer defended.	some lawyer	Rodriguez
+Lewis, some architect designed.	some architect	Lewis
+Lee, some chef cooked.	some chef	Lee
+Walker, some nurse cared for.	some nurse	Walker
+Hall, some farmer harvested.	some farmer	Hall
+Allen, some plumber fixed.	some plumber	Allen
+Young, some cashier counted.	some cashier	Young
+King, some painter painted.	some painter	King
+Wright, some therapist counseled.	some therapist	Wright
+Scott, some singer sang to.	some singer	Scott
+Green, some firefighter rescued.	some firefighter	Green
+Adams, some fisherman caught.	some fisherman	Adams
+Baker, some bartender served.	some bartender	Baker
+Gonzalez, some waiter served.	some waiter	Gonzalez
+Nelson, some cashier counted.	some cashier	Nelson
+Carter, some receptionist greeted.	some receptionist	Carter
+Mitchell, some athlete trained.	some athlete	Mitchell
+Perez, some journalist reported on.	some journalist	Perez
+Roberts, some soldier fought.	some soldier	Roberts
+Turner, some scientist researched.	some scientist	Turner
+Phillips, some musician played for.	some musician	Phillips
+Campbell, some dancer danced for.	some dancer	Campbell
+Parker, some explorer discovered.	some explorer	Parker
+Evans, some manager managed.	some manager	Evans
+Edwards, some coach trained.	some coach	Edwards
+Collins, some cleaner cleaned.	some cleaner	Collins
+Stewart, some politician campaigned for.	some politician	Stewart
+Sanchez, some driver drove.	some driver	Sanchez
+Morris, some gamer played against.	some gamer	Morris
+Rogers, some analyst analyzed.	some analyst	Rogers
+Cook, some CEO led.	some CEO	Cook
+Reed, some receptionist greeted.	some receptionist	Reed
+Morgan, some librarian organized.	some librarian	Morgan
+Bell, some programmer coded for.	some programmer	Bell
+Cooper, some mentor mentored.	some mentor	Cooper
+Richardson, some consultant advised.	some consultant	Richardson
+Cox, some editor edited.	some editor	Cox
+Howard, some model posed for.	some model	Howard
+Ward, some influencer influenced.	some influencer	Ward
+Torres, some officer patrolled.	some officer	Torres
+Peterson, some coach coached.	some coach	Peterson
+Gray, some cleaner cleaned.	some cleaner	Gray
+Ramirez, some artist created for.	some artist	Ramirez
+James, some designer designed for.	some designer	James
+Watson, some stylist styled.	some stylist	Watson
+Brooks, some banker invested.	some banker	Brooks
+Kelly, some cashier counted.	some cashier	Kelly
+Sanders, some clerk assisted.	some clerk	Sanders
+Price, some director directed.	some director	Price
+Bennett, some producer produced for.	some producer	Bennett
+Wood, some writer wrote for.	some writer	Wood
+Barnes, some journalist reported on.	some journalist	Barnes
+Ross, some critic critiqued.	some critic	Ross
+Henderson, some developer developed for.	some developer	Henderson
+Coleman, some entrepreneur founded.	some entrepreneur	Coleman
+Jenkins, some host hosted.	some host	Jenkins
+Perry, some CEO led.	some CEO	Perry
+Powell, some manager managed.	some manager	Powell
+Long, some salesperson sold to.	some salesperson	Long
+Patterson, some marketer marketed for.	some marketer	Patterson
+Hughes, some intern interned for.	some intern	Hughes
+Flores, some analyst analyzed.	some analyst	Flores
+Washington, some researcher researched.	some researcher	Washington
+Butler, some scientist researched.	some scientist	Butler
+Johnson, some professor taught.	some professor	Johnson
+Martinez, some student studied.	some student	Martinez
+Robinson, some doctor treated.	some doctor	Robinson
+Thompson, some nurse cared for.	some nurse	Thompson
+Clark, some therapist counseled.	some therapist	Clark
+Rodriguez, some patient consulted.	some patient	Rodriguez
+Lewis, some therapist counseled.	some therapist	Lewis
+Lee, some patient consulted.	some patient	Lee
+Walker, some client consulted.	some client	Walker
+Hall, some attorney represented.	some attorney	Hall
+Allen, some defendant defended.	some defendant	Allen
+Young, some judge judged.	some judge	Young
+King, some witness testified for.	some witness	King
+Wright, some researcher researched.	some researcher	Wright
+Green, some participant participated for.	some participant	Green
+Adams, some volunteer volunteered for.	some volunteer	Adams
+Baker, some donor donated to.	some donor	Baker

@@ -1,0 +1,100 @@
+he, him helped.	he	him
+he, him painted.	he	him
+he, him cooked.	he	him
+he, him impressed.	he	him
+he, him inspired.	he	him
+he, him trained.	he	him
+he, him composed.	he	him
+he, him treated.	he	him
+he, him discovered.	he	him
+he, him drove.	he	him
+he, him educated.	he	him
+he, him planted.	he	him
+he, him designed.	he	him
+he, him performed.	he	him
+he, him captured.	he	him
+he, him organized.	he	him
+he, him invested.	he	him
+he, him sewed.	he	him
+he, him flew.	he	him
+he, him defended.	he	him
+he, him designed.	he	him
+he, him cooked.	he	him
+he, him cared for.	he	him
+he, him harvested.	he	him
+he, him fixed.	he	him
+he, him counted.	he	him
+he, him painted.	he	him
+he, him counseled.	he	him
+he, him sang to.	he	him
+he, him rescued.	he	him
+he, him caught.	he	him
+he, him served.	he	him
+he, him served.	he	him
+he, him counted.	he	him
+he, him greeted.	he	him
+he, him trained.	he	him
+he, him reported on.	he	him
+he, him fought.	he	him
+he, him researched.	he	him
+he, him played for.	he	him
+he, him danced for.	he	him
+he, him discovered.	he	him
+he, him managed.	he	him
+he, him trained.	he	him
+he, him cleaned.	he	him
+he, him campaigned for.	he	him
+he, him drove.	he	him
+he, him played against.	he	him
+he, him analyzed.	he	him
+he, him led.	he	him
+he, him greeted.	he	him
+he, him organized.	he	him
+he, him coded for.	he	him
+he, him mentored.	he	him
+he, him advised.	he	him
+he, him edited.	he	him
+he, him posed for.	he	him
+he, him influenced.	he	him
+he, him patrolled.	he	him
+he, him coached.	he	him
+he, him cleaned.	he	him
+he, him created for.	he	him
+he, him designed for.	he	him
+he, him styled.	he	him
+he, him invested.	he	him
+he, him counted.	he	him
+he, him assisted.	he	him
+he, him directed.	he	him
+he, him produced for.	he	him
+he, him wrote for.	he	him
+he, him reported on.	he	him
+he, him critiqued.	he	him
+he, him developed for.	he	him
+he, him founded.	he	him
+he, him hosted.	he	him
+he, him led.	he	him
+he, him managed.	he	him
+he, him sold to.	he	him
+he, him marketed for.	he	him
+he, him interned for.	he	him
+he, him analyzed.	he	him
+he, him researched.	he	him
+he, him researched.	he	him
+he, him taught.	he	him
+he, him studied.	he	him
+he, him treated.	he	him
+he, him cared for.	he	him
+he, him counseled.	he	him
+he, him consulted.	he	him
+he, him counseled.	he	him
+he, him consulted.	he	him
+he, him consulted.	he	him
+he, him represented.	he	him
+he, him defended.	he	him
+he, him judged.	he	him
+he, him testified for.	he	him
+he, him researched.	he	him
+he, him participated for.	he	him
+he, him volunteered for.	he	him
+he, him donated to.	he	him

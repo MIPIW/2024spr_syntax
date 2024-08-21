@@ -1,0 +1,100 @@
+Johnson helped every student.	every student	Johnson
+Smith painted every artist.	every artist	Smith
+Brown cooked every chef.	every chef	Brown
+Davis impressed every dancer.	every dancer	Davis
+Miller inspired every writer.	every writer	Miller
+Wilson trained every athlete.	every athlete	Wilson
+Moore composed every musician.	every musician	Moore
+Taylor treated every doctor.	every doctor	Taylor
+Anderson discovered every scientist.	every scientist	Anderson
+Thomas drove every driver.	every driver	Thomas
+Jackson educated every teacher.	every teacher	Jackson
+White planted every gardener.	every gardener	White
+Harris designed every engineer.	every engineer	Harris
+Martin performed every actor.	every actor	Martin
+Thompson captured every photographer.	every photographer	Thompson
+Martinez organized every librarian.	every librarian	Martinez
+Garcia invested every banker.	every banker	Garcia
+Robinson sewed every tailor.	every tailor	Robinson
+Clark flew every pilot.	every pilot	Clark
+Rodriguez defended every lawyer.	every lawyer	Rodriguez
+Lewis designed every architect.	every architect	Lewis
+Lee cooked every chef.	every chef	Lee
+Walker cared for every nurse.	every nurse	Walker
+Hall harvested every farmer.	every farmer	Hall
+Allen fixed every plumber.	every plumber	Allen
+Young counted every cashier.	every cashier	Young
+King painted every painter.	every painter	King
+Wright counseled every therapist.	every therapist	Wright
+Scott sang to every singer.	every singer	Scott
+Green rescued every firefighter.	every firefighter	Green
+Adams caught every fisherman.	every fisherman	Adams
+Baker served every bartender.	every bartender	Baker
+Gonzalez served every waiter.	every waiter	Gonzalez
+Nelson counted every cashier.	every cashier	Nelson
+Carter greeted every receptionist.	every receptionist	Carter
+Mitchell trained every athlete.	every athlete	Mitchell
+Perez reported on every journalist.	every journalist	Perez
+Roberts fought every soldier.	every soldier	Roberts
+Turner researched every scientist.	every scientist	Turner
+Phillips played for every musician.	every musician	Phillips
+Campbell danced for every dancer.	every dancer	Campbell
+Parker discovered every explorer.	every explorer	Parker
+Evans managed every manager.	every manager	Evans
+Edwards trained every coach.	every coach	Edwards
+Collins cleaned every cleaner.	every cleaner	Collins
+Stewart campaigned for every politician.	every politician	Stewart
+Sanchez drove every driver.	every driver	Sanchez
+Morris played against every gamer.	every gamer	Morris
+Rogers analyzed every analyst.	every analyst	Rogers
+Cook led every CEO.	every CEO	Cook
+Reed greeted every receptionist.	every receptionist	Reed
+Morgan organized every librarian.	every librarian	Morgan
+Bell coded for every programmer.	every programmer	Bell
+Cooper mentored every mentor.	every mentor	Cooper
+Richardson advised every consultant.	every consultant	Richardson
+Cox edited every editor.	every editor	Cox
+Howard posed for every model.	every model	Howard
+Ward influenced every influencer.	every influencer	Ward
+Torres patrolled every officer.	every officer	Torres
+Peterson coached every coach.	every coach	Peterson
+Gray cleaned every cleaner.	every cleaner	Gray
+Ramirez created for every artist.	every artist	Ramirez
+James designed for every designer.	every designer	James
+Watson styled every stylist.	every stylist	Watson
+Brooks invested every banker.	every banker	Brooks
+Kelly counted every cashier.	every cashier	Kelly
+Sanders assisted every clerk.	every clerk	Sanders
+Price directed every director.	every director	Price
+Bennett produced for every producer.	every producer	Bennett
+Wood wrote for every writer.	every writer	Wood
+Barnes reported on every journalist.	every journalist	Barnes
+Ross critiqued every critic.	every critic	Ross
+Henderson developed for every developer.	every developer	Henderson
+Coleman founded every entrepreneur.	every entrepreneur	Coleman
+Jenkins hosted every host.	every host	Jenkins
+Perry led every CEO.	every CEO	Perry
+Powell managed every manager.	every manager	Powell
+Long sold to every salesperson.	every salesperson	Long
+Patterson marketed for every marketer.	every marketer	Patterson
+Hughes interned for every intern.	every intern	Hughes
+Flores analyzed every analyst.	every analyst	Flores
+Washington researched every researcher.	every researcher	Washington
+Butler researched every scientist.	every scientist	Butler
+Johnson taught every professor.	every professor	Johnson
+Martinez studied every student.	every student	Martinez
+Robinson treated every doctor.	every doctor	Robinson
+Thompson cared for every nurse.	every nurse	Thompson
+Clark counseled every therapist.	every therapist	Clark
+Rodriguez consulted every patient.	every patient	Rodriguez
+Lewis counseled every therapist.	every therapist	Lewis
+Lee consulted every patient.	every patient	Lee
+Walker consulted every client.	every client	Walker
+Hall represented every attorney.	every attorney	Hall
+Allen defended every defendant.	every defendant	Allen
+Young judged every judge.	every judge	Young
+King testified for every witness.	every witness	King
+Wright researched every researcher.	every researcher	Wright
+Green participated for every participant.	every participant	Green
+Adams volunteered for every volunteer.	every volunteer	Adams
+Baker donated to every donor.	every donor	Baker

@@ -1,0 +1,100 @@
+some student, Johnson helped.	some student	Johnson
+some artist, Smith painted.	some artist	Smith
+some chef, Brown cooked.	some chef	Brown
+some dancer, Davis impressed.	some dancer	Davis
+some writer, Miller inspired.	some writer	Miller
+some athlete, Wilson trained.	some athlete	Wilson
+some musician, Moore composed.	some musician	Moore
+some doctor, Taylor treated.	some doctor	Taylor
+some scientist, Anderson discovered.	some scientist	Anderson
+some driver, Thomas drove.	some driver	Thomas
+some teacher, Jackson educated.	some teacher	Jackson
+some gardener, White planted.	some gardener	White
+some engineer, Harris designed.	some engineer	Harris
+some actor, Martin performed.	some actor	Martin
+some photographer, Thompson captured.	some photographer	Thompson
+some librarian, Martinez organized.	some librarian	Martinez
+some banker, Garcia invested.	some banker	Garcia
+some tailor, Robinson sewed.	some tailor	Robinson
+some pilot, Clark flew.	some pilot	Clark
+some lawyer, Rodriguez defended.	some lawyer	Rodriguez
+some architect, Lewis designed.	some architect	Lewis
+some chef, Lee cooked.	some chef	Lee
+some nurse, Walker cared for.	some nurse	Walker
+some farmer, Hall harvested.	some farmer	Hall
+some plumber, Allen fixed.	some plumber	Allen
+some cashier, Young counted.	some cashier	Young
+some painter, King painted.	some painter	King
+some therapist, Wright counseled.	some therapist	Wright
+some singer, Scott sang to.	some singer	Scott
+some firefighter, Green rescued.	some firefighter	Green
+some fisherman, Adams caught.	some fisherman	Adams
+some bartender, Baker served.	some bartender	Baker
+some waiter, Gonzalez served.	some waiter	Gonzalez
+some cashier, Nelson counted.	some cashier	Nelson
+some receptionist, Carter greeted.	some receptionist	Carter
+some athlete, Mitchell trained.	some athlete	Mitchell
+some journalist, Perez reported on.	some journalist	Perez
+some soldier, Roberts fought.	some soldier	Roberts
+some scientist, Turner researched.	some scientist	Turner
+some musician, Phillips played for.	some musician	Phillips
+some dancer, Campbell danced for.	some dancer	Campbell
+some explorer, Parker discovered.	some explorer	Parker
+some manager, Evans managed.	some manager	Evans
+some coach, Edwards trained.	some coach	Edwards
+some cleaner, Collins cleaned.	some cleaner	Collins
+some politician, Stewart campaigned for.	some politician	Stewart
+some driver, Sanchez drove.	some driver	Sanchez
+some gamer, Morris played against.	some gamer	Morris
+some analyst, Rogers analyzed.	some analyst	Rogers
+some CEO, Cook led.	some CEO	Cook
+some receptionist, Reed greeted.	some receptionist	Reed
+some librarian, Morgan organized.	some librarian	Morgan
+some programmer, Bell coded for.	some programmer	Bell
+some mentor, Cooper mentored.	some mentor	Cooper
+some consultant, Richardson advised.	some consultant	Richardson
+some editor, Cox edited.	some editor	Cox
+some model, Howard posed for.	some model	Howard
+some influencer, Ward influenced.	some influencer	Ward
+some officer, Torres patrolled.	some officer	Torres
+some coach, Peterson coached.	some coach	Peterson
+some cleaner, Gray cleaned.	some cleaner	Gray
+some artist, Ramirez created for.	some artist	Ramirez
+some designer, James designed for.	some designer	James
+some stylist, Watson styled.	some stylist	Watson
+some banker, Brooks invested.	some banker	Brooks
+some cashier, Kelly counted.	some cashier	Kelly
+some clerk, Sanders assisted.	some clerk	Sanders
+some director, Price directed.	some director	Price
+some producer, Bennett produced for.	some producer	Bennett
+some writer, Wood wrote for.	some writer	Wood
+some journalist, Barnes reported on.	some journalist	Barnes
+some critic, Ross critiqued.	some critic	Ross
+some developer, Henderson developed for.	some developer	Henderson
+some entrepreneur, Coleman founded.	some entrepreneur	Coleman
+some host, Jenkins hosted.	some host	Jenkins
+some CEO, Perry led.	some CEO	Perry
+some manager, Powell managed.	some manager	Powell
+some salesperson, Long sold to.	some salesperson	Long
+some marketer, Patterson marketed for.	some marketer	Patterson
+some intern, Hughes interned for.	some intern	Hughes
+some analyst, Flores analyzed.	some analyst	Flores
+some researcher, Washington researched.	some researcher	Washington
+some scientist, Butler researched.	some scientist	Butler
+some professor, Johnson taught.	some professor	Johnson
+some student, Martinez studied.	some student	Martinez
+some doctor, Robinson treated.	some doctor	Robinson
+some nurse, Thompson cared for.	some nurse	Thompson
+some therapist, Clark counseled.	some therapist	Clark
+some patient, Rodriguez consulted.	some patient	Rodriguez
+some therapist, Lewis counseled.	some therapist	Lewis
+some patient, Lee consulted.	some patient	Lee
+some client, Walker consulted.	some client	Walker
+some attorney, Hall represented.	some attorney	Hall
+some defendant, Allen defended.	some defendant	Allen
+some judge, Young judged.	some judge	Young
+some witness, King testified for.	some witness	King
+some researcher, Wright researched.	some researcher	Wright
+some participant, Green participated for.	some participant	Green
+some volunteer, Adams volunteered for.	some volunteer	Adams
+some donor, Baker donated to.	some donor	Baker

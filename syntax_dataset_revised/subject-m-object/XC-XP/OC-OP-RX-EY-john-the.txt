@@ -1,0 +1,100 @@
+the student's guest helped Bishop.	Bishop	the student
+the artist's collection painted Walker.	Walker	the artist
+the chef's project cooked Zimmerman.	Zimmerman	the chef
+the dancer's protégé impressed Vasquez.	Vasquez	the dancer
+the writer's client inspired Underwood.	Underwood	the writer
+the athlete's manuscript trained Zeller.	Zeller	the athlete
+the musician's photoshoot composed Peterson.	Peterson	the musician
+the doctor's followers treated Diaz.	Diaz	the doctor
+the scientist's beat discovered Bennett.	Bennett	the scientist
+the driver's team drove Green.	Green	the driver
+the teacher's space educated Lopez.	Lopez	the teacher
+the gardener's portfolio planted Vincent.	Vincent	the gardener
+the engineer's client designed Nichols.	Nichols	the engineer
+the actor's outfit performed Sanders.	Sanders	the actor
+the photographer's funds captured Davis.	Davis	the photographer
+the librarian's till organized Davis.	Davis	the librarian
+the banker's customer invested Vasquez.	Vasquez	the banker
+the tailor's film sewed Vincent.	Vincent	the tailor
+the pilot's peer flew Green.	Green	the pilot
+the lawyer's self-portrait defended Owens.	Owens	the lawyer
+the architect's own designed Vasquez.	Vasquez	the architect
+the chef's audience cooked Kelly.	Kelly	the chef
+the nurse's readers cared for Barrett.	Barrett	the nurse
+the farmer's partner harvested Clark.	Clark	the farmer
+the plumber's symphony fixed Nguyen.	Nguyen	the plumber
+the cashier's patient counted Turner.	Turner	the cashier
+the painter's breakthrough painted Diaz.	Diaz	the painter
+the therapist's vehicle counseled Harris.	Harris	the therapist
+the singer's students sang to Peterson.	Peterson	the singer
+the firefighter's flowers rescued Foster.	Foster	the firefighter
+the fisherman's structure caught Ramirez.	Ramirez	the fisherman
+the bartender's role served Hughes.	Hughes	the bartender
+the waiter's moment served Bennett.	Bennett	the waiter
+the cashier's collection counted Lopez.	Lopez	the cashier
+the receptionist's funds greeted Perez.	Perez	the receptionist
+the athlete's garment trained Underwood.	Underwood	the athlete
+the journalist's aircraft reported on Martinez.	Martinez	the journalist
+the soldier's client fought Stewart.	Stewart	the soldier
+the scientist's blueprint researched Zimmerman.	Zimmerman	the scientist
+the musician's dish played for Vincent.	Vincent	the musician
+the dancer's patient danced for Owens.	Owens	the dancer
+the explorer's crops discovered Parker.	Parker	the explorer
+the manager's pipes managed Quinn.	Quinn	the manager
+the coach's money trained Carter.	Carter	the coach
+the cleaner's canvas cleaned Collins.	Collins	the cleaner
+the politician's patient campaigned for Xander.	Xander	the politician
+the driver's audience drove Norris.	Norris	the driver
+the gamer's comrade played against Thompson.	Thompson	the gamer
+the analyst's fish analyzed Diaz.	Diaz	the analyst
+the CEO's drink led Johnson.	Johnson	the CEO
+the receptionist's table greeted Johnson.	Johnson	the receptionist
+the librarian's change organized Jenkins.	Jenkins	the librarian
+the programmer's visitor coded for Owens.	Owens	the programmer
+the mentor's teammate mentored Usher.	Usher	the mentor
+the consultant's story advised Jenkins.	Jenkins	the consultant
+the editor's enemy edited Freeman.	Freeman	the editor
+the model's topic posed for Underwood.	Underwood	the model
+the influencer's fans influenced Baker.	Baker	the influencer
+the officer's troupe patrolled Adams.	Adams	the officer
+the coach's path coached Zeller.	Zeller	the coach
+the cleaner's team cleaned Walker.	Walker	the cleaner
+the artist's players created for York.	York	the artist
+the designer's space designed for Johnson.	Johnson	the designer
+the stylist's election styled Ellis.	Ellis	the stylist
+the banker's route invested Vaughn.	Vaughn	the banker
+the cashier's opponent counted York.	York	the cashier
+the clerk's data assisted Mitchell.	Mitchell	the clerk
+the director's company directed Underhill.	Underhill	the director
+the producer's show produced for Douglas.	Douglas	the producer
+the writer's publication wrote for Barrett.	Barrett	the writer
+the journalist's story reported on Edwards.	Edwards	the journalist
+the critic's review critiqued Xu.	Xu	the critic
+the developer's application developed for Zavala.	Zavala	the developer
+the entrepreneur's startup founded Ulrich.	Ulrich	the entrepreneur
+the host's event hosted Knight.	Knight	the host
+the CEO's company led Lewis.	Lewis	the CEO
+the manager's department managed Zane.	Zane	the manager
+the salesperson's customer sold to Hughes.	Hughes	the salesperson
+the marketer's campaign marketed for Underhill.	Underhill	the marketer
+the intern's supervisor interned for Allen.	Allen	the intern
+the analyst's data analyzed Quinn.	Quinn	the analyst
+the researcher's topic researched Garcia.	Garcia	the researcher
+the scientist's experiment researched Reed.	Reed	the scientist
+the professor's class taught Patterson.	Patterson	the professor
+the student's subject studied Dixon.	Dixon	the student
+the doctor's patient treated Dixon.	Dixon	the doctor
+the nurse's patient cared for Bishop.	Bishop	the nurse
+the therapist's client counseled Johnson.	Johnson	the therapist
+the patient's doctor consulted Zane.	Zane	the patient
+the therapist's client counseled Underwood.	Underwood	the therapist
+the patient's doctor consulted Ward.	Ward	the patient
+the client's advisor consulted Nguyen.	Nguyen	the client
+the attorney's client represented Patterson.	Patterson	the attorney
+the defendant's case defended Zimmerman.	Zimmerman	the defendant
+the judge's trial judged Ward.	Ward	the judge
+the witness's case testified for Alexander.	Alexander	the witness
+the researcher's hypothesis researched Xu.	Xu	the researcher
+the participant's study participated for Underhill.	Underhill	the participant
+the volunteer's cause volunteered for Campbell.	Campbell	the volunteer
+the donor's charity donated to Miller.	Miller	the donor

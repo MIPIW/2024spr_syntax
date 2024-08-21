@@ -1,0 +1,90 @@
+themes which resonate with the poet's soul, he writes verses with.	he	the poet
+plants which delight the gardener's senses, he tends gardens with.	he	the gardener
+movements which inspire the dancer's passion, he performs routines with.	he	the dancer
+logic which challenges the programmer's intellect, he codes programs with.	he	the programmer
+values which shape the parent's character, he raises children with.	he	the parent
+techniques which empower the psychologist's practice, he conducts therapy with.	he	the psychologist
+methods which heal the doctor's spirit, he treats patients with.	he	the doctor
+melodies which captivate the musician's audience, he plays instruments with.	he	the musician
+recipes which satisfy the chef's taste, he prepares meals with.	he	the chef
+stories which intrigue the filmmaker's imagination, he directs movies with.	he	the filmmaker
+designs which impress the carpenter's craftsmanship, he builds furniture with.	he	the carpenter
+strategies which motivate the coach's team, he trains athletes with.	he	the coach
+concepts which intrigue the philosopher's mind, he explores ideas with.	he	the philosopher
+routes which challenge the driver's skills, he navigates roads with.	he	the driver
+strategies which benefit the accountant's portfolio, he manages finances with.	he	the accountant
+points which persuade the lawyer's clients, he argues cases with.	he	the lawyer
+techniques which sell to the salesperson's customers, he pitches products with.	he	the salesperson
+stories which engage the journalist's readers, he reports news with.	he	the journalist
+efforts which fulfill the volunteer's purpose, he helps communities with.	he	the volunteer
+methodologies which yield results for the researcher's inquiries, he conducts studies with.	he	the researcher
+emotions which resonate with the singer's heart, he performs songs with.	he	the singer
+depth which impresses the actor's audience, he portrays characters with.	he	the actor
+empathy which touches the nurse's compassion, he cares for patients with.	he	the nurse
+bravery which defines the firefighter's courage, he tackles fires with.	he	the firefighter
+compassion which defines the social worker's commitment, he worker assists clients with.	he	social worker
+expertise which benefits the consultant's practice, he advises clients with.	he	the consultant
+tactics which energize the coach's players, he motivates teams with.	he	the coach
+styles which define the stylist's aesthetic, he creates looks with.	he	the stylist
+strokes which define the painter's creativity, he creates art with.	he	the painter
+perspectives which intrigue the philosopher's thoughts, he ponders questions with.	he	the philosopher
+strategies which benefit the banker's bank, he manages finances with.	he	the banker
+approaches which heal the therapist's practice, he counsels clients with.	he	the therapist
+methods which comfort the veterinarian's patients, he cares for animals with.	he	the veterinarian
+concepts which inspire the architect's vision, he designs buildings with.	he	the architect
+styles which define the florist's arrangements, he arranges flowers with.	he	the florist
+techniques which satisfy the plumber's expertise, he fixes pipes with.	he	the plumber
+methods which inspire the teacher's teaching, he educates students with.	he	the teacher
+skills which define the mechanic's craftsmanship, he repairs vehicles with.	he	the mechanic
+care which defines the caregiver's dedication, he supports individuals with.	he	the caregiver
+methodologies which define the scientist's research, he conducts experiments with.	he	the scientist
+accuracy which defines the translator's precision, he interprets languages with.	he	the translator
+strategies which define the CEO's leadership, he leads companies with.	he	the CEO
+systems which define the librarian's library, he organizes resources with.	he	the librarian
+vigilance which defines the lifeguard's responsibility, he monitors pools with.	he	the lifeguard
+services which define the flight attendant's hospitality, he attendant assists passengers with.	he	flight attendant
+warmth which defines the receptionist's friendliness, he greets visitors with.	he	the receptionist
+vigilance which defines the security guard's diligence, he guard patrols areas with.	he	security guard
+caution which defines the lifeguard's watchfulness, he monitors beaches with.	he	the lifeguard
+methods which define the therapist's practice, he counsels clients with.	he	the therapist
+precision which defines the scientist's research, he conducts experiments with.	he	the scientist
+dedication which defines the teacher's commitment, he educates students with.	he	the teacher
+flavors which define the chef's culinary, he prepares dishes with.	he	the chef
+pieces which define the musician's repertoire, he performs concerts with.	he	the musician
+stories which define the author's narrative, he writes novels with.	he	the author
+techniques which define the painter's artistry, he creates artworks with.	he	the painter
+methods which define the coach's coaching, he trains athletes with.	he	the coach
+colors which inspire the artist's creativity, he paints masterpieces with.	he	the artist
+ingredients which challenge the chef's skills, he cooks dishes with.	he	the chef
+characters which intrigue the writer's imagination, he pens novels with.	he	the writer
+subjects which fascinate the photographer's vision, he captures moments with.	he	the photographer
+hypotheses which puzzle the scientist's curiosity, he conducts experiments with.	he	the scientist
+methods which engage the teacher's enthusiasm, he educates students with.	he	the teacher
+songs which move the musician's audience, he performs concerts with.	he	the musician
+routines which challenge the athlete's endurance, he trains with.	he	the athlete
+designs which excite the designer's creativity, he creates fashion with.	he	the designer
+algorithms which challenge the programmer's logic, he codes software with.	he	the programmer
+perspectives which define the photographer's style, he captures images with.	he	the photographer
+techniques which define the therapist's approach, he counsels clients with.	he	the therapist
+concepts which define the engineer's ingenuity, he designs structures with.	he	the engineer
+care which defines the doctor's compassion, he treats patients with.	he	the doctor
+styles which define the designer's vision, he creates fashion with.	he	the designer
+songs which define the musician's talent, he performs concerts with.	he	the musician
+narratives which define the writer's voice, he pens stories with.	he	the writer
+methods which define the scientist's rigor, he conducts research with.	he	the scientist
+methods which define the teacher's teaching, he educates students with.	he	the teacher
+ingredients which define the chef's cuisine, he prepares meals with.	he	the chef
+techniques which define the photographer's expertise, he captures moments with.	he	the photographer
+approaches which define the therapist's practice, he counsels clients with.	he	the therapist
+pieces which define the musician's artistry, he performs concerts with.	he	the musician
+styles which define the artist's expression, he creates sculptures with.	he	the artist
+visions which define the filmmaker's storytelling, he directs films with.	he	the filmmaker
+designs which define the designer's brand, he creates fashion with.	he	the designer
+flavors which define the chef's palate, he cooks meals with.	he	the chef
+music which define the musician's performance, he performs concerts with.	he	the musician
+narratives which define the writer's creativity, he pens stories with.	he	the writer
+methods which define the scientist's field, he conducts experiments with.	he	the scientist
+techniques which define the teacher's pedagogy, he educates students with.	he	the teacher
+techniques which define the therapist's expertise, he counsels clients with.	he	the therapist
+pieces which define the musician's collection, he performs concerts with.	he	the musician
+ingredients which define the chef's signature, he prepares dishes with.	he	the chef

@@ -1,0 +1,100 @@
+the student helped a student's guest.	the student	a student
+the artist painted a artist's collection.	the artist	a artist
+the chef cooked a chef's project.	the chef	a chef
+the dancer impressed a dancer's protégé.	the dancer	a dancer
+the writer inspired a writer's client.	the writer	a writer
+the athlete trained a athlete's manuscript.	the athlete	a athlete
+the musician composed a musician's photoshoot.	the musician	a musician
+the doctor treated a doctor's followers.	the doctor	a doctor
+the scientist discovered a scientist's beat.	the scientist	a scientist
+the driver drove a driver's team.	the driver	a driver
+the teacher educated a teacher's space.	the teacher	a teacher
+the gardener planted a gardener's portfolio.	the gardener	a gardener
+the engineer designed a engineer's client.	the engineer	a engineer
+the actor performed a actor's outfit.	the actor	a actor
+the photographer captured a photographer's funds.	the photographer	a photographer
+the librarian organized a librarian's till.	the librarian	a librarian
+the banker invested a banker's customer.	the banker	a banker
+the tailor sewed a tailor's film.	the tailor	a tailor
+the pilot flew a pilot's peer.	the pilot	a pilot
+the lawyer defended a lawyer's self-portrait.	the lawyer	a lawyer
+the architect designed a architect's own.	the architect	a architect
+the chef cooked a chef's audience.	the chef	a chef
+the nurse cared for a nurse's readers.	the nurse	a nurse
+the farmer harvested a farmer's partner.	the farmer	a farmer
+the plumber fixed a plumber's symphony.	the plumber	a plumber
+the cashier counted a cashier's patient.	the cashier	a cashier
+the painter painted a painter's breakthrough.	the painter	a painter
+the therapist counseled a therapist's vehicle.	the therapist	a therapist
+the singer sang to a singer's students.	the singer	a singer
+the firefighter rescued a firefighter's flowers.	the firefighter	a firefighter
+the fisherman caught a fisherman's structure.	the fisherman	a fisherman
+the bartender served a bartender's role.	the bartender	a bartender
+the waiter served a waiter's moment.	the waiter	a waiter
+the cashier counted a cashier's collection.	the cashier	a cashier
+the receptionist greeted a receptionist's funds.	the receptionist	a receptionist
+the athlete trained a athlete's garment.	the athlete	a athlete
+the journalist reported on a journalist's aircraft.	the journalist	a journalist
+the soldier fought a soldier's client.	the soldier	a soldier
+the scientist researched a scientist's blueprint.	the scientist	a scientist
+the musician played for a musician's dish.	the musician	a musician
+the dancer danced for a dancer's patient.	the dancer	a dancer
+the explorer discovered a explorer's crops.	the explorer	a explorer
+the manager managed a manager's pipes.	the manager	a manager
+the coach trained a coach's money.	the coach	a coach
+the cleaner cleaned a cleaner's canvas.	the cleaner	a cleaner
+the politician campaigned for a politician's patient.	the politician	a politician
+the driver drove a driver's audience.	the driver	a driver
+the gamer played against a gamer's comrade.	the gamer	a gamer
+the analyst analyzed a analyst's fish.	the analyst	a analyst
+the CEO led a CEO's drink.	the CEO	a CEO
+the receptionist greeted a receptionist's table.	the receptionist	a receptionist
+the librarian organized a librarian's change.	the librarian	a librarian
+the programmer coded for a programmer's visitor.	the programmer	a programmer
+the mentor mentored a mentor's teammate.	the mentor	a mentor
+the consultant advised a consultant's story.	the consultant	a consultant
+the editor edited a editor's enemy.	the editor	a editor
+the model posed for a model's topic.	the model	a model
+the influencer influenced a influencer's fans.	the influencer	a influencer
+the officer patrolled a officer's troupe.	the officer	a officer
+the coach coached a coach's path.	the coach	a coach
+the cleaner cleaned a cleaner's team.	the cleaner	a cleaner
+the artist created for a artist's players.	the artist	a artist
+the designer designed for a designer's space.	the designer	a designer
+the stylist styled a stylist's election.	the stylist	a stylist
+the banker invested a banker's route.	the banker	a banker
+the cashier counted a cashier's opponent.	the cashier	a cashier
+the clerk assisted a clerk's data.	the clerk	a clerk
+the director directed a director's company.	the director	a director
+the producer produced for a producer's show.	the producer	a producer
+the writer wrote for a writer's publication.	the writer	a writer
+the journalist reported on a journalist's story.	the journalist	a journalist
+the critic critiqued a critic's review.	the critic	a critic
+the developer developed for a developer's application.	the developer	a developer
+the entrepreneur founded a entrepreneur's startup.	the entrepreneur	a entrepreneur
+the host hosted a host's event.	the host	a host
+the CEO led a CEO's company.	the CEO	a CEO
+the manager managed a manager's department.	the manager	a manager
+the salesperson sold to a salesperson's customer.	the salesperson	a salesperson
+the marketer marketed for a marketer's campaign.	the marketer	a marketer
+the intern interned for a intern's supervisor.	the intern	a intern
+the analyst analyzed a analyst's data.	the analyst	a analyst
+the researcher researched a researcher's topic.	the researcher	a researcher
+the scientist researched a scientist's experiment.	the scientist	a scientist
+the professor taught a professor's class.	the professor	a professor
+the student studied a student's subject.	the student	a student
+the doctor treated a doctor's patient.	the doctor	a doctor
+the nurse cared for a nurse's patient.	the nurse	a nurse
+the therapist counseled a therapist's client.	the therapist	a therapist
+the patient consulted a patient's doctor.	the patient	a patient
+the therapist counseled a therapist's client.	the therapist	a therapist
+the patient consulted a patient's doctor.	the patient	a patient
+the client consulted a client's advisor.	the client	a client
+the attorney represented a attorney's client.	the attorney	a attorney
+the defendant defended a defendant's case.	the defendant	a defendant
+the judge judged a judge's trial.	the judge	a judge
+the witness testified for a witness's case.	the witness	a witness
+the researcher researched a researcher's hypothesis.	the researcher	a researcher
+the participant participated for a participant's study.	the participant	a participant
+the volunteer volunteered for a volunteer's cause.	the volunteer	a volunteer
+the donor donated to a donor's charity.	the donor	a donor

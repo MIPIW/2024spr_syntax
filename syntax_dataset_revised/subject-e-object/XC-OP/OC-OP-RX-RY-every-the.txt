@@ -1,0 +1,90 @@
+themes which resonate with every poet, the poet writes verses with.	every poet	the poet
+plants which delight every gardener, the gardener tends gardens with.	every gardener	the gardener
+movements which inspire every dancer, the dancer performs routines with.	every dancer	the dancer
+logic which challenges every programmer, the programmer codes programs with.	every programmer	the programmer
+values which shape every parent, the parent raises children with.	every parent	the parent
+techniques which empower every psychologist, the psychologist conducts therapy with.	every psychologist	the psychologist
+methods which heal every doctor, the doctor treats patients with.	every doctor	the doctor
+melodies which captivate every musician, the musician plays instruments with.	every musician	the musician
+recipes which satisfy every chef, the chef prepares meals with.	every chef	the chef
+stories which intrigue every filmmaker, the filmmaker directs movies with.	every filmmaker	the filmmaker
+designs which impress every carpenter, the carpenter builds furniture with.	every carpenter	the carpenter
+strategies which motivate every coach, the coach trains athletes with.	every coach	the coach
+concepts which intrigue every philosopher, the philosopher explores ideas with.	every philosopher	the philosopher
+routes which challenge every driver, the driver navigates roads with.	every driver	the driver
+strategies which benefit every accountant, the accountant manages finances with.	every accountant	the accountant
+points which persuade every lawyer, the lawyer argues cases with.	every lawyer	the lawyer
+techniques which sell to every salesperson, the salesperson pitches products with.	every salesperson	the salesperson
+stories which engage every journalist, the journalist reports news with.	every journalist	the journalist
+efforts which fulfill every volunteer, the volunteer helps communities with.	every volunteer	the volunteer
+methodologies which yield results for every researcher, the researcher conducts studies with.	every researcher	the researcher
+emotions which resonate with every singer, the singer performs songs with.	every singer	the singer
+depth which impresses every actor, the actor portrays characters with.	every actor	the actor
+empathy which touches every nurse, the nurse cares for patients with.	every nurse	the nurse
+bravery which defines every firefighter, the firefighter tackles fires with.	every firefighter	the firefighter
+compassion which defines the every social, social worker worker assists clients with.	every social	social worker
+expertise which benefits every consultant, the consultant advises clients with.	every consultant	the consultant
+tactics which energize every coach, the coach motivates teams with.	every coach	the coach
+styles which define every stylist, the stylist creates looks with.	every stylist	the stylist
+strokes which define every painter, the painter creates art with.	every painter	the painter
+perspectives which intrigue every philosopher, the philosopher ponders questions with.	every philosopher	the philosopher
+strategies which benefit every banker, the banker manages finances with.	every banker	the banker
+approaches which heal every therapist, the therapist counsels clients with.	every therapist	the therapist
+methods which comfort every veterinarian, the veterinarian cares for animals with.	every veterinarian	the veterinarian
+concepts which inspire every architect, the architect designs buildings with.	every architect	the architect
+styles which define every florist, the florist arranges flowers with.	every florist	the florist
+techniques which satisfy every plumber, the plumber fixes pipes with.	every plumber	the plumber
+methods which inspire every teacher, the teacher educates students with.	every teacher	the teacher
+skills which define every mechanic, the mechanic repairs vehicles with.	every mechanic	the mechanic
+care which defines every caregiver, the caregiver supports individuals with.	every caregiver	the caregiver
+methodologies which define every scientist, the scientist conducts experiments with.	every scientist	the scientist
+accuracy which defines every translator, the translator interprets languages with.	every translator	the translator
+strategies which define every CEO, the CEO leads companies with.	every CEO	the CEO
+systems which define every librarian, the librarian organizes resources with.	every librarian	the librarian
+vigilance which defines every lifeguard, the lifeguard monitors pools with.	every lifeguard	the lifeguard
+services which define the every flight, flight attendant attendant assists passengers with.	every flight	flight attendant
+warmth which defines every receptionist, the receptionist greets visitors with.	every receptionist	the receptionist
+vigilance which defines the every security, security guard guard patrols areas with.	every security	security guard
+caution which defines every lifeguard, the lifeguard monitors beaches with.	every lifeguard	the lifeguard
+methods which define every therapist, the therapist counsels clients with.	every therapist	the therapist
+precision which defines every scientist, the scientist conducts experiments with.	every scientist	the scientist
+dedication which defines every teacher, the teacher educates students with.	every teacher	the teacher
+flavors which define every chef, the chef prepares dishes with.	every chef	the chef
+pieces which define every musician, the musician performs concerts with.	every musician	the musician
+stories which define every author, the author writes novels with.	every author	the author
+techniques which define every painter, the painter creates artworks with.	every painter	the painter
+methods which define every coach, the coach trains athletes with.	every coach	the coach
+colors which inspire every artist, the artist paints masterpieces with.	every artist	the artist
+ingredients which challenge every chef, the chef cooks dishes with.	every chef	the chef
+characters which intrigue every writer, the writer pens novels with.	every writer	the writer
+subjects which fascinate every photographer, the photographer captures moments with.	every photographer	the photographer
+hypotheses which puzzle every scientist, the scientist conducts experiments with.	every scientist	the scientist
+methods which engage every teacher, the teacher educates students with.	every teacher	the teacher
+songs which move every musician, the musician performs concerts with.	every musician	the musician
+routines which challenge every athlete, the athlete trains with.	every athlete	the athlete
+designs which excite every designer, the designer creates fashion with.	every designer	the designer
+algorithms which challenge every programmer, the programmer codes software with.	every programmer	the programmer
+perspectives which define every photographer, the photographer captures images with.	every photographer	the photographer
+techniques which define every therapist, the therapist counsels clients with.	every therapist	the therapist
+concepts which define every engineer, the engineer designs structures with.	every engineer	the engineer
+care which defines every doctor, the doctor treats patients with.	every doctor	the doctor
+styles which define every designer, the designer creates fashion with.	every designer	the designer
+songs which define every musician, the musician performs concerts with.	every musician	the musician
+narratives which define every writer, the writer pens stories with.	every writer	the writer
+methods which define every scientist, the scientist conducts research with.	every scientist	the scientist
+methods which define every teacher, the teacher educates students with.	every teacher	the teacher
+ingredients which define every chef, the chef prepares meals with.	every chef	the chef
+techniques which define every photographer, the photographer captures moments with.	every photographer	the photographer
+approaches which define every therapist, the therapist counsels clients with.	every therapist	the therapist
+pieces which define every musician, the musician performs concerts with.	every musician	the musician
+styles which define every artist, the artist creates sculptures with.	every artist	the artist
+visions which define every filmmaker, the filmmaker directs films with.	every filmmaker	the filmmaker
+designs which define every designer, the designer creates fashion with.	every designer	the designer
+flavors which define every chef, the chef cooks meals with.	every chef	the chef
+music which define every musician, the musician performs concerts with.	every musician	the musician
+narratives which define every writer, the writer pens stories with.	every writer	the writer
+methods which define every scientist, the scientist conducts experiments with.	every scientist	the scientist
+techniques which define every teacher, the teacher educates students with.	every teacher	the teacher
+techniques which define every therapist, the therapist counsels clients with.	every therapist	the therapist
+pieces which define every musician, the musician performs concerts with.	every musician	the musician
+ingredients which define every chef, the chef prepares dishes with.	every chef	the chef

@@ -1,0 +1,100 @@
+some student helped Johnson's guest.	some student	Johnson
+some artist painted Smith's collection.	some artist	Smith
+some chef cooked Brown's project.	some chef	Brown
+some dancer impressed Davis's protégé.	some dancer	Davis
+some writer inspired Miller's client.	some writer	Miller
+some athlete trained Wilson's manuscript.	some athlete	Wilson
+some musician composed Moore's photoshoot.	some musician	Moore
+some doctor treated Taylor's followers.	some doctor	Taylor
+some scientist discovered Anderson's beat.	some scientist	Anderson
+some driver drove Thomas's team.	some driver	Thomas
+some teacher educated Jackson's space.	some teacher	Jackson
+some gardener planted White's portfolio.	some gardener	White
+some engineer designed Harris's client.	some engineer	Harris
+some actor performed Martin's outfit.	some actor	Martin
+some photographer captured Thompson's funds.	some photographer	Thompson
+some librarian organized Martinez's till.	some librarian	Martinez
+some banker invested Garcia's customer.	some banker	Garcia
+some tailor sewed Robinson's film.	some tailor	Robinson
+some pilot flew Clark's peer.	some pilot	Clark
+some lawyer defended Rodriguez's self-portrait.	some lawyer	Rodriguez
+some architect designed Lewis's own.	some architect	Lewis
+some chef cooked Lee's audience.	some chef	Lee
+some nurse cared for Walker's readers.	some nurse	Walker
+some farmer harvested Hall's partner.	some farmer	Hall
+some plumber fixed Allen's symphony.	some plumber	Allen
+some cashier counted Young's patient.	some cashier	Young
+some painter painted King's breakthrough.	some painter	King
+some therapist counseled Wright's vehicle.	some therapist	Wright
+some singer sang to Scott's students.	some singer	Scott
+some firefighter rescued Green's flowers.	some firefighter	Green
+some fisherman caught Adams's structure.	some fisherman	Adams
+some bartender served Baker's role.	some bartender	Baker
+some waiter served Gonzalez's moment.	some waiter	Gonzalez
+some cashier counted Nelson's collection.	some cashier	Nelson
+some receptionist greeted Carter's funds.	some receptionist	Carter
+some athlete trained Mitchell's garment.	some athlete	Mitchell
+some journalist reported on Perez's aircraft.	some journalist	Perez
+some soldier fought Roberts's client.	some soldier	Roberts
+some scientist researched Turner's blueprint.	some scientist	Turner
+some musician played for Phillips's dish.	some musician	Phillips
+some dancer danced for Campbell's patient.	some dancer	Campbell
+some explorer discovered Parker's crops.	some explorer	Parker
+some manager managed Evans's pipes.	some manager	Evans
+some coach trained Edwards's money.	some coach	Edwards
+some cleaner cleaned Collins's canvas.	some cleaner	Collins
+some politician campaigned for Stewart's patient.	some politician	Stewart
+some driver drove Sanchez's audience.	some driver	Sanchez
+some gamer played against Morris's comrade.	some gamer	Morris
+some analyst analyzed Rogers's fish.	some analyst	Rogers
+some CEO led Cook's drink.	some CEO	Cook
+some receptionist greeted Reed's table.	some receptionist	Reed
+some librarian organized Morgan's change.	some librarian	Morgan
+some programmer coded for Bell's visitor.	some programmer	Bell
+some mentor mentored Cooper's teammate.	some mentor	Cooper
+some consultant advised Richardson's story.	some consultant	Richardson
+some editor edited Cox's enemy.	some editor	Cox
+some model posed for Howard's topic.	some model	Howard
+some influencer influenced Ward's fans.	some influencer	Ward
+some officer patrolled Torres's troupe.	some officer	Torres
+some coach coached Peterson's path.	some coach	Peterson
+some cleaner cleaned Gray's team.	some cleaner	Gray
+some artist created for Ramirez's players.	some artist	Ramirez
+some designer designed for James's space.	some designer	James
+some stylist styled Watson's election.	some stylist	Watson
+some banker invested Brooks's route.	some banker	Brooks
+some cashier counted Kelly's opponent.	some cashier	Kelly
+some clerk assisted Sanders's data.	some clerk	Sanders
+some director directed Price's company.	some director	Price
+some producer produced for Bennett's show.	some producer	Bennett
+some writer wrote for Wood's publication.	some writer	Wood
+some journalist reported on Barnes's story.	some journalist	Barnes
+some critic critiqued Ross's review.	some critic	Ross
+some developer developed for Henderson's application.	some developer	Henderson
+some entrepreneur founded Coleman's startup.	some entrepreneur	Coleman
+some host hosted Jenkins's event.	some host	Jenkins
+some CEO led Perry's company.	some CEO	Perry
+some manager managed Powell's department.	some manager	Powell
+some salesperson sold to Long's customer.	some salesperson	Long
+some marketer marketed for Patterson's campaign.	some marketer	Patterson
+some intern interned for Hughes's supervisor.	some intern	Hughes
+some analyst analyzed Flores's data.	some analyst	Flores
+some researcher researched Washington's topic.	some researcher	Washington
+some scientist researched Butler's experiment.	some scientist	Butler
+some professor taught Johnson's class.	some professor	Johnson
+some student studied Martinez's subject.	some student	Martinez
+some doctor treated Robinson's patient.	some doctor	Robinson
+some nurse cared for Thompson's patient.	some nurse	Thompson
+some therapist counseled Clark's client.	some therapist	Clark
+some patient consulted Rodriguez's doctor.	some patient	Rodriguez
+some therapist counseled Lewis's client.	some therapist	Lewis
+some patient consulted Lee's doctor.	some patient	Lee
+some client consulted Walker's advisor.	some client	Walker
+some attorney represented Hall's client.	some attorney	Hall
+some defendant defended Allen's case.	some defendant	Allen
+some judge judged Young's trial.	some judge	Young
+some witness testified for King's case.	some witness	King
+some researcher researched Wright's hypothesis.	some researcher	Wright
+some participant participated for Green's study.	some participant	Green
+some volunteer volunteered for Adams's cause.	some volunteer	Adams
+some donor donated to Baker's charity.	some donor	Baker

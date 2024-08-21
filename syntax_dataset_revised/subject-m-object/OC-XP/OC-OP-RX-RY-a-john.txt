@@ -1,0 +1,100 @@
+Johnson, A student helped.	A student	Johnson
+Smith, A artist painted.	A artist	Smith
+Brown, A chef cooked.	A chef	Brown
+Davis, A dancer impressed.	A dancer	Davis
+Miller, A writer inspired.	A writer	Miller
+Wilson, A athlete trained.	A athlete	Wilson
+Moore, A musician composed.	A musician	Moore
+Taylor, A doctor treated.	A doctor	Taylor
+Anderson, A scientist discovered.	A scientist	Anderson
+Thomas, A driver drove.	A driver	Thomas
+Jackson, A teacher educated.	A teacher	Jackson
+White, A gardener planted.	A gardener	White
+Harris, A engineer designed.	A engineer	Harris
+Martin, A actor performed.	A actor	Martin
+Thompson, A photographer captured.	A photographer	Thompson
+Martinez, A librarian organized.	A librarian	Martinez
+Garcia, A banker invested.	A banker	Garcia
+Robinson, A tailor sewed.	A tailor	Robinson
+Clark, A pilot flew.	A pilot	Clark
+Rodriguez, A lawyer defended.	A lawyer	Rodriguez
+Lewis, A architect designed.	A architect	Lewis
+Lee, A chef cooked.	A chef	Lee
+Walker, A nurse cared for.	A nurse	Walker
+Hall, A farmer harvested.	A farmer	Hall
+Allen, A plumber fixed.	A plumber	Allen
+Young, A cashier counted.	A cashier	Young
+King, A painter painted.	A painter	King
+Wright, A therapist counseled.	A therapist	Wright
+Scott, A singer sang to.	A singer	Scott
+Green, A firefighter rescued.	A firefighter	Green
+Adams, A fisherman caught.	A fisherman	Adams
+Baker, A bartender served.	A bartender	Baker
+Gonzalez, A waiter served.	A waiter	Gonzalez
+Nelson, A cashier counted.	A cashier	Nelson
+Carter, A receptionist greeted.	A receptionist	Carter
+Mitchell, A athlete trained.	A athlete	Mitchell
+Perez, A journalist reported on.	A journalist	Perez
+Roberts, A soldier fought.	A soldier	Roberts
+Turner, A scientist researched.	A scientist	Turner
+Phillips, A musician played for.	A musician	Phillips
+Campbell, A dancer danced for.	A dancer	Campbell
+Parker, A explorer discovered.	A explorer	Parker
+Evans, A manager managed.	A manager	Evans
+Edwards, A coach trained.	A coach	Edwards
+Collins, A cleaner cleaned.	A cleaner	Collins
+Stewart, A politician campaigned for.	A politician	Stewart
+Sanchez, A driver drove.	A driver	Sanchez
+Morris, A gamer played against.	A gamer	Morris
+Rogers, A analyst analyzed.	A analyst	Rogers
+Cook, A CEO led.	A CEO	Cook
+Reed, A receptionist greeted.	A receptionist	Reed
+Morgan, A librarian organized.	A librarian	Morgan
+Bell, A programmer coded for.	A programmer	Bell
+Cooper, A mentor mentored.	A mentor	Cooper
+Richardson, A consultant advised.	A consultant	Richardson
+Cox, A editor edited.	A editor	Cox
+Howard, A model posed for.	A model	Howard
+Ward, A influencer influenced.	A influencer	Ward
+Torres, A officer patrolled.	A officer	Torres
+Peterson, A coach coached.	A coach	Peterson
+Gray, A cleaner cleaned.	A cleaner	Gray
+Ramirez, A artist created for.	A artist	Ramirez
+James, A designer designed for.	A designer	James
+Watson, A stylist styled.	A stylist	Watson
+Brooks, A banker invested.	A banker	Brooks
+Kelly, A cashier counted.	A cashier	Kelly
+Sanders, A clerk assisted.	A clerk	Sanders
+Price, A director directed.	A director	Price
+Bennett, A producer produced for.	A producer	Bennett
+Wood, A writer wrote for.	A writer	Wood
+Barnes, A journalist reported on.	A journalist	Barnes
+Ross, A critic critiqued.	A critic	Ross
+Henderson, A developer developed for.	A developer	Henderson
+Coleman, A entrepreneur founded.	A entrepreneur	Coleman
+Jenkins, A host hosted.	A host	Jenkins
+Perry, A CEO led.	A CEO	Perry
+Powell, A manager managed.	A manager	Powell
+Long, A salesperson sold to.	A salesperson	Long
+Patterson, A marketer marketed for.	A marketer	Patterson
+Hughes, A intern interned for.	A intern	Hughes
+Flores, A analyst analyzed.	A analyst	Flores
+Washington, A researcher researched.	A researcher	Washington
+Butler, A scientist researched.	A scientist	Butler
+Johnson, A professor taught.	A professor	Johnson
+Martinez, A student studied.	A student	Martinez
+Robinson, A doctor treated.	A doctor	Robinson
+Thompson, A nurse cared for.	A nurse	Thompson
+Clark, A therapist counseled.	A therapist	Clark
+Rodriguez, A patient consulted.	A patient	Rodriguez
+Lewis, A therapist counseled.	A therapist	Lewis
+Lee, A patient consulted.	A patient	Lee
+Walker, A client consulted.	A client	Walker
+Hall, A attorney represented.	A attorney	Hall
+Allen, A defendant defended.	A defendant	Allen
+Young, A judge judged.	A judge	Young
+King, A witness testified for.	A witness	King
+Wright, A researcher researched.	A researcher	Wright
+Green, A participant participated for.	A participant	Green
+Adams, A volunteer volunteered for.	A volunteer	Adams
+Baker, A donor donated to.	A donor	Baker

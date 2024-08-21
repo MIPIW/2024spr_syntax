@@ -1,0 +1,90 @@
+themes which resonate with the poet, some poet writes verses with.	some poet	the poet
+plants which delight the gardener, some gardener tends gardens with.	some gardener	the gardener
+movements which inspire the dancer, some dancer performs routines with.	some dancer	the dancer
+logic which challenges the programmer, some programmer codes programs with.	some programmer	the programmer
+values which shape the parent, some parent raises children with.	some parent	the parent
+techniques which empower the psychologist, some psychologist conducts therapy with.	some psychologist	the psychologist
+methods which heal the doctor, some doctor treats patients with.	some doctor	the doctor
+melodies which captivate the musician, some musician plays instruments with.	some musician	the musician
+recipes which satisfy the chef, some chef prepares meals with.	some chef	the chef
+stories which intrigue the filmmaker, some filmmaker directs movies with.	some filmmaker	the filmmaker
+designs which impress the carpenter, some carpenter builds furniture with.	some carpenter	the carpenter
+strategies which motivate the coach, some coach trains athletes with.	some coach	the coach
+concepts which intrigue the philosopher, some philosopher explores ideas with.	some philosopher	the philosopher
+routes which challenge the driver, some driver navigates roads with.	some driver	the driver
+strategies which benefit the accountant, some accountant manages finances with.	some accountant	the accountant
+points which persuade the lawyer, some lawyer argues cases with.	some lawyer	the lawyer
+techniques which sell to the salesperson, some salesperson pitches products with.	some salesperson	the salesperson
+stories which engage the journalist, some journalist reports news with.	some journalist	the journalist
+efforts which fulfill the volunteer, some volunteer helps communities with.	some volunteer	the volunteer
+methodologies which yield results for the researcher, some researcher conducts studies with.	some researcher	the researcher
+emotions which resonate with the singer, some singer performs songs with.	some singer	the singer
+depth which impresses the actor, some actor portrays characters with.	some actor	the actor
+empathy which touches the nurse, some nurse cares for patients with.	some nurse	the nurse
+bravery which defines the firefighter, some firefighter tackles fires with.	some firefighter	the firefighter
+compassion which defines the social worker, some social worker assists clients with.	some social	social worker
+expertise which benefits the consultant, some consultant advises clients with.	some consultant	the consultant
+tactics which energize the coach, some coach motivates teams with.	some coach	the coach
+styles which define the stylist, some stylist creates looks with.	some stylist	the stylist
+strokes which define the painter, some painter creates art with.	some painter	the painter
+perspectives which intrigue the philosopher, some philosopher ponders questions with.	some philosopher	the philosopher
+strategies which benefit the banker, some banker manages finances with.	some banker	the banker
+approaches which heal the therapist, some therapist counsels clients with.	some therapist	the therapist
+methods which comfort the veterinarian, some veterinarian cares for animals with.	some veterinarian	the veterinarian
+concepts which inspire the architect, some architect designs buildings with.	some architect	the architect
+styles which define the florist, some florist arranges flowers with.	some florist	the florist
+techniques which satisfy the plumber, some plumber fixes pipes with.	some plumber	the plumber
+methods which inspire the teacher, some teacher educates students with.	some teacher	the teacher
+skills which define the mechanic, some mechanic repairs vehicles with.	some mechanic	the mechanic
+care which defines the caregiver, some caregiver supports individuals with.	some caregiver	the caregiver
+methodologies which define the scientist, some scientist conducts experiments with.	some scientist	the scientist
+accuracy which defines the translator, some translator interprets languages with.	some translator	the translator
+strategies which define the CEO, some CEO leads companies with.	some CEO	the CEO
+systems which define the librarian, some librarian organizes resources with.	some librarian	the librarian
+vigilance which defines the lifeguard, some lifeguard monitors pools with.	some lifeguard	the lifeguard
+services which define the flight attendant, some flight attendant assists passengers with.	some flight	flight attendant
+warmth which defines the receptionist, some receptionist greets visitors with.	some receptionist	the receptionist
+vigilance which defines the security guard, some security guard patrols areas with.	some security	security guard
+caution which defines the lifeguard, some lifeguard monitors beaches with.	some lifeguard	the lifeguard
+methods which define the therapist, some therapist counsels clients with.	some therapist	the therapist
+precision which defines the scientist, some scientist conducts experiments with.	some scientist	the scientist
+dedication which defines the teacher, some teacher educates students with.	some teacher	the teacher
+flavors which define the chef, some chef prepares dishes with.	some chef	the chef
+pieces which define the musician, some musician performs concerts with.	some musician	the musician
+stories which define the author, some author writes novels with.	some author	the author
+techniques which define the painter, some painter creates artworks with.	some painter	the painter
+methods which define the coach, some coach trains athletes with.	some coach	the coach
+colors which inspire the artist, some artist paints masterpieces with.	some artist	the artist
+ingredients which challenge the chef, some chef cooks dishes with.	some chef	the chef
+characters which intrigue the writer, some writer pens novels with.	some writer	the writer
+subjects which fascinate the photographer, some photographer captures moments with.	some photographer	the photographer
+hypotheses which puzzle the scientist, some scientist conducts experiments with.	some scientist	the scientist
+methods which engage the teacher, some teacher educates students with.	some teacher	the teacher
+songs which move the musician, some musician performs concerts with.	some musician	the musician
+routines which challenge the athlete, some athlete trains with.	some athlete	the athlete
+designs which excite the designer, some designer creates fashion with.	some designer	the designer
+algorithms which challenge the programmer, some programmer codes software with.	some programmer	the programmer
+perspectives which define the photographer, some photographer captures images with.	some photographer	the photographer
+techniques which define the therapist, some therapist counsels clients with.	some therapist	the therapist
+concepts which define the engineer, some engineer designs structures with.	some engineer	the engineer
+care which defines the doctor, some doctor treats patients with.	some doctor	the doctor
+styles which define the designer, some designer creates fashion with.	some designer	the designer
+songs which define the musician, some musician performs concerts with.	some musician	the musician
+narratives which define the writer, some writer pens stories with.	some writer	the writer
+methods which define the scientist, some scientist conducts research with.	some scientist	the scientist
+methods which define the teacher, some teacher educates students with.	some teacher	the teacher
+ingredients which define the chef, some chef prepares meals with.	some chef	the chef
+techniques which define the photographer, some photographer captures moments with.	some photographer	the photographer
+approaches which define the therapist, some therapist counsels clients with.	some therapist	the therapist
+pieces which define the musician, some musician performs concerts with.	some musician	the musician
+styles which define the artist, some artist creates sculptures with.	some artist	the artist
+visions which define the filmmaker, some filmmaker directs films with.	some filmmaker	the filmmaker
+designs which define the designer, some designer creates fashion with.	some designer	the designer
+flavors which define the chef, some chef cooks meals with.	some chef	the chef
+music which define the musician, some musician performs concerts with.	some musician	the musician
+narratives which define the writer, some writer pens stories with.	some writer	the writer
+methods which define the scientist, some scientist conducts experiments with.	some scientist	the scientist
+techniques which define the teacher, some teacher educates students with.	some teacher	the teacher
+techniques which define the therapist, some therapist counsels clients with.	some therapist	the therapist
+pieces which define the musician, some musician performs concerts with.	some musician	the musician
+ingredients which define the chef, some chef prepares dishes with.	some chef	the chef

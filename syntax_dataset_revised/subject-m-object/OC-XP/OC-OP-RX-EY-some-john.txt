@@ -1,0 +1,100 @@
+Johnson's guest, some student helped.	some student	Johnson
+Smith's collection, some artist painted.	some artist	Smith
+Brown's project, some chef cooked.	some chef	Brown
+Davis's protégé, some dancer impressed.	some dancer	Davis
+Miller's client, some writer inspired.	some writer	Miller
+Wilson's manuscript, some athlete trained.	some athlete	Wilson
+Moore's photoshoot, some musician composed.	some musician	Moore
+Taylor's followers, some doctor treated.	some doctor	Taylor
+Anderson's beat, some scientist discovered.	some scientist	Anderson
+Thomas's team, some driver drove.	some driver	Thomas
+Jackson's space, some teacher educated.	some teacher	Jackson
+White's portfolio, some gardener planted.	some gardener	White
+Harris's client, some engineer designed.	some engineer	Harris
+Martin's outfit, some actor performed.	some actor	Martin
+Thompson's funds, some photographer captured.	some photographer	Thompson
+Martinez's till, some librarian organized.	some librarian	Martinez
+Garcia's customer, some banker invested.	some banker	Garcia
+Robinson's film, some tailor sewed.	some tailor	Robinson
+Clark's peer, some pilot flew.	some pilot	Clark
+Rodriguez's self-portrait, some lawyer defended.	some lawyer	Rodriguez
+Lewis's own, some architect designed.	some architect	Lewis
+Lee's audience, some chef cooked.	some chef	Lee
+Walker's readers, some nurse cared for.	some nurse	Walker
+Hall's partner, some farmer harvested.	some farmer	Hall
+Allen's symphony, some plumber fixed.	some plumber	Allen
+Young's patient, some cashier counted.	some cashier	Young
+King's breakthrough, some painter painted.	some painter	King
+Wright's vehicle, some therapist counseled.	some therapist	Wright
+Scott's students, some singer sang to.	some singer	Scott
+Green's flowers, some firefighter rescued.	some firefighter	Green
+Adams's structure, some fisherman caught.	some fisherman	Adams
+Baker's role, some bartender served.	some bartender	Baker
+Gonzalez's moment, some waiter served.	some waiter	Gonzalez
+Nelson's collection, some cashier counted.	some cashier	Nelson
+Carter's funds, some receptionist greeted.	some receptionist	Carter
+Mitchell's garment, some athlete trained.	some athlete	Mitchell
+Perez's aircraft, some journalist reported on.	some journalist	Perez
+Roberts's client, some soldier fought.	some soldier	Roberts
+Turner's blueprint, some scientist researched.	some scientist	Turner
+Phillips's dish, some musician played for.	some musician	Phillips
+Campbell's patient, some dancer danced for.	some dancer	Campbell
+Parker's crops, some explorer discovered.	some explorer	Parker
+Evans's pipes, some manager managed.	some manager	Evans
+Edwards's money, some coach trained.	some coach	Edwards
+Collins's canvas, some cleaner cleaned.	some cleaner	Collins
+Stewart's patient, some politician campaigned for.	some politician	Stewart
+Sanchez's audience, some driver drove.	some driver	Sanchez
+Morris's comrade, some gamer played against.	some gamer	Morris
+Rogers's fish, some analyst analyzed.	some analyst	Rogers
+Cook's drink, some CEO led.	some CEO	Cook
+Reed's table, some receptionist greeted.	some receptionist	Reed
+Morgan's change, some librarian organized.	some librarian	Morgan
+Bell's visitor, some programmer coded for.	some programmer	Bell
+Cooper's teammate, some mentor mentored.	some mentor	Cooper
+Richardson's story, some consultant advised.	some consultant	Richardson
+Cox's enemy, some editor edited.	some editor	Cox
+Howard's topic, some model posed for.	some model	Howard
+Ward's fans, some influencer influenced.	some influencer	Ward
+Torres's troupe, some officer patrolled.	some officer	Torres
+Peterson's path, some coach coached.	some coach	Peterson
+Gray's team, some cleaner cleaned.	some cleaner	Gray
+Ramirez's players, some artist created for.	some artist	Ramirez
+James's space, some designer designed for.	some designer	James
+Watson's election, some stylist styled.	some stylist	Watson
+Brooks's route, some banker invested.	some banker	Brooks
+Kelly's opponent, some cashier counted.	some cashier	Kelly
+Sanders's data, some clerk assisted.	some clerk	Sanders
+Price's company, some director directed.	some director	Price
+Bennett's show, some producer produced for.	some producer	Bennett
+Wood's publication, some writer wrote for.	some writer	Wood
+Barnes's story, some journalist reported on.	some journalist	Barnes
+Ross's review, some critic critiqued.	some critic	Ross
+Henderson's application, some developer developed for.	some developer	Henderson
+Coleman's startup, some entrepreneur founded.	some entrepreneur	Coleman
+Jenkins's event, some host hosted.	some host	Jenkins
+Perry's company, some CEO led.	some CEO	Perry
+Powell's department, some manager managed.	some manager	Powell
+Long's customer, some salesperson sold to.	some salesperson	Long
+Patterson's campaign, some marketer marketed for.	some marketer	Patterson
+Hughes's supervisor, some intern interned for.	some intern	Hughes
+Flores's data, some analyst analyzed.	some analyst	Flores
+Washington's topic, some researcher researched.	some researcher	Washington
+Butler's experiment, some scientist researched.	some scientist	Butler
+Johnson's class, some professor taught.	some professor	Johnson
+Martinez's subject, some student studied.	some student	Martinez
+Robinson's patient, some doctor treated.	some doctor	Robinson
+Thompson's patient, some nurse cared for.	some nurse	Thompson
+Clark's client, some therapist counseled.	some therapist	Clark
+Rodriguez's doctor, some patient consulted.	some patient	Rodriguez
+Lewis's client, some therapist counseled.	some therapist	Lewis
+Lee's doctor, some patient consulted.	some patient	Lee
+Walker's advisor, some client consulted.	some client	Walker
+Hall's client, some attorney represented.	some attorney	Hall
+Allen's case, some defendant defended.	some defendant	Allen
+Young's trial, some judge judged.	some judge	Young
+King's case, some witness testified for.	some witness	King
+Wright's hypothesis, some researcher researched.	some researcher	Wright
+Green's study, some participant participated for.	some participant	Green
+Adams's cause, some volunteer volunteered for.	some volunteer	Adams
+Baker's charity, some donor donated to.	some donor	Baker

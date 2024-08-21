@@ -1,0 +1,100 @@
+Underwood helped, a student.	Underwood	a student
+Norris painted, a artist.	Norris	a artist
+Harris cooked, a chef.	Harris	a chef
+Underhill impressed, a dancer.	Underhill	a dancer
+King inspired, a writer.	King	a writer
+Irving trained, a athlete.	Irving	a athlete
+Jackson composed, a musician.	Jackson	a musician
+Waters treated, a doctor.	Waters	a doctor
+Mitchell discovered, a scientist.	Mitchell	a scientist
+Douglas drove, a driver.	Douglas	a driver
+Lawson educated, a teacher.	Lawson	a teacher
+Clark planted, a gardener.	Clark	a gardener
+Barrett designed, a engineer.	Barrett	a engineer
+Thompson performed, a actor.	Thompson	a actor
+Stewart captured, a photographer.	Stewart	a photographer
+Bennett organized, a librarian.	Bennett	a librarian
+Vasquez invested, a banker.	Vasquez	a banker
+O'Brien sewed, a tailor.	O'Brien	a tailor
+Franklin flew, a pilot.	Franklin	a pilot
+Vega defended, a lawyer.	Vega	a lawyer
+Carter designed, a architect.	Carter	a architect
+Xu cooked, a chef.	Xu	a chef
+Xu cared for, a nurse.	Xu	a nurse
+Young harvested, a farmer.	Young	a farmer
+Adams fixed, a plumber.	Adams	a plumber
+Usher counted, a cashier.	Usher	a cashier
+Zavala painted, a painter.	Zavala	a painter
+Perez counseled, a therapist.	Perez	a therapist
+Young sang to, a singer.	Young	a singer
+Zane rescued, a firefighter.	Zane	a firefighter
+Alexander caught, a fisherman.	Alexander	a fisherman
+Reed served, a bartender.	Reed	a bartender
+Hernandez served, a waiter.	Hernandez	a waiter
+Xu counted, a cashier.	Xu	a cashier
+Ramirez greeted, a receptionist.	Ramirez	a receptionist
+Underhill trained, a athlete.	Underhill	a athlete
+Martinez reported on, a journalist.	Martinez	a journalist
+Scott fought, a soldier.	Scott	a soldier
+Usher researched, a scientist.	Usher	a scientist
+Grant played for, a musician.	Grant	a musician
+Grant danced for, a dancer.	Grant	a dancer
+Walker discovered, a explorer.	Walker	a explorer
+Grant managed, a manager.	Grant	a manager
+Perez trained, a coach.	Perez	a coach
+Ortiz cleaned, a cleaner.	Ortiz	a cleaner
+Knight campaigned for, a politician.	Knight	a politician
+Sanders drove, a driver.	Sanders	a driver
+Scott played against, a gamer.	Scott	a gamer
+Alexander analyzed, a analyst.	Alexander	a analyst
+Ulrich led, a CEO.	Ulrich	a CEO
+Irving greeted, a receptionist.	Irving	a receptionist
+Quinn organized, a librarian.	Quinn	a librarian
+Bennett coded for, a programmer.	Bennett	a programmer
+Foster mentored, a mentor.	Foster	a mentor
+Thompson advised, a consultant.	Thompson	a consultant
+Quinn edited, a editor.	Quinn	a editor
+Campbell posed for, a model.	Campbell	a model
+Irving influenced, a influencer.	Irving	a influencer
+Franklin patrolled, a officer.	Franklin	a officer
+Franklin coached, a coach.	Franklin	a coach
+Zane cleaned, a cleaner.	Zane	a cleaner
+Underhill created for, a artist.	Underhill	a artist
+Reed designed for, a designer.	Reed	a designer
+Xander styled, a stylist.	Xander	a stylist
+Underhill invested, a banker.	Underhill	a banker
+Quinn counted, a cashier.	Quinn	a cashier
+Patterson assisted, a clerk.	Patterson	a clerk
+Ward directed, a director.	Ward	a director
+Hernandez produced for, a producer.	Hernandez	a producer
+Zane wrote for, a writer.	Zane	a writer
+Xenos reported on, a journalist.	Xenos	a journalist
+Garcia critiqued, a critic.	Garcia	a critic
+Ingram developed for, a developer.	Ingram	a developer
+Nguyen founded, a entrepreneur.	Nguyen	a entrepreneur
+Xu hosted, a host.	Xu	a host
+Gordon led, a CEO.	Gordon	a CEO
+Quinn managed, a manager.	Quinn	a manager
+Bishop sold to, a salesperson.	Bishop	a salesperson
+Martinez marketed for, a marketer.	Martinez	a marketer
+Douglas interned for, a intern.	Douglas	a intern
+Bishop analyzed, a analyst.	Bishop	a analyst
+York researched, a researcher.	York	a researcher
+Elliott researched, a scientist.	Elliott	a scientist
+Walker taught, a professor.	Walker	a professor
+Norris studied, a student.	Norris	a student
+Usher treated, a doctor.	Usher	a doctor
+Zavala cared for, a nurse.	Zavala	a nurse
+Perez counseled, a therapist.	Perez	a therapist
+Campbell consulted, a patient.	Campbell	a patient
+Foster counseled, a therapist.	Foster	a therapist
+Jenkins consulted, a patient.	Jenkins	a patient
+Diaz consulted, a client.	Diaz	a client
+Owens represented, a attorney.	Owens	a attorney
+Grant defended, a defendant.	Grant	a defendant
+Freeman judged, a judge.	Freeman	a judge
+Knight testified for, a witness.	Knight	a witness
+Hernandez researched, a researcher.	Hernandez	a researcher
+Knight participated for, a participant.	Knight	a participant
+Anderson volunteered for, a volunteer.	Anderson	a volunteer
+Xander donated to, a donor.	Xander	a donor

@@ -1,0 +1,100 @@
+some student, him helped.	some student	him
+some artist, him painted.	some artist	him
+some chef, him cooked.	some chef	him
+some dancer, him impressed.	some dancer	him
+some writer, him inspired.	some writer	him
+some athlete, him trained.	some athlete	him
+some musician, him composed.	some musician	him
+some doctor, him treated.	some doctor	him
+some scientist, him discovered.	some scientist	him
+some driver, him drove.	some driver	him
+some teacher, him educated.	some teacher	him
+some gardener, him planted.	some gardener	him
+some engineer, him designed.	some engineer	him
+some actor, him performed.	some actor	him
+some photographer, him captured.	some photographer	him
+some librarian, him organized.	some librarian	him
+some banker, him invested.	some banker	him
+some tailor, him sewed.	some tailor	him
+some pilot, him flew.	some pilot	him
+some lawyer, him defended.	some lawyer	him
+some architect, him designed.	some architect	him
+some chef, him cooked.	some chef	him
+some nurse, him cared for.	some nurse	him
+some farmer, him harvested.	some farmer	him
+some plumber, him fixed.	some plumber	him
+some cashier, him counted.	some cashier	him
+some painter, him painted.	some painter	him
+some therapist, him counseled.	some therapist	him
+some singer, him sang to.	some singer	him
+some firefighter, him rescued.	some firefighter	him
+some fisherman, him caught.	some fisherman	him
+some bartender, him served.	some bartender	him
+some waiter, him served.	some waiter	him
+some cashier, him counted.	some cashier	him
+some receptionist, him greeted.	some receptionist	him
+some athlete, him trained.	some athlete	him
+some journalist, him reported on.	some journalist	him
+some soldier, him fought.	some soldier	him
+some scientist, him researched.	some scientist	him
+some musician, him played for.	some musician	him
+some dancer, him danced for.	some dancer	him
+some explorer, him discovered.	some explorer	him
+some manager, him managed.	some manager	him
+some coach, him trained.	some coach	him
+some cleaner, him cleaned.	some cleaner	him
+some politician, him campaigned for.	some politician	him
+some driver, him drove.	some driver	him
+some gamer, him played against.	some gamer	him
+some analyst, him analyzed.	some analyst	him
+some CEO, him led.	some CEO	him
+some receptionist, him greeted.	some receptionist	him
+some librarian, him organized.	some librarian	him
+some programmer, him coded for.	some programmer	him
+some mentor, him mentored.	some mentor	him
+some consultant, him advised.	some consultant	him
+some editor, him edited.	some editor	him
+some model, him posed for.	some model	him
+some influencer, him influenced.	some influencer	him
+some officer, him patrolled.	some officer	him
+some coach, him coached.	some coach	him
+some cleaner, him cleaned.	some cleaner	him
+some artist, him created for.	some artist	him
+some designer, him designed for.	some designer	him
+some stylist, him styled.	some stylist	him
+some banker, him invested.	some banker	him
+some cashier, him counted.	some cashier	him
+some clerk, him assisted.	some clerk	him
+some director, him directed.	some director	him
+some producer, him produced for.	some producer	him
+some writer, him wrote for.	some writer	him
+some journalist, him reported on.	some journalist	him
+some critic, him critiqued.	some critic	him
+some developer, him developed for.	some developer	him
+some entrepreneur, him founded.	some entrepreneur	him
+some host, him hosted.	some host	him
+some CEO, him led.	some CEO	him
+some manager, him managed.	some manager	him
+some salesperson, him sold to.	some salesperson	him
+some marketer, him marketed for.	some marketer	him
+some intern, him interned for.	some intern	him
+some analyst, him analyzed.	some analyst	him
+some researcher, him researched.	some researcher	him
+some scientist, him researched.	some scientist	him
+some professor, him taught.	some professor	him
+some student, him studied.	some student	him
+some doctor, him treated.	some doctor	him
+some nurse, him cared for.	some nurse	him
+some therapist, him counseled.	some therapist	him
+some patient, him consulted.	some patient	him
+some therapist, him counseled.	some therapist	him
+some patient, him consulted.	some patient	him
+some client, him consulted.	some client	him
+some attorney, him represented.	some attorney	him
+some defendant, him defended.	some defendant	him
+some judge, him judged.	some judge	him
+some witness, him testified for.	some witness	him
+some researcher, him researched.	some researcher	him
+some participant, him participated for.	some participant	him
+some volunteer, him volunteered for.	some volunteer	him
+some donor, him donated to.	some donor	him

@@ -1,0 +1,90 @@
+themes which resonate with a poet, he writes verses with.	he	a poet
+plants which delight a gardener, he tends gardens with.	he	a gardener
+movements which inspire a dancer, he performs routines with.	he	a dancer
+logic which challenges a programmer, he codes programs with.	he	a programmer
+values which shape a parent, he raises children with.	he	a parent
+techniques which empower a psychologist, he conducts therapy with.	he	a psychologist
+methods which heal a doctor, he treats patients with.	he	a doctor
+melodies which captivate a musician, he plays instruments with.	he	a musician
+recipes which satisfy a chef, he prepares meals with.	he	a chef
+stories which intrigue a filmmaker, he directs movies with.	he	a filmmaker
+designs which impress a carpenter, he builds furniture with.	he	a carpenter
+strategies which motivate a coach, he trains athletes with.	he	a coach
+concepts which intrigue a philosopher, he explores ideas with.	he	a philosopher
+routes which challenge a driver, he navigates roads with.	he	a driver
+strategies which benefit a accountant, he manages finances with.	he	a accountant
+points which persuade a lawyer, he argues cases with.	he	a lawyer
+techniques which sell to a salesperson, he pitches products with.	he	a salesperson
+stories which engage a journalist, he reports news with.	he	a journalist
+efforts which fulfill a volunteer, he helps communities with.	he	a volunteer
+methodologies which yield results for a researcher, he conducts studies with.	he	a researcher
+emotions which resonate with a singer, he performs songs with.	he	a singer
+depth which impresses a actor, he portrays characters with.	he	a actor
+empathy which touches a nurse, he cares for patients with.	he	a nurse
+bravery which defines a firefighter, he tackles fires with.	he	a firefighter
+compassion which defines the a worker, he worker assists clients with.	he	a worker
+expertise which benefits a consultant, he advises clients with.	he	a consultant
+tactics which energize a coach, he motivates teams with.	he	a coach
+styles which define a stylist, he creates looks with.	he	a stylist
+strokes which define a painter, he creates art with.	he	a painter
+perspectives which intrigue a philosopher, he ponders questions with.	he	a philosopher
+strategies which benefit a banker, he manages finances with.	he	a banker
+approaches which heal a therapist, he counsels clients with.	he	a therapist
+methods which comfort a veterinarian, he cares for animals with.	he	a veterinarian
+concepts which inspire a architect, he designs buildings with.	he	a architect
+styles which define a florist, he arranges flowers with.	he	a florist
+techniques which satisfy a plumber, he fixes pipes with.	he	a plumber
+methods which inspire a teacher, he educates students with.	he	a teacher
+skills which define a mechanic, he repairs vehicles with.	he	a mechanic
+care which defines a caregiver, he supports individuals with.	he	a caregiver
+methodologies which define a scientist, he conducts experiments with.	he	a scientist
+accuracy which defines a translator, he interprets languages with.	he	a translator
+strategies which define a CEO, he leads companies with.	he	a CEO
+systems which define a librarian, he organizes resources with.	he	a librarian
+vigilance which defines a lifeguard, he monitors pools with.	he	a lifeguard
+services which define the a attendant, he attendant assists passengers with.	he	a attendant
+warmth which defines a receptionist, he greets visitors with.	he	a receptionist
+vigilance which defines the a guard, he guard patrols areas with.	he	a guard
+caution which defines a lifeguard, he monitors beaches with.	he	a lifeguard
+methods which define a therapist, he counsels clients with.	he	a therapist
+precision which defines a scientist, he conducts experiments with.	he	a scientist
+dedication which defines a teacher, he educates students with.	he	a teacher
+flavors which define a chef, he prepares dishes with.	he	a chef
+pieces which define a musician, he performs concerts with.	he	a musician
+stories which define a author, he writes novels with.	he	a author
+techniques which define a painter, he creates artworks with.	he	a painter
+methods which define a coach, he trains athletes with.	he	a coach
+colors which inspire a artist, he paints masterpieces with.	he	a artist
+ingredients which challenge a chef, he cooks dishes with.	he	a chef
+characters which intrigue a writer, he pens novels with.	he	a writer
+subjects which fascinate a photographer, he captures moments with.	he	a photographer
+hypotheses which puzzle a scientist, he conducts experiments with.	he	a scientist
+methods which engage a teacher, he educates students with.	he	a teacher
+songs which move a musician, he performs concerts with.	he	a musician
+routines which challenge a athlete, he trains with.	he	a athlete
+designs which excite a designer, he creates fashion with.	he	a designer
+algorithms which challenge a programmer, he codes software with.	he	a programmer
+perspectives which define a photographer, he captures images with.	he	a photographer
+techniques which define a therapist, he counsels clients with.	he	a therapist
+concepts which define a engineer, he designs structures with.	he	a engineer
+care which defines a doctor, he treats patients with.	he	a doctor
+styles which define a designer, he creates fashion with.	he	a designer
+songs which define a musician, he performs concerts with.	he	a musician
+narratives which define a writer, he pens stories with.	he	a writer
+methods which define a scientist, he conducts research with.	he	a scientist
+methods which define a teacher, he educates students with.	he	a teacher
+ingredients which define a chef, he prepares meals with.	he	a chef
+techniques which define a photographer, he captures moments with.	he	a photographer
+approaches which define a therapist, he counsels clients with.	he	a therapist
+pieces which define a musician, he performs concerts with.	he	a musician
+styles which define a artist, he creates sculptures with.	he	a artist
+visions which define a filmmaker, he directs films with.	he	a filmmaker
+designs which define a designer, he creates fashion with.	he	a designer
+flavors which define a chef, he cooks meals with.	he	a chef
+music which define a musician, he performs concerts with.	he	a musician
+narratives which define a writer, he pens stories with.	he	a writer
+methods which define a scientist, he conducts experiments with.	he	a scientist
+techniques which define a teacher, he educates students with.	he	a teacher
+techniques which define a therapist, he counsels clients with.	he	a therapist
+pieces which define a musician, he performs concerts with.	he	a musician
+ingredients which define a chef, he prepares dishes with.	he	a chef

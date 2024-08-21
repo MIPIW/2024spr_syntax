@@ -1,0 +1,100 @@
+Johnson's guest, he helped.	he	Johnson
+Smith's collection, he painted.	he	Smith
+Brown's project, he cooked.	he	Brown
+Davis's protégé, he impressed.	he	Davis
+Miller's client, he inspired.	he	Miller
+Wilson's manuscript, he trained.	he	Wilson
+Moore's photoshoot, he composed.	he	Moore
+Taylor's followers, he treated.	he	Taylor
+Anderson's beat, he discovered.	he	Anderson
+Thomas's team, he drove.	he	Thomas
+Jackson's space, he educated.	he	Jackson
+White's portfolio, he planted.	he	White
+Harris's client, he designed.	he	Harris
+Martin's outfit, he performed.	he	Martin
+Thompson's funds, he captured.	he	Thompson
+Martinez's till, he organized.	he	Martinez
+Garcia's customer, he invested.	he	Garcia
+Robinson's film, he sewed.	he	Robinson
+Clark's peer, he flew.	he	Clark
+Rodriguez's self-portrait, he defended.	he	Rodriguez
+Lewis's own, he designed.	he	Lewis
+Lee's audience, he cooked.	he	Lee
+Walker's readers, he cared for.	he	Walker
+Hall's partner, he harvested.	he	Hall
+Allen's symphony, he fixed.	he	Allen
+Young's patient, he counted.	he	Young
+King's breakthrough, he painted.	he	King
+Wright's vehicle, he counseled.	he	Wright
+Scott's students, he sang to.	he	Scott
+Green's flowers, he rescued.	he	Green
+Adams's structure, he caught.	he	Adams
+Baker's role, he served.	he	Baker
+Gonzalez's moment, he served.	he	Gonzalez
+Nelson's collection, he counted.	he	Nelson
+Carter's funds, he greeted.	he	Carter
+Mitchell's garment, he trained.	he	Mitchell
+Perez's aircraft, he reported on.	he	Perez
+Roberts's client, he fought.	he	Roberts
+Turner's blueprint, he researched.	he	Turner
+Phillips's dish, he played for.	he	Phillips
+Campbell's patient, he danced for.	he	Campbell
+Parker's crops, he discovered.	he	Parker
+Evans's pipes, he managed.	he	Evans
+Edwards's money, he trained.	he	Edwards
+Collins's canvas, he cleaned.	he	Collins
+Stewart's patient, he campaigned for.	he	Stewart
+Sanchez's audience, he drove.	he	Sanchez
+Morris's comrade, he played against.	he	Morris
+Rogers's fish, he analyzed.	he	Rogers
+Cook's drink, he led.	he	Cook
+Reed's table, he greeted.	he	Reed
+Morgan's change, he organized.	he	Morgan
+Bell's visitor, he coded for.	he	Bell
+Cooper's teammate, he mentored.	he	Cooper
+Richardson's story, he advised.	he	Richardson
+Cox's enemy, he edited.	he	Cox
+Howard's topic, he posed for.	he	Howard
+Ward's fans, he influenced.	he	Ward
+Torres's troupe, he patrolled.	he	Torres
+Peterson's path, he coached.	he	Peterson
+Gray's team, he cleaned.	he	Gray
+Ramirez's players, he created for.	he	Ramirez
+James's space, he designed for.	he	James
+Watson's election, he styled.	he	Watson
+Brooks's route, he invested.	he	Brooks
+Kelly's opponent, he counted.	he	Kelly
+Sanders's data, he assisted.	he	Sanders
+Price's company, he directed.	he	Price
+Bennett's show, he produced for.	he	Bennett
+Wood's publication, he wrote for.	he	Wood
+Barnes's story, he reported on.	he	Barnes
+Ross's review, he critiqued.	he	Ross
+Henderson's application, he developed for.	he	Henderson
+Coleman's startup, he founded.	he	Coleman
+Jenkins's event, he hosted.	he	Jenkins
+Perry's company, he led.	he	Perry
+Powell's department, he managed.	he	Powell
+Long's customer, he sold to.	he	Long
+Patterson's campaign, he marketed for.	he	Patterson
+Hughes's supervisor, he interned for.	he	Hughes
+Flores's data, he analyzed.	he	Flores
+Washington's topic, he researched.	he	Washington
+Butler's experiment, he researched.	he	Butler
+Johnson's class, he taught.	he	Johnson
+Martinez's subject, he studied.	he	Martinez
+Robinson's patient, he treated.	he	Robinson
+Thompson's patient, he cared for.	he	Thompson
+Clark's client, he counseled.	he	Clark
+Rodriguez's doctor, he consulted.	he	Rodriguez
+Lewis's client, he counseled.	he	Lewis
+Lee's doctor, he consulted.	he	Lee
+Walker's advisor, he consulted.	he	Walker
+Hall's client, he represented.	he	Hall
+Allen's case, he defended.	he	Allen
+Young's trial, he judged.	he	Young
+King's case, he testified for.	he	King
+Wright's hypothesis, he researched.	he	Wright
+Green's study, he participated for.	he	Green
+Adams's cause, he volunteered for.	he	Adams
+Baker's charity, he donated to.	he	Baker

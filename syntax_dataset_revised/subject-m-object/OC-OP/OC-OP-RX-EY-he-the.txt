@@ -1,0 +1,100 @@
+he helped, the student's guest.	he	the student
+he painted, the artist's collection.	he	the artist
+he cooked, the chef's project.	he	the chef
+he impressed, the dancer's protégé.	he	the dancer
+he inspired, the writer's client.	he	the writer
+he trained, the athlete's manuscript.	he	the athlete
+he composed, the musician's photoshoot.	he	the musician
+he treated, the doctor's followers.	he	the doctor
+he discovered, the scientist's beat.	he	the scientist
+he drove, the driver's team.	he	the driver
+he educated, the teacher's space.	he	the teacher
+he planted, the gardener's portfolio.	he	the gardener
+he designed, the engineer's client.	he	the engineer
+he performed, the actor's outfit.	he	the actor
+he captured, the photographer's funds.	he	the photographer
+he organized, the librarian's till.	he	the librarian
+he invested, the banker's customer.	he	the banker
+he sewed, the tailor's film.	he	the tailor
+he flew, the pilot's peer.	he	the pilot
+he defended, the lawyer's self-portrait.	he	the lawyer
+he designed, the architect's own.	he	the architect
+he cooked, the chef's audience.	he	the chef
+he cared for, the nurse's readers.	he	the nurse
+he harvested, the farmer's partner.	he	the farmer
+he fixed, the plumber's symphony.	he	the plumber
+he counted, the cashier's patient.	he	the cashier
+he painted, the painter's breakthrough.	he	the painter
+he counseled, the therapist's vehicle.	he	the therapist
+he sang to, the singer's students.	he	the singer
+he rescued, the firefighter's flowers.	he	the firefighter
+he caught, the fisherman's structure.	he	the fisherman
+he served, the bartender's role.	he	the bartender
+he served, the waiter's moment.	he	the waiter
+he counted, the cashier's collection.	he	the cashier
+he greeted, the receptionist's funds.	he	the receptionist
+he trained, the athlete's garment.	he	the athlete
+he reported on, the journalist's aircraft.	he	the journalist
+he fought, the soldier's client.	he	the soldier
+he researched, the scientist's blueprint.	he	the scientist
+he played for, the musician's dish.	he	the musician
+he danced for, the dancer's patient.	he	the dancer
+he discovered, the explorer's crops.	he	the explorer
+he managed, the manager's pipes.	he	the manager
+he trained, the coach's money.	he	the coach
+he cleaned, the cleaner's canvas.	he	the cleaner
+he campaigned for, the politician's patient.	he	the politician
+he drove, the driver's audience.	he	the driver
+he played against, the gamer's comrade.	he	the gamer
+he analyzed, the analyst's fish.	he	the analyst
+he led, the CEO's drink.	he	the CEO
+he greeted, the receptionist's table.	he	the receptionist
+he organized, the librarian's change.	he	the librarian
+he coded for, the programmer's visitor.	he	the programmer
+he mentored, the mentor's teammate.	he	the mentor
+he advised, the consultant's story.	he	the consultant
+he edited, the editor's enemy.	he	the editor
+he posed for, the model's topic.	he	the model
+he influenced, the influencer's fans.	he	the influencer
+he patrolled, the officer's troupe.	he	the officer
+he coached, the coach's path.	he	the coach
+he cleaned, the cleaner's team.	he	the cleaner
+he created for, the artist's players.	he	the artist
+he designed for, the designer's space.	he	the designer
+he styled, the stylist's election.	he	the stylist
+he invested, the banker's route.	he	the banker
+he counted, the cashier's opponent.	he	the cashier
+he assisted, the clerk's data.	he	the clerk
+he directed, the director's company.	he	the director
+he produced for, the producer's show.	he	the producer
+he wrote for, the writer's publication.	he	the writer
+he reported on, the journalist's story.	he	the journalist
+he critiqued, the critic's review.	he	the critic
+he developed for, the developer's application.	he	the developer
+he founded, the entrepreneur's startup.	he	the entrepreneur
+he hosted, the host's event.	he	the host
+he led, the CEO's company.	he	the CEO
+he managed, the manager's department.	he	the manager
+he sold to, the salesperson's customer.	he	the salesperson
+he marketed for, the marketer's campaign.	he	the marketer
+he interned for, the intern's supervisor.	he	the intern
+he analyzed, the analyst's data.	he	the analyst
+he researched, the researcher's topic.	he	the researcher
+he researched, the scientist's experiment.	he	the scientist
+he taught, the professor's class.	he	the professor
+he studied, the student's subject.	he	the student
+he treated, the doctor's patient.	he	the doctor
+he cared for, the nurse's patient.	he	the nurse
+he counseled, the therapist's client.	he	the therapist
+he consulted, the patient's doctor.	he	the patient
+he counseled, the therapist's client.	he	the therapist
+he consulted, the patient's doctor.	he	the patient
+he consulted, the client's advisor.	he	the client
+he represented, the attorney's client.	he	the attorney
+he defended, the defendant's case.	he	the defendant
+he judged, the judge's trial.	he	the judge
+he testified for, the witness's case.	he	the witness
+he researched, the researcher's hypothesis.	he	the researcher
+he participated for, the participant's study.	he	the participant
+he volunteered for, the volunteer's cause.	he	the volunteer
+he donated to, the donor's charity.	he	the donor

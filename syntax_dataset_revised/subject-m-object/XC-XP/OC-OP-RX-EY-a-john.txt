@@ -1,0 +1,100 @@
+Johnson's guest helped A student.	A student	Johnson
+Smith's collection painted A artist.	A artist	Smith
+Brown's project cooked A chef.	A chef	Brown
+Davis's protégé impressed A dancer.	A dancer	Davis
+Miller's client inspired A writer.	A writer	Miller
+Wilson's manuscript trained A athlete.	A athlete	Wilson
+Moore's photoshoot composed A musician.	A musician	Moore
+Taylor's followers treated A doctor.	A doctor	Taylor
+Anderson's beat discovered A scientist.	A scientist	Anderson
+Thomas's team drove A driver.	A driver	Thomas
+Jackson's space educated A teacher.	A teacher	Jackson
+White's portfolio planted A gardener.	A gardener	White
+Harris's client designed A engineer.	A engineer	Harris
+Martin's outfit performed A actor.	A actor	Martin
+Thompson's funds captured A photographer.	A photographer	Thompson
+Martinez's till organized A librarian.	A librarian	Martinez
+Garcia's customer invested A banker.	A banker	Garcia
+Robinson's film sewed A tailor.	A tailor	Robinson
+Clark's peer flew A pilot.	A pilot	Clark
+Rodriguez's self-portrait defended A lawyer.	A lawyer	Rodriguez
+Lewis's own designed A architect.	A architect	Lewis
+Lee's audience cooked A chef.	A chef	Lee
+Walker's readers cared for A nurse.	A nurse	Walker
+Hall's partner harvested A farmer.	A farmer	Hall
+Allen's symphony fixed A plumber.	A plumber	Allen
+Young's patient counted A cashier.	A cashier	Young
+King's breakthrough painted A painter.	A painter	King
+Wright's vehicle counseled A therapist.	A therapist	Wright
+Scott's students sang to A singer.	A singer	Scott
+Green's flowers rescued A firefighter.	A firefighter	Green
+Adams's structure caught A fisherman.	A fisherman	Adams
+Baker's role served A bartender.	A bartender	Baker
+Gonzalez's moment served A waiter.	A waiter	Gonzalez
+Nelson's collection counted A cashier.	A cashier	Nelson
+Carter's funds greeted A receptionist.	A receptionist	Carter
+Mitchell's garment trained A athlete.	A athlete	Mitchell
+Perez's aircraft reported on A journalist.	A journalist	Perez
+Roberts's client fought A soldier.	A soldier	Roberts
+Turner's blueprint researched A scientist.	A scientist	Turner
+Phillips's dish played for A musician.	A musician	Phillips
+Campbell's patient danced for A dancer.	A dancer	Campbell
+Parker's crops discovered A explorer.	A explorer	Parker
+Evans's pipes managed A manager.	A manager	Evans
+Edwards's money trained A coach.	A coach	Edwards
+Collins's canvas cleaned A cleaner.	A cleaner	Collins
+Stewart's patient campaigned for A politician.	A politician	Stewart
+Sanchez's audience drove A driver.	A driver	Sanchez
+Morris's comrade played against A gamer.	A gamer	Morris
+Rogers's fish analyzed A analyst.	A analyst	Rogers
+Cook's drink led A CEO.	A CEO	Cook
+Reed's table greeted A receptionist.	A receptionist	Reed
+Morgan's change organized A librarian.	A librarian	Morgan
+Bell's visitor coded for A programmer.	A programmer	Bell
+Cooper's teammate mentored A mentor.	A mentor	Cooper
+Richardson's story advised A consultant.	A consultant	Richardson
+Cox's enemy edited A editor.	A editor	Cox
+Howard's topic posed for A model.	A model	Howard
+Ward's fans influenced A influencer.	A influencer	Ward
+Torres's troupe patrolled A officer.	A officer	Torres
+Peterson's path coached A coach.	A coach	Peterson
+Gray's team cleaned A cleaner.	A cleaner	Gray
+Ramirez's players created for A artist.	A artist	Ramirez
+James's space designed for A designer.	A designer	James
+Watson's election styled A stylist.	A stylist	Watson
+Brooks's route invested A banker.	A banker	Brooks
+Kelly's opponent counted A cashier.	A cashier	Kelly
+Sanders's data assisted A clerk.	A clerk	Sanders
+Price's company directed A director.	A director	Price
+Bennett's show produced for A producer.	A producer	Bennett
+Wood's publication wrote for A writer.	A writer	Wood
+Barnes's story reported on A journalist.	A journalist	Barnes
+Ross's review critiqued A critic.	A critic	Ross
+Henderson's application developed for A developer.	A developer	Henderson
+Coleman's startup founded A entrepreneur.	A entrepreneur	Coleman
+Jenkins's event hosted A host.	A host	Jenkins
+Perry's company led A CEO.	A CEO	Perry
+Powell's department managed A manager.	A manager	Powell
+Long's customer sold to A salesperson.	A salesperson	Long
+Patterson's campaign marketed for A marketer.	A marketer	Patterson
+Hughes's supervisor interned for A intern.	A intern	Hughes
+Flores's data analyzed A analyst.	A analyst	Flores
+Washington's topic researched A researcher.	A researcher	Washington
+Butler's experiment researched A scientist.	A scientist	Butler
+Johnson's class taught A professor.	A professor	Johnson
+Martinez's subject studied A student.	A student	Martinez
+Robinson's patient treated A doctor.	A doctor	Robinson
+Thompson's patient cared for A nurse.	A nurse	Thompson
+Clark's client counseled A therapist.	A therapist	Clark
+Rodriguez's doctor consulted A patient.	A patient	Rodriguez
+Lewis's client counseled A therapist.	A therapist	Lewis
+Lee's doctor consulted A patient.	A patient	Lee
+Walker's advisor consulted A client.	A client	Walker
+Hall's client represented A attorney.	A attorney	Hall
+Allen's case defended A defendant.	A defendant	Allen
+Young's trial judged A judge.	A judge	Young
+King's case testified for A witness.	A witness	King
+Wright's hypothesis researched A researcher.	A researcher	Wright
+Green's study participated for A participant.	A participant	Green
+Adams's cause volunteered for A volunteer.	A volunteer	Adams
+Baker's charity donated to A donor.	A donor	Baker

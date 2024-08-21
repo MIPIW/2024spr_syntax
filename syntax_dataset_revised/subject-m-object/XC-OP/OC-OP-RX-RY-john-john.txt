@@ -1,0 +1,100 @@
+Jackson, Johnson helped.	Jackson	Johnson
+Lawson, Smith painted.	Lawson	Smith
+Vaughn, Brown cooked.	Vaughn	Brown
+Stewart, Davis impressed.	Stewart	Davis
+Davis, Miller inspired.	Davis	Miller
+Zimmerman, Wilson trained.	Zimmerman	Wilson
+Bennett, Moore composed.	Bennett	Moore
+Ellis, Taylor treated.	Ellis	Taylor
+Grant, Anderson discovered.	Grant	Anderson
+Perez, Thomas drove.	Perez	Thomas
+Underhill, Jackson educated.	Underhill	Jackson
+Underwood, White planted.	Underwood	White
+Clark, Harris designed.	Clark	Harris
+Xander, Martin performed.	Xander	Martin
+Quinn, Thompson captured.	Quinn	Thompson
+Knight, Martinez organized.	Knight	Martinez
+Elliott, Garcia invested.	Elliott	Garcia
+Vincent, Robinson sewed.	Vincent	Robinson
+Campbell, Clark flew.	Campbell	Clark
+Knight, Rodriguez defended.	Knight	Rodriguez
+Mitchell, Lewis designed.	Mitchell	Lewis
+Foster, Lee cooked.	Foster	Lee
+Hughes, Walker cared for.	Hughes	Walker
+Douglas, Hall harvested.	Douglas	Hall
+Bennett, Allen fixed.	Bennett	Allen
+Johnson, Young counted.	Johnson	Young
+Ellis, King painted.	Ellis	King
+Johnson, Wright counseled.	Johnson	Wright
+Martinez, Scott sang to.	Martinez	Scott
+Jenkins, Green rescued.	Jenkins	Green
+Kelly, Adams caught.	Kelly	Adams
+Garcia, Baker served.	Garcia	Baker
+Zane, Gonzalez served.	Zane	Gonzalez
+Davis, Nelson counted.	Davis	Nelson
+Vega, Carter greeted.	Vega	Carter
+Perez, Mitchell trained.	Perez	Mitchell
+Vasquez, Perez reported on.	Vasquez	Perez
+Baker, Roberts fought.	Baker	Roberts
+Peterson, Turner researched.	Peterson	Turner
+Owens, Phillips played for.	Owens	Phillips
+Irving, Campbell danced for.	Irving	Campbell
+Thompson, Parker discovered.	Thompson	Parker
+Zimmerman, Evans managed.	Zimmerman	Evans
+Anderson, Edwards trained.	Anderson	Edwards
+Barrett, Collins cleaned.	Barrett	Collins
+Thompson, Stewart campaigned for.	Thompson	Stewart
+Nguyen, Sanchez drove.	Nguyen	Sanchez
+Barrett, Morris played against.	Barrett	Morris
+Smith, Rogers analyzed.	Smith	Rogers
+Ulrich, Cook led.	Ulrich	Cook
+Lawson, Reed greeted.	Lawson	Reed
+Stewart, Morgan organized.	Stewart	Morgan
+Elliott, Bell coded for.	Elliott	Bell
+Garcia, Cooper mentored.	Garcia	Cooper
+Franklin, Richardson advised.	Franklin	Richardson
+Vincent, Cox edited.	Vincent	Cox
+Clark, Howard posed for.	Clark	Howard
+Anderson, Ward influenced.	Anderson	Ward
+Perez, Torres patrolled.	Perez	Torres
+Vega, Peterson coached.	Vega	Peterson
+Patterson, Gray cleaned.	Patterson	Gray
+Alexander, Ramirez created for.	Alexander	Ramirez
+Nichols, James designed for.	Nichols	James
+Parker, Watson styled.	Parker	Watson
+Barrett, Brooks invested.	Barrett	Brooks
+Patterson, Kelly counted.	Patterson	Kelly
+Zane, Sanders assisted.	Zane	Sanders
+Gordon, Price directed.	Gordon	Price
+Ward, Bennett produced for.	Ward	Bennett
+Miller, Wood wrote for.	Miller	Wood
+Vasquez, Barnes reported on.	Vasquez	Barnes
+Flores, Ross critiqued.	Flores	Ross
+Walker, Henderson developed for.	Walker	Henderson
+Thompson, Coleman founded.	Thompson	Coleman
+Thompson, Jenkins hosted.	Thompson	Jenkins
+Vega, Perry led.	Vega	Perry
+Underhill, Powell managed.	Underhill	Powell
+Green, Long sold to.	Green	Long
+Diaz, Patterson marketed for.	Diaz	Patterson
+Ward, Hughes interned for.	Ward	Hughes
+Owens, Flores analyzed.	Owens	Flores
+Yates, Washington researched.	Yates	Washington
+York, Butler researched.	York	Butler
+Vincent, Johnson taught.	Vincent	Johnson
+Allen, Martinez studied.	Allen	Martinez
+Grant, Robinson treated.	Grant	Robinson
+Thompson, Thompson cared for.	Thompson	Thompson
+Ingram, Clark counseled.	Ingram	Clark
+Usher, Rodriguez consulted.	Usher	Rodriguez
+Evans, Lewis counseled.	Evans	Lewis
+Xenos, Lee consulted.	Xenos	Lee
+Ortiz, Walker consulted.	Ortiz	Walker
+Waters, Hall represented.	Waters	Hall
+Green, Allen defended.	Green	Allen
+Allen, Young judged.	Allen	Young
+Xander, King testified for.	Xander	King
+Quinn, Wright researched.	Quinn	Wright
+Kelly, Green participated for.	Kelly	Green
+Hughes, Adams volunteered for.	Hughes	Adams
+Zane, Baker donated to.	Zane	Baker

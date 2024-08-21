@@ -1,0 +1,100 @@
+a student's guest, Walker helped.	Walker	a student
+a artist's collection, Bennett painted.	Bennett	a artist
+a chef's project, Freeman cooked.	Freeman	a chef
+a dancer's protégé, Evans impressed.	Evans	a dancer
+a writer's client, Zavala inspired.	Zavala	a writer
+a athlete's manuscript, Thompson trained.	Thompson	a athlete
+a musician's photoshoot, Ramirez composed.	Ramirez	a musician
+a doctor's followers, Xander treated.	Xander	a doctor
+a scientist's beat, York discovered.	York	a scientist
+a driver's team, Nelson drove.	Nelson	a driver
+a teacher's space, Turner educated.	Turner	a teacher
+a gardener's portfolio, Usher planted.	Usher	a gardener
+a engineer's client, Davis designed.	Davis	a engineer
+a actor's outfit, Irving performed.	Irving	a actor
+a photographer's funds, Zimmerman captured.	Zimmerman	a photographer
+a librarian's till, Adams organized.	Adams	a librarian
+a banker's customer, Evans invested.	Evans	a banker
+a tailor's film, Irving sewed.	Irving	a tailor
+a pilot's peer, Mitchell flew.	Mitchell	a pilot
+a lawyer's self-portrait, Elliott defended.	Elliott	a lawyer
+a architect's own, Sanders designed.	Sanders	a architect
+a chef's audience, Franklin cooked.	Franklin	a chef
+a nurse's readers, Waters cared for.	Waters	a nurse
+a farmer's partner, Young harvested.	Young	a farmer
+a plumber's symphony, Scott fixed.	Scott	a plumber
+a cashier's patient, Walker counted.	Walker	a cashier
+a painter's breakthrough, Waters painted.	Waters	a painter
+a therapist's vehicle, Evans counseled.	Evans	a therapist
+a singer's students, Thompson sang to.	Thompson	a singer
+a firefighter's flowers, Knight rescued.	Knight	a firefighter
+a fisherman's structure, Taylor caught.	Taylor	a fisherman
+a bartender's role, Jackson served.	Jackson	a bartender
+a waiter's moment, Thompson served.	Thompson	a waiter
+a cashier's collection, Peterson counted.	Peterson	a cashier
+a receptionist's funds, Ramirez greeted.	Ramirez	a receptionist
+a athlete's garment, Alexander trained.	Alexander	a athlete
+a journalist's aircraft, Yang reported on.	Yang	a journalist
+a soldier's client, Walker fought.	Walker	a soldier
+a scientist's blueprint, Green researched.	Green	a scientist
+a musician's dish, Vincent played for.	Vincent	a musician
+a dancer's patient, Knight danced for.	Knight	a dancer
+a explorer's crops, Lawson discovered.	Lawson	a explorer
+a manager's pipes, Underhill managed.	Underhill	a manager
+a coach's money, Lewis trained.	Lewis	a coach
+a cleaner's canvas, Reed cleaned.	Reed	a cleaner
+a politician's patient, Robinson campaigned for.	Robinson	a politician
+a driver's audience, Patterson drove.	Patterson	a driver
+a gamer's comrade, Zeller played against.	Zeller	a gamer
+a analyst's fish, Dixon analyzed.	Dixon	a analyst
+a CEO's drink, Irving led.	Irving	a CEO
+a receptionist's table, Adams greeted.	Adams	a receptionist
+a librarian's change, Dixon organized.	Dixon	a librarian
+a programmer's visitor, Ingram coded for.	Ingram	a programmer
+a mentor's teammate, Freeman mentored.	Freeman	a mentor
+a consultant's story, Barrett advised.	Barrett	a consultant
+a editor's enemy, Elliott edited.	Elliott	a editor
+a model's topic, Martinez posed for.	Martinez	a model
+a influencer's fans, Davis influenced.	Davis	a influencer
+a officer's troupe, Xenos patrolled.	Xenos	a officer
+a coach's path, Johnson coached.	Johnson	a coach
+a cleaner's team, Alexander cleaned.	Alexander	a cleaner
+a artist's players, Ingram created for.	Ingram	a artist
+a designer's space, Smith designed for.	Smith	a designer
+a stylist's election, Freeman styled.	Freeman	a stylist
+a banker's route, Alexander invested.	Alexander	a banker
+a cashier's opponent, Young counted.	Young	a cashier
+a clerk's data, Foster assisted.	Foster	a clerk
+a director's company, Vega directed.	Vega	a director
+a producer's show, Ramirez produced for.	Ramirez	a producer
+a writer's publication, Ingram wrote for.	Ingram	a writer
+a journalist's story, Vincent reported on.	Vincent	a journalist
+a critic's review, Kelly critiqued.	Kelly	a critic
+a developer's application, Knight developed for.	Knight	a developer
+a entrepreneur's startup, Barrett founded.	Barrett	a entrepreneur
+a host's event, Mitchell hosted.	Mitchell	a host
+a CEO's company, Gordon led.	Gordon	a CEO
+a manager's department, Douglas managed.	Douglas	a manager
+a salesperson's customer, O'Brien sold to.	O'Brien	a salesperson
+a marketer's campaign, Clark marketed for.	Clark	a marketer
+a intern's supervisor, Underhill interned for.	Underhill	a intern
+a analyst's data, Knight analyzed.	Knight	a analyst
+a researcher's topic, Norris researched.	Norris	a researcher
+a scientist's experiment, Vasquez researched.	Vasquez	a scientist
+a professor's class, Baker taught.	Baker	a professor
+a student's subject, Nelson studied.	Nelson	a student
+a doctor's patient, Scott treated.	Scott	a doctor
+a nurse's patient, Irving cared for.	Irving	a nurse
+a therapist's client, Robinson counseled.	Robinson	a therapist
+a patient's doctor, Vasquez consulted.	Vasquez	a patient
+a therapist's client, Underhill counseled.	Underhill	a therapist
+a patient's doctor, Edwards consulted.	Edwards	a patient
+a client's advisor, Young consulted.	Young	a client
+a attorney's client, Johnson represented.	Johnson	a attorney
+a defendant's case, Usher defended.	Usher	a defendant
+a judge's trial, Patterson judged.	Patterson	a judge
+a witness's case, Richardson testified for.	Richardson	a witness
+a researcher's hypothesis, Reed researched.	Reed	a researcher
+a participant's study, Davis participated for.	Davis	a participant
+a volunteer's cause, Zane volunteered for.	Zane	a volunteer
+a donor's charity, Young donated to.	Young	a donor

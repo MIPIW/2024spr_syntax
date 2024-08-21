@@ -1,0 +1,100 @@
+every student, his guest helped.	every student	his
+every artist, his collection painted.	every artist	his
+every chef, his project cooked.	every chef	his
+every dancer, his protégé impressed.	every dancer	his
+every writer, his client inspired.	every writer	his
+every athlete, his manuscript trained.	every athlete	his
+every musician, his photoshoot composed.	every musician	his
+every doctor, his followers treated.	every doctor	his
+every scientist, his beat discovered.	every scientist	his
+every driver, his team drove.	every driver	his
+every teacher, his space educated.	every teacher	his
+every gardener, his portfolio planted.	every gardener	his
+every engineer, his client designed.	every engineer	his
+every actor, his outfit performed.	every actor	his
+every photographer, his funds captured.	every photographer	his
+every librarian, his till organized.	every librarian	his
+every banker, his customer invested.	every banker	his
+every tailor, his film sewed.	every tailor	his
+every pilot, his peer flew.	every pilot	his
+every lawyer, his self-portrait defended.	every lawyer	his
+every architect, his own designed.	every architect	his
+every chef, his audience cooked.	every chef	his
+every nurse, his readers cared for.	every nurse	his
+every farmer, his partner harvested.	every farmer	his
+every plumber, his symphony fixed.	every plumber	his
+every cashier, his patient counted.	every cashier	his
+every painter, his breakthrough painted.	every painter	his
+every therapist, his vehicle counseled.	every therapist	his
+every singer, his students sang to.	every singer	his
+every firefighter, his flowers rescued.	every firefighter	his
+every fisherman, his structure caught.	every fisherman	his
+every bartender, his role served.	every bartender	his
+every waiter, his moment served.	every waiter	his
+every cashier, his collection counted.	every cashier	his
+every receptionist, his funds greeted.	every receptionist	his
+every athlete, his garment trained.	every athlete	his
+every journalist, his aircraft reported on.	every journalist	his
+every soldier, his client fought.	every soldier	his
+every scientist, his blueprint researched.	every scientist	his
+every musician, his dish played for.	every musician	his
+every dancer, his patient danced for.	every dancer	his
+every explorer, his crops discovered.	every explorer	his
+every manager, his pipes managed.	every manager	his
+every coach, his money trained.	every coach	his
+every cleaner, his canvas cleaned.	every cleaner	his
+every politician, his patient campaigned for.	every politician	his
+every driver, his audience drove.	every driver	his
+every gamer, his comrade played against.	every gamer	his
+every analyst, his fish analyzed.	every analyst	his
+every CEO, his drink led.	every CEO	his
+every receptionist, his table greeted.	every receptionist	his
+every librarian, his change organized.	every librarian	his
+every programmer, his visitor coded for.	every programmer	his
+every mentor, his teammate mentored.	every mentor	his
+every consultant, his story advised.	every consultant	his
+every editor, his enemy edited.	every editor	his
+every model, his topic posed for.	every model	his
+every influencer, his fans influenced.	every influencer	his
+every officer, his troupe patrolled.	every officer	his
+every coach, his path coached.	every coach	his
+every cleaner, his team cleaned.	every cleaner	his
+every artist, his players created for.	every artist	his
+every designer, his space designed for.	every designer	his
+every stylist, his election styled.	every stylist	his
+every banker, his route invested.	every banker	his
+every cashier, his opponent counted.	every cashier	his
+every clerk, his data assisted.	every clerk	his
+every director, his company directed.	every director	his
+every producer, his show produced for.	every producer	his
+every writer, his publication wrote for.	every writer	his
+every journalist, his story reported on.	every journalist	his
+every critic, his review critiqued.	every critic	his
+every developer, his application developed for.	every developer	his
+every entrepreneur, his startup founded.	every entrepreneur	his
+every host, his event hosted.	every host	his
+every CEO, his company led.	every CEO	his
+every manager, his department managed.	every manager	his
+every salesperson, his customer sold to.	every salesperson	his
+every marketer, his campaign marketed for.	every marketer	his
+every intern, his supervisor interned for.	every intern	his
+every analyst, his data analyzed.	every analyst	his
+every researcher, his topic researched.	every researcher	his
+every scientist, his experiment researched.	every scientist	his
+every professor, his class taught.	every professor	his
+every student, his subject studied.	every student	his
+every doctor, his patient treated.	every doctor	his
+every nurse, his patient cared for.	every nurse	his
+every therapist, his client counseled.	every therapist	his
+every patient, his doctor consulted.	every patient	his
+every therapist, his client counseled.	every therapist	his
+every patient, his doctor consulted.	every patient	his
+every client, his advisor consulted.	every client	his
+every attorney, his client represented.	every attorney	his
+every defendant, his case defended.	every defendant	his
+every judge, his trial judged.	every judge	his
+every witness, his case testified for.	every witness	his
+every researcher, his hypothesis researched.	every researcher	his
+every participant, his study participated for.	every participant	his
+every volunteer, his cause volunteered for.	every volunteer	his
+every donor, his charity donated to.	every donor	his

@@ -1,0 +1,100 @@
+Kelly helped, the student.	Kelly	the student
+Xander painted, the artist.	Xander	the artist
+Miller cooked, the chef.	Miller	the chef
+Ortiz impressed, the dancer.	Ortiz	the dancer
+York inspired, the writer.	York	the writer
+Yang trained, the athlete.	Yang	the athlete
+Martinez composed, the musician.	Martinez	the musician
+Taylor treated, the doctor.	Taylor	the doctor
+Stewart discovered, the scientist.	Stewart	the scientist
+Zavala drove, the driver.	Zavala	the driver
+Quinn educated, the teacher.	Quinn	the teacher
+Barrett planted, the gardener.	Barrett	the gardener
+Quinn designed, the engineer.	Quinn	the engineer
+Stewart performed, the actor.	Stewart	the actor
+Parker captured, the photographer.	Parker	the photographer
+Peterson organized, the librarian.	Peterson	the librarian
+Diaz invested, the banker.	Diaz	the banker
+Jenkins sewed, the tailor.	Jenkins	the tailor
+Kelly flew, the pilot.	Kelly	the pilot
+White defended, the lawyer.	White	the lawyer
+Zimmerman designed, the architect.	Zimmerman	the architect
+Jackson cooked, the chef.	Jackson	the chef
+Ward cared for, the nurse.	Ward	the nurse
+Zimmerman harvested, the farmer.	Zimmerman	the farmer
+Johnson fixed, the plumber.	Johnson	the plumber
+Xu counted, the cashier.	Xu	the cashier
+Evans painted, the painter.	Evans	the painter
+Norris counseled, the therapist.	Norris	the therapist
+Underwood sang to, the singer.	Underwood	the singer
+Sanders rescued, the firefighter.	Sanders	the firefighter
+Nguyen caught, the fisherman.	Nguyen	the fisherman
+Underwood served, the bartender.	Underwood	the bartender
+Vincent served, the waiter.	Vincent	the waiter
+Underwood counted, the cashier.	Underwood	the cashier
+Knight greeted, the receptionist.	Knight	the receptionist
+Lopez trained, the athlete.	Lopez	the athlete
+Hernandez reported on, the journalist.	Hernandez	the journalist
+Patterson fought, the soldier.	Patterson	the soldier
+Douglas researched, the scientist.	Douglas	the scientist
+Johnson played for, the musician.	Johnson	the musician
+Lawson danced for, the dancer.	Lawson	the dancer
+Parker discovered, the explorer.	Parker	the explorer
+Miller managed, the manager.	Miller	the manager
+York trained, the coach.	York	the coach
+Carter cleaned, the cleaner.	Carter	the cleaner
+Bishop campaigned for, the politician.	Bishop	the politician
+Zane drove, the driver.	Zane	the driver
+Stewart played against, the gamer.	Stewart	the gamer
+Lawson analyzed, the analyst.	Lawson	the analyst
+Knight led, the CEO.	Knight	the CEO
+Lee greeted, the receptionist.	Lee	the receptionist
+Zavala organized, the librarian.	Zavala	the librarian
+Lopez coded for, the programmer.	Lopez	the programmer
+Carter mentored, the mentor.	Carter	the mentor
+Thompson advised, the consultant.	Thompson	the consultant
+Vaughn edited, the editor.	Vaughn	the editor
+Robinson posed for, the model.	Robinson	the model
+Taylor influenced, the influencer.	Taylor	the influencer
+Franklin patrolled, the officer.	Franklin	the officer
+Hernandez coached, the coach.	Hernandez	the coach
+Anderson cleaned, the cleaner.	Anderson	the cleaner
+Perez created for, the artist.	Perez	the artist
+Underwood designed for, the designer.	Underwood	the designer
+Barrett styled, the stylist.	Barrett	the stylist
+Ulrich invested, the banker.	Ulrich	the banker
+Freeman counted, the cashier.	Freeman	the cashier
+Quinn assisted, the clerk.	Quinn	the clerk
+Quinn directed, the director.	Quinn	the director
+Bennett produced for, the producer.	Bennett	the producer
+Barrett wrote for, the writer.	Barrett	the writer
+Usher reported on, the journalist.	Usher	the journalist
+Underwood critiqued, the critic.	Underwood	the critic
+Underhill developed for, the developer.	Underhill	the developer
+Martinez founded, the entrepreneur.	Martinez	the entrepreneur
+Hernandez hosted, the host.	Hernandez	the host
+King led, the CEO.	King	the CEO
+Douglas managed, the manager.	Douglas	the manager
+Flores sold to, the salesperson.	Flores	the salesperson
+Quinn marketed for, the marketer.	Quinn	the marketer
+Barrett interned for, the intern.	Barrett	the intern
+Zeller analyzed, the analyst.	Zeller	the analyst
+Young researched, the researcher.	Young	the researcher
+Mitchell researched, the scientist.	Mitchell	the scientist
+Clark taught, the professor.	Clark	the professor
+Knight studied, the student.	Knight	the student
+Thompson treated, the doctor.	Thompson	the doctor
+Richardson cared for, the nurse.	Richardson	the nurse
+Zeller counseled, the therapist.	Zeller	the therapist
+Ingram consulted, the patient.	Ingram	the patient
+Knight counseled, the therapist.	Knight	the therapist
+Hughes consulted, the patient.	Hughes	the patient
+Underhill consulted, the client.	Underhill	the client
+Perez represented, the attorney.	Perez	the attorney
+Peterson defended, the defendant.	Peterson	the defendant
+Brooks judged, the judge.	Brooks	the judge
+Grant testified for, the witness.	Grant	the witness
+Lawson researched, the researcher.	Lawson	the researcher
+Moore participated for, the participant.	Moore	the participant
+Collins volunteered for, the volunteer.	Collins	the volunteer
+Walker donated to, the donor.	Walker	the donor

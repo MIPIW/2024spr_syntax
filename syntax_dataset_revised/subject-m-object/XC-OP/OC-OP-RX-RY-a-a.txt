@@ -1,0 +1,100 @@
+A student, a student helped.	A student	a student
+A artist, a artist painted.	A artist	a artist
+A chef, a chef cooked.	A chef	a chef
+A dancer, a dancer impressed.	A dancer	a dancer
+A writer, a writer inspired.	A writer	a writer
+A athlete, a athlete trained.	A athlete	a athlete
+A musician, a musician composed.	A musician	a musician
+A doctor, a doctor treated.	A doctor	a doctor
+A scientist, a scientist discovered.	A scientist	a scientist
+A driver, a driver drove.	A driver	a driver
+A teacher, a teacher educated.	A teacher	a teacher
+A gardener, a gardener planted.	A gardener	a gardener
+A engineer, a engineer designed.	A engineer	a engineer
+A actor, a actor performed.	A actor	a actor
+A photographer, a photographer captured.	A photographer	a photographer
+A librarian, a librarian organized.	A librarian	a librarian
+A banker, a banker invested.	A banker	a banker
+A tailor, a tailor sewed.	A tailor	a tailor
+A pilot, a pilot flew.	A pilot	a pilot
+A lawyer, a lawyer defended.	A lawyer	a lawyer
+A architect, a architect designed.	A architect	a architect
+A chef, a chef cooked.	A chef	a chef
+A nurse, a nurse cared for.	A nurse	a nurse
+A farmer, a farmer harvested.	A farmer	a farmer
+A plumber, a plumber fixed.	A plumber	a plumber
+A cashier, a cashier counted.	A cashier	a cashier
+A painter, a painter painted.	A painter	a painter
+A therapist, a therapist counseled.	A therapist	a therapist
+A singer, a singer sang to.	A singer	a singer
+A firefighter, a firefighter rescued.	A firefighter	a firefighter
+A fisherman, a fisherman caught.	A fisherman	a fisherman
+A bartender, a bartender served.	A bartender	a bartender
+A waiter, a waiter served.	A waiter	a waiter
+A cashier, a cashier counted.	A cashier	a cashier
+A receptionist, a receptionist greeted.	A receptionist	a receptionist
+A athlete, a athlete trained.	A athlete	a athlete
+A journalist, a journalist reported on.	A journalist	a journalist
+A soldier, a soldier fought.	A soldier	a soldier
+A scientist, a scientist researched.	A scientist	a scientist
+A musician, a musician played for.	A musician	a musician
+A dancer, a dancer danced for.	A dancer	a dancer
+A explorer, a explorer discovered.	A explorer	a explorer
+A manager, a manager managed.	A manager	a manager
+A coach, a coach trained.	A coach	a coach
+A cleaner, a cleaner cleaned.	A cleaner	a cleaner
+A politician, a politician campaigned for.	A politician	a politician
+A driver, a driver drove.	A driver	a driver
+A gamer, a gamer played against.	A gamer	a gamer
+A analyst, a analyst analyzed.	A analyst	a analyst
+A CEO, a CEO led.	A CEO	a CEO
+A receptionist, a receptionist greeted.	A receptionist	a receptionist
+A librarian, a librarian organized.	A librarian	a librarian
+A programmer, a programmer coded for.	A programmer	a programmer
+A mentor, a mentor mentored.	A mentor	a mentor
+A consultant, a consultant advised.	A consultant	a consultant
+A editor, a editor edited.	A editor	a editor
+A model, a model posed for.	A model	a model
+A influencer, a influencer influenced.	A influencer	a influencer
+A officer, a officer patrolled.	A officer	a officer
+A coach, a coach coached.	A coach	a coach
+A cleaner, a cleaner cleaned.	A cleaner	a cleaner
+A artist, a artist created for.	A artist	a artist
+A designer, a designer designed for.	A designer	a designer
+A stylist, a stylist styled.	A stylist	a stylist
+A banker, a banker invested.	A banker	a banker
+A cashier, a cashier counted.	A cashier	a cashier
+A clerk, a clerk assisted.	A clerk	a clerk
+A director, a director directed.	A director	a director
+A producer, a producer produced for.	A producer	a producer
+A writer, a writer wrote for.	A writer	a writer
+A journalist, a journalist reported on.	A journalist	a journalist
+A critic, a critic critiqued.	A critic	a critic
+A developer, a developer developed for.	A developer	a developer
+A entrepreneur, a entrepreneur founded.	A entrepreneur	a entrepreneur
+A host, a host hosted.	A host	a host
+A CEO, a CEO led.	A CEO	a CEO
+A manager, a manager managed.	A manager	a manager
+A salesperson, a salesperson sold to.	A salesperson	a salesperson
+A marketer, a marketer marketed for.	A marketer	a marketer
+A intern, a intern interned for.	A intern	a intern
+A analyst, a analyst analyzed.	A analyst	a analyst
+A researcher, a researcher researched.	A researcher	a researcher
+A scientist, a scientist researched.	A scientist	a scientist
+A professor, a professor taught.	A professor	a professor
+A student, a student studied.	A student	a student
+A doctor, a doctor treated.	A doctor	a doctor
+A nurse, a nurse cared for.	A nurse	a nurse
+A therapist, a therapist counseled.	A therapist	a therapist
+A patient, a patient consulted.	A patient	a patient
+A therapist, a therapist counseled.	A therapist	a therapist
+A patient, a patient consulted.	A patient	a patient
+A client, a client consulted.	A client	a client
+A attorney, a attorney represented.	A attorney	a attorney
+A defendant, a defendant defended.	A defendant	a defendant
+A judge, a judge judged.	A judge	a judge
+A witness, a witness testified for.	A witness	a witness
+A researcher, a researcher researched.	A researcher	a researcher
+A participant, a participant participated for.	A participant	a participant
+A volunteer, a volunteer volunteered for.	A volunteer	a volunteer
+A donor, a donor donated to.	A donor	a donor

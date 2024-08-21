@@ -1,0 +1,100 @@
+the student helped Johnson.	the student	Johnson
+the artist painted Smith.	the artist	Smith
+the chef cooked Brown.	the chef	Brown
+the dancer impressed Davis.	the dancer	Davis
+the writer inspired Miller.	the writer	Miller
+the athlete trained Wilson.	the athlete	Wilson
+the musician composed Moore.	the musician	Moore
+the doctor treated Taylor.	the doctor	Taylor
+the scientist discovered Anderson.	the scientist	Anderson
+the driver drove Thomas.	the driver	Thomas
+the teacher educated Jackson.	the teacher	Jackson
+the gardener planted White.	the gardener	White
+the engineer designed Harris.	the engineer	Harris
+the actor performed Martin.	the actor	Martin
+the photographer captured Thompson.	the photographer	Thompson
+the librarian organized Martinez.	the librarian	Martinez
+the banker invested Garcia.	the banker	Garcia
+the tailor sewed Robinson.	the tailor	Robinson
+the pilot flew Clark.	the pilot	Clark
+the lawyer defended Rodriguez.	the lawyer	Rodriguez
+the architect designed Lewis.	the architect	Lewis
+the chef cooked Lee.	the chef	Lee
+the nurse cared for Walker.	the nurse	Walker
+the farmer harvested Hall.	the farmer	Hall
+the plumber fixed Allen.	the plumber	Allen
+the cashier counted Young.	the cashier	Young
+the painter painted King.	the painter	King
+the therapist counseled Wright.	the therapist	Wright
+the singer sang to Scott.	the singer	Scott
+the firefighter rescued Green.	the firefighter	Green
+the fisherman caught Adams.	the fisherman	Adams
+the bartender served Baker.	the bartender	Baker
+the waiter served Gonzalez.	the waiter	Gonzalez
+the cashier counted Nelson.	the cashier	Nelson
+the receptionist greeted Carter.	the receptionist	Carter
+the athlete trained Mitchell.	the athlete	Mitchell
+the journalist reported on Perez.	the journalist	Perez
+the soldier fought Roberts.	the soldier	Roberts
+the scientist researched Turner.	the scientist	Turner
+the musician played for Phillips.	the musician	Phillips
+the dancer danced for Campbell.	the dancer	Campbell
+the explorer discovered Parker.	the explorer	Parker
+the manager managed Evans.	the manager	Evans
+the coach trained Edwards.	the coach	Edwards
+the cleaner cleaned Collins.	the cleaner	Collins
+the politician campaigned for Stewart.	the politician	Stewart
+the driver drove Sanchez.	the driver	Sanchez
+the gamer played against Morris.	the gamer	Morris
+the analyst analyzed Rogers.	the analyst	Rogers
+the CEO led Cook.	the CEO	Cook
+the receptionist greeted Reed.	the receptionist	Reed
+the librarian organized Morgan.	the librarian	Morgan
+the programmer coded for Bell.	the programmer	Bell
+the mentor mentored Cooper.	the mentor	Cooper
+the consultant advised Richardson.	the consultant	Richardson
+the editor edited Cox.	the editor	Cox
+the model posed for Howard.	the model	Howard
+the influencer influenced Ward.	the influencer	Ward
+the officer patrolled Torres.	the officer	Torres
+the coach coached Peterson.	the coach	Peterson
+the cleaner cleaned Gray.	the cleaner	Gray
+the artist created for Ramirez.	the artist	Ramirez
+the designer designed for James.	the designer	James
+the stylist styled Watson.	the stylist	Watson
+the banker invested Brooks.	the banker	Brooks
+the cashier counted Kelly.	the cashier	Kelly
+the clerk assisted Sanders.	the clerk	Sanders
+the director directed Price.	the director	Price
+the producer produced for Bennett.	the producer	Bennett
+the writer wrote for Wood.	the writer	Wood
+the journalist reported on Barnes.	the journalist	Barnes
+the critic critiqued Ross.	the critic	Ross
+the developer developed for Henderson.	the developer	Henderson
+the entrepreneur founded Coleman.	the entrepreneur	Coleman
+the host hosted Jenkins.	the host	Jenkins
+the CEO led Perry.	the CEO	Perry
+the manager managed Powell.	the manager	Powell
+the salesperson sold to Long.	the salesperson	Long
+the marketer marketed for Patterson.	the marketer	Patterson
+the intern interned for Hughes.	the intern	Hughes
+the analyst analyzed Flores.	the analyst	Flores
+the researcher researched Washington.	the researcher	Washington
+the scientist researched Butler.	the scientist	Butler
+the professor taught Johnson.	the professor	Johnson
+the student studied Martinez.	the student	Martinez
+the doctor treated Robinson.	the doctor	Robinson
+the nurse cared for Thompson.	the nurse	Thompson
+the therapist counseled Clark.	the therapist	Clark
+the patient consulted Rodriguez.	the patient	Rodriguez
+the therapist counseled Lewis.	the therapist	Lewis
+the patient consulted Lee.	the patient	Lee
+the client consulted Walker.	the client	Walker
+the attorney represented Hall.	the attorney	Hall
+the defendant defended Allen.	the defendant	Allen
+the judge judged Young.	the judge	Young
+the witness testified for King.	the witness	King
+the researcher researched Wright.	the researcher	Wright
+the participant participated for Green.	the participant	Green
+the volunteer volunteered for Adams.	the volunteer	Adams
+the donor donated to Baker.	the donor	Baker

@@ -1,0 +1,100 @@
+he helped, Johnson.	he	Johnson
+he painted, Smith.	he	Smith
+he cooked, Brown.	he	Brown
+he impressed, Davis.	he	Davis
+he inspired, Miller.	he	Miller
+he trained, Wilson.	he	Wilson
+he composed, Moore.	he	Moore
+he treated, Taylor.	he	Taylor
+he discovered, Anderson.	he	Anderson
+he drove, Thomas.	he	Thomas
+he educated, Jackson.	he	Jackson
+he planted, White.	he	White
+he designed, Harris.	he	Harris
+he performed, Martin.	he	Martin
+he captured, Thompson.	he	Thompson
+he organized, Martinez.	he	Martinez
+he invested, Garcia.	he	Garcia
+he sewed, Robinson.	he	Robinson
+he flew, Clark.	he	Clark
+he defended, Rodriguez.	he	Rodriguez
+he designed, Lewis.	he	Lewis
+he cooked, Lee.	he	Lee
+he cared for, Walker.	he	Walker
+he harvested, Hall.	he	Hall
+he fixed, Allen.	he	Allen
+he counted, Young.	he	Young
+he painted, King.	he	King
+he counseled, Wright.	he	Wright
+he sang to, Scott.	he	Scott
+he rescued, Green.	he	Green
+he caught, Adams.	he	Adams
+he served, Baker.	he	Baker
+he served, Gonzalez.	he	Gonzalez
+he counted, Nelson.	he	Nelson
+he greeted, Carter.	he	Carter
+he trained, Mitchell.	he	Mitchell
+he reported on, Perez.	he	Perez
+he fought, Roberts.	he	Roberts
+he researched, Turner.	he	Turner
+he played for, Phillips.	he	Phillips
+he danced for, Campbell.	he	Campbell
+he discovered, Parker.	he	Parker
+he managed, Evans.	he	Evans
+he trained, Edwards.	he	Edwards
+he cleaned, Collins.	he	Collins
+he campaigned for, Stewart.	he	Stewart
+he drove, Sanchez.	he	Sanchez
+he played against, Morris.	he	Morris
+he analyzed, Rogers.	he	Rogers
+he led, Cook.	he	Cook
+he greeted, Reed.	he	Reed
+he organized, Morgan.	he	Morgan
+he coded for, Bell.	he	Bell
+he mentored, Cooper.	he	Cooper
+he advised, Richardson.	he	Richardson
+he edited, Cox.	he	Cox
+he posed for, Howard.	he	Howard
+he influenced, Ward.	he	Ward
+he patrolled, Torres.	he	Torres
+he coached, Peterson.	he	Peterson
+he cleaned, Gray.	he	Gray
+he created for, Ramirez.	he	Ramirez
+he designed for, James.	he	James
+he styled, Watson.	he	Watson
+he invested, Brooks.	he	Brooks
+he counted, Kelly.	he	Kelly
+he assisted, Sanders.	he	Sanders
+he directed, Price.	he	Price
+he produced for, Bennett.	he	Bennett
+he wrote for, Wood.	he	Wood
+he reported on, Barnes.	he	Barnes
+he critiqued, Ross.	he	Ross
+he developed for, Henderson.	he	Henderson
+he founded, Coleman.	he	Coleman
+he hosted, Jenkins.	he	Jenkins
+he led, Perry.	he	Perry
+he managed, Powell.	he	Powell
+he sold to, Long.	he	Long
+he marketed for, Patterson.	he	Patterson
+he interned for, Hughes.	he	Hughes
+he analyzed, Flores.	he	Flores
+he researched, Washington.	he	Washington
+he researched, Butler.	he	Butler
+he taught, Johnson.	he	Johnson
+he studied, Martinez.	he	Martinez
+he treated, Robinson.	he	Robinson
+he cared for, Thompson.	he	Thompson
+he counseled, Clark.	he	Clark
+he consulted, Rodriguez.	he	Rodriguez
+he counseled, Lewis.	he	Lewis
+he consulted, Lee.	he	Lee
+he consulted, Walker.	he	Walker
+he represented, Hall.	he	Hall
+he defended, Allen.	he	Allen
+he judged, Young.	he	Young
+he testified for, King.	he	King
+he researched, Wright.	he	Wright
+he participated for, Green.	he	Green
+he volunteered for, Adams.	he	Adams
+he donated to, Baker.	he	Baker

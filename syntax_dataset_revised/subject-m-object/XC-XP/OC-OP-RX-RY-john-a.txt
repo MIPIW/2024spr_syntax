@@ -1,0 +1,100 @@
+a student helped Underwood.	Underwood	a student
+a artist painted Norris.	Norris	a artist
+a chef cooked Harris.	Harris	a chef
+a dancer impressed Underhill.	Underhill	a dancer
+a writer inspired King.	King	a writer
+a athlete trained Irving.	Irving	a athlete
+a musician composed Jackson.	Jackson	a musician
+a doctor treated Waters.	Waters	a doctor
+a scientist discovered Mitchell.	Mitchell	a scientist
+a driver drove Douglas.	Douglas	a driver
+a teacher educated Lawson.	Lawson	a teacher
+a gardener planted Clark.	Clark	a gardener
+a engineer designed Barrett.	Barrett	a engineer
+a actor performed Thompson.	Thompson	a actor
+a photographer captured Stewart.	Stewart	a photographer
+a librarian organized Bennett.	Bennett	a librarian
+a banker invested Vasquez.	Vasquez	a banker
+a tailor sewed O'Brien.	O'Brien	a tailor
+a pilot flew Franklin.	Franklin	a pilot
+a lawyer defended Vega.	Vega	a lawyer
+a architect designed Carter.	Carter	a architect
+a chef cooked Xu.	Xu	a chef
+a nurse cared for Xu.	Xu	a nurse
+a farmer harvested Young.	Young	a farmer
+a plumber fixed Adams.	Adams	a plumber
+a cashier counted Usher.	Usher	a cashier
+a painter painted Zavala.	Zavala	a painter
+a therapist counseled Perez.	Perez	a therapist
+a singer sang to Young.	Young	a singer
+a firefighter rescued Zane.	Zane	a firefighter
+a fisherman caught Alexander.	Alexander	a fisherman
+a bartender served Reed.	Reed	a bartender
+a waiter served Hernandez.	Hernandez	a waiter
+a cashier counted Xu.	Xu	a cashier
+a receptionist greeted Ramirez.	Ramirez	a receptionist
+a athlete trained Underhill.	Underhill	a athlete
+a journalist reported on Martinez.	Martinez	a journalist
+a soldier fought Scott.	Scott	a soldier
+a scientist researched Usher.	Usher	a scientist
+a musician played for Grant.	Grant	a musician
+a dancer danced for Grant.	Grant	a dancer
+a explorer discovered Walker.	Walker	a explorer
+a manager managed Grant.	Grant	a manager
+a coach trained Perez.	Perez	a coach
+a cleaner cleaned Ortiz.	Ortiz	a cleaner
+a politician campaigned for Knight.	Knight	a politician
+a driver drove Sanders.	Sanders	a driver
+a gamer played against Scott.	Scott	a gamer
+a analyst analyzed Alexander.	Alexander	a analyst
+a CEO led Ulrich.	Ulrich	a CEO
+a receptionist greeted Irving.	Irving	a receptionist
+a librarian organized Quinn.	Quinn	a librarian
+a programmer coded for Bennett.	Bennett	a programmer
+a mentor mentored Foster.	Foster	a mentor
+a consultant advised Thompson.	Thompson	a consultant
+a editor edited Quinn.	Quinn	a editor
+a model posed for Campbell.	Campbell	a model
+a influencer influenced Irving.	Irving	a influencer
+a officer patrolled Franklin.	Franklin	a officer
+a coach coached Franklin.	Franklin	a coach
+a cleaner cleaned Zane.	Zane	a cleaner
+a artist created for Underhill.	Underhill	a artist
+a designer designed for Reed.	Reed	a designer
+a stylist styled Xander.	Xander	a stylist
+a banker invested Underhill.	Underhill	a banker
+a cashier counted Quinn.	Quinn	a cashier
+a clerk assisted Patterson.	Patterson	a clerk
+a director directed Ward.	Ward	a director
+a producer produced for Hernandez.	Hernandez	a producer
+a writer wrote for Zane.	Zane	a writer
+a journalist reported on Xenos.	Xenos	a journalist
+a critic critiqued Garcia.	Garcia	a critic
+a developer developed for Ingram.	Ingram	a developer
+a entrepreneur founded Nguyen.	Nguyen	a entrepreneur
+a host hosted Xu.	Xu	a host
+a CEO led Gordon.	Gordon	a CEO
+a manager managed Quinn.	Quinn	a manager
+a salesperson sold to Bishop.	Bishop	a salesperson
+a marketer marketed for Martinez.	Martinez	a marketer
+a intern interned for Douglas.	Douglas	a intern
+a analyst analyzed Bishop.	Bishop	a analyst
+a researcher researched York.	York	a researcher
+a scientist researched Elliott.	Elliott	a scientist
+a professor taught Walker.	Walker	a professor
+a student studied Norris.	Norris	a student
+a doctor treated Usher.	Usher	a doctor
+a nurse cared for Zavala.	Zavala	a nurse
+a therapist counseled Perez.	Perez	a therapist
+a patient consulted Campbell.	Campbell	a patient
+a therapist counseled Foster.	Foster	a therapist
+a patient consulted Jenkins.	Jenkins	a patient
+a client consulted Diaz.	Diaz	a client
+a attorney represented Owens.	Owens	a attorney
+a defendant defended Grant.	Grant	a defendant
+a judge judged Freeman.	Freeman	a judge
+a witness testified for Knight.	Knight	a witness
+a researcher researched Hernandez.	Hernandez	a researcher
+a participant participated for Knight.	Knight	a participant
+a volunteer volunteered for Anderson.	Anderson	a volunteer
+a donor donated to Xander.	Xander	a donor

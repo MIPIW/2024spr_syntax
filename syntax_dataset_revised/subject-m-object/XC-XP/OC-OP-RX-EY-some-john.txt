@@ -1,0 +1,100 @@
+Johnson's guest helped some student.	some student	Johnson
+Smith's collection painted some artist.	some artist	Smith
+Brown's project cooked some chef.	some chef	Brown
+Davis's protégé impressed some dancer.	some dancer	Davis
+Miller's client inspired some writer.	some writer	Miller
+Wilson's manuscript trained some athlete.	some athlete	Wilson
+Moore's photoshoot composed some musician.	some musician	Moore
+Taylor's followers treated some doctor.	some doctor	Taylor
+Anderson's beat discovered some scientist.	some scientist	Anderson
+Thomas's team drove some driver.	some driver	Thomas
+Jackson's space educated some teacher.	some teacher	Jackson
+White's portfolio planted some gardener.	some gardener	White
+Harris's client designed some engineer.	some engineer	Harris
+Martin's outfit performed some actor.	some actor	Martin
+Thompson's funds captured some photographer.	some photographer	Thompson
+Martinez's till organized some librarian.	some librarian	Martinez
+Garcia's customer invested some banker.	some banker	Garcia
+Robinson's film sewed some tailor.	some tailor	Robinson
+Clark's peer flew some pilot.	some pilot	Clark
+Rodriguez's self-portrait defended some lawyer.	some lawyer	Rodriguez
+Lewis's own designed some architect.	some architect	Lewis
+Lee's audience cooked some chef.	some chef	Lee
+Walker's readers cared for some nurse.	some nurse	Walker
+Hall's partner harvested some farmer.	some farmer	Hall
+Allen's symphony fixed some plumber.	some plumber	Allen
+Young's patient counted some cashier.	some cashier	Young
+King's breakthrough painted some painter.	some painter	King
+Wright's vehicle counseled some therapist.	some therapist	Wright
+Scott's students sang to some singer.	some singer	Scott
+Green's flowers rescued some firefighter.	some firefighter	Green
+Adams's structure caught some fisherman.	some fisherman	Adams
+Baker's role served some bartender.	some bartender	Baker
+Gonzalez's moment served some waiter.	some waiter	Gonzalez
+Nelson's collection counted some cashier.	some cashier	Nelson
+Carter's funds greeted some receptionist.	some receptionist	Carter
+Mitchell's garment trained some athlete.	some athlete	Mitchell
+Perez's aircraft reported on some journalist.	some journalist	Perez
+Roberts's client fought some soldier.	some soldier	Roberts
+Turner's blueprint researched some scientist.	some scientist	Turner
+Phillips's dish played for some musician.	some musician	Phillips
+Campbell's patient danced for some dancer.	some dancer	Campbell
+Parker's crops discovered some explorer.	some explorer	Parker
+Evans's pipes managed some manager.	some manager	Evans
+Edwards's money trained some coach.	some coach	Edwards
+Collins's canvas cleaned some cleaner.	some cleaner	Collins
+Stewart's patient campaigned for some politician.	some politician	Stewart
+Sanchez's audience drove some driver.	some driver	Sanchez
+Morris's comrade played against some gamer.	some gamer	Morris
+Rogers's fish analyzed some analyst.	some analyst	Rogers
+Cook's drink led some CEO.	some CEO	Cook
+Reed's table greeted some receptionist.	some receptionist	Reed
+Morgan's change organized some librarian.	some librarian	Morgan
+Bell's visitor coded for some programmer.	some programmer	Bell
+Cooper's teammate mentored some mentor.	some mentor	Cooper
+Richardson's story advised some consultant.	some consultant	Richardson
+Cox's enemy edited some editor.	some editor	Cox
+Howard's topic posed for some model.	some model	Howard
+Ward's fans influenced some influencer.	some influencer	Ward
+Torres's troupe patrolled some officer.	some officer	Torres
+Peterson's path coached some coach.	some coach	Peterson
+Gray's team cleaned some cleaner.	some cleaner	Gray
+Ramirez's players created for some artist.	some artist	Ramirez
+James's space designed for some designer.	some designer	James
+Watson's election styled some stylist.	some stylist	Watson
+Brooks's route invested some banker.	some banker	Brooks
+Kelly's opponent counted some cashier.	some cashier	Kelly
+Sanders's data assisted some clerk.	some clerk	Sanders
+Price's company directed some director.	some director	Price
+Bennett's show produced for some producer.	some producer	Bennett
+Wood's publication wrote for some writer.	some writer	Wood
+Barnes's story reported on some journalist.	some journalist	Barnes
+Ross's review critiqued some critic.	some critic	Ross
+Henderson's application developed for some developer.	some developer	Henderson
+Coleman's startup founded some entrepreneur.	some entrepreneur	Coleman
+Jenkins's event hosted some host.	some host	Jenkins
+Perry's company led some CEO.	some CEO	Perry
+Powell's department managed some manager.	some manager	Powell
+Long's customer sold to some salesperson.	some salesperson	Long
+Patterson's campaign marketed for some marketer.	some marketer	Patterson
+Hughes's supervisor interned for some intern.	some intern	Hughes
+Flores's data analyzed some analyst.	some analyst	Flores
+Washington's topic researched some researcher.	some researcher	Washington
+Butler's experiment researched some scientist.	some scientist	Butler
+Johnson's class taught some professor.	some professor	Johnson
+Martinez's subject studied some student.	some student	Martinez
+Robinson's patient treated some doctor.	some doctor	Robinson
+Thompson's patient cared for some nurse.	some nurse	Thompson
+Clark's client counseled some therapist.	some therapist	Clark
+Rodriguez's doctor consulted some patient.	some patient	Rodriguez
+Lewis's client counseled some therapist.	some therapist	Lewis
+Lee's doctor consulted some patient.	some patient	Lee
+Walker's advisor consulted some client.	some client	Walker
+Hall's client represented some attorney.	some attorney	Hall
+Allen's case defended some defendant.	some defendant	Allen
+Young's trial judged some judge.	some judge	Young
+King's case testified for some witness.	some witness	King
+Wright's hypothesis researched some researcher.	some researcher	Wright
+Green's study participated for some participant.	some participant	Green
+Adams's cause volunteered for some volunteer.	some volunteer	Adams
+Baker's charity donated to some donor.	some donor	Baker

@@ -1,0 +1,100 @@
+the student helped, the student.	the student	the student
+the artist painted, the artist.	the artist	the artist
+the chef cooked, the chef.	the chef	the chef
+the dancer impressed, the dancer.	the dancer	the dancer
+the writer inspired, the writer.	the writer	the writer
+the athlete trained, the athlete.	the athlete	the athlete
+the musician composed, the musician.	the musician	the musician
+the doctor treated, the doctor.	the doctor	the doctor
+the scientist discovered, the scientist.	the scientist	the scientist
+the driver drove, the driver.	the driver	the driver
+the teacher educated, the teacher.	the teacher	the teacher
+the gardener planted, the gardener.	the gardener	the gardener
+the engineer designed, the engineer.	the engineer	the engineer
+the actor performed, the actor.	the actor	the actor
+the photographer captured, the photographer.	the photographer	the photographer
+the librarian organized, the librarian.	the librarian	the librarian
+the banker invested, the banker.	the banker	the banker
+the tailor sewed, the tailor.	the tailor	the tailor
+the pilot flew, the pilot.	the pilot	the pilot
+the lawyer defended, the lawyer.	the lawyer	the lawyer
+the architect designed, the architect.	the architect	the architect
+the chef cooked, the chef.	the chef	the chef
+the nurse cared for, the nurse.	the nurse	the nurse
+the farmer harvested, the farmer.	the farmer	the farmer
+the plumber fixed, the plumber.	the plumber	the plumber
+the cashier counted, the cashier.	the cashier	the cashier
+the painter painted, the painter.	the painter	the painter
+the therapist counseled, the therapist.	the therapist	the therapist
+the singer sang to, the singer.	the singer	the singer
+the firefighter rescued, the firefighter.	the firefighter	the firefighter
+the fisherman caught, the fisherman.	the fisherman	the fisherman
+the bartender served, the bartender.	the bartender	the bartender
+the waiter served, the waiter.	the waiter	the waiter
+the cashier counted, the cashier.	the cashier	the cashier
+the receptionist greeted, the receptionist.	the receptionist	the receptionist
+the athlete trained, the athlete.	the athlete	the athlete
+the journalist reported on, the journalist.	the journalist	the journalist
+the soldier fought, the soldier.	the soldier	the soldier
+the scientist researched, the scientist.	the scientist	the scientist
+the musician played for, the musician.	the musician	the musician
+the dancer danced for, the dancer.	the dancer	the dancer
+the explorer discovered, the explorer.	the explorer	the explorer
+the manager managed, the manager.	the manager	the manager
+the coach trained, the coach.	the coach	the coach
+the cleaner cleaned, the cleaner.	the cleaner	the cleaner
+the politician campaigned for, the politician.	the politician	the politician
+the driver drove, the driver.	the driver	the driver
+the gamer played against, the gamer.	the gamer	the gamer
+the analyst analyzed, the analyst.	the analyst	the analyst
+the CEO led, the CEO.	the CEO	the CEO
+the receptionist greeted, the receptionist.	the receptionist	the receptionist
+the librarian organized, the librarian.	the librarian	the librarian
+the programmer coded for, the programmer.	the programmer	the programmer
+the mentor mentored, the mentor.	the mentor	the mentor
+the consultant advised, the consultant.	the consultant	the consultant
+the editor edited, the editor.	the editor	the editor
+the model posed for, the model.	the model	the model
+the influencer influenced, the influencer.	the influencer	the influencer
+the officer patrolled, the officer.	the officer	the officer
+the coach coached, the coach.	the coach	the coach
+the cleaner cleaned, the cleaner.	the cleaner	the cleaner
+the artist created for, the artist.	the artist	the artist
+the designer designed for, the designer.	the designer	the designer
+the stylist styled, the stylist.	the stylist	the stylist
+the banker invested, the banker.	the banker	the banker
+the cashier counted, the cashier.	the cashier	the cashier
+the clerk assisted, the clerk.	the clerk	the clerk
+the director directed, the director.	the director	the director
+the producer produced for, the producer.	the producer	the producer
+the writer wrote for, the writer.	the writer	the writer
+the journalist reported on, the journalist.	the journalist	the journalist
+the critic critiqued, the critic.	the critic	the critic
+the developer developed for, the developer.	the developer	the developer
+the entrepreneur founded, the entrepreneur.	the entrepreneur	the entrepreneur
+the host hosted, the host.	the host	the host
+the CEO led, the CEO.	the CEO	the CEO
+the manager managed, the manager.	the manager	the manager
+the salesperson sold to, the salesperson.	the salesperson	the salesperson
+the marketer marketed for, the marketer.	the marketer	the marketer
+the intern interned for, the intern.	the intern	the intern
+the analyst analyzed, the analyst.	the analyst	the analyst
+the researcher researched, the researcher.	the researcher	the researcher
+the scientist researched, the scientist.	the scientist	the scientist
+the professor taught, the professor.	the professor	the professor
+the student studied, the student.	the student	the student
+the doctor treated, the doctor.	the doctor	the doctor
+the nurse cared for, the nurse.	the nurse	the nurse
+the therapist counseled, the therapist.	the therapist	the therapist
+the patient consulted, the patient.	the patient	the patient
+the therapist counseled, the therapist.	the therapist	the therapist
+the patient consulted, the patient.	the patient	the patient
+the client consulted, the client.	the client	the client
+the attorney represented, the attorney.	the attorney	the attorney
+the defendant defended, the defendant.	the defendant	the defendant
+the judge judged, the judge.	the judge	the judge
+the witness testified for, the witness.	the witness	the witness
+the researcher researched, the researcher.	the researcher	the researcher
+the participant participated for, the participant.	the participant	the participant
+the volunteer volunteered for, the volunteer.	the volunteer	the volunteer
+the donor donated to, the donor.	the donor	the donor

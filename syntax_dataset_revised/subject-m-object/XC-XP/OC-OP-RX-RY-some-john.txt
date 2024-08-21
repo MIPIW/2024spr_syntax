@@ -1,0 +1,100 @@
+Johnson helped some student.	some student	Johnson
+Smith painted some artist.	some artist	Smith
+Brown cooked some chef.	some chef	Brown
+Davis impressed some dancer.	some dancer	Davis
+Miller inspired some writer.	some writer	Miller
+Wilson trained some athlete.	some athlete	Wilson
+Moore composed some musician.	some musician	Moore
+Taylor treated some doctor.	some doctor	Taylor
+Anderson discovered some scientist.	some scientist	Anderson
+Thomas drove some driver.	some driver	Thomas
+Jackson educated some teacher.	some teacher	Jackson
+White planted some gardener.	some gardener	White
+Harris designed some engineer.	some engineer	Harris
+Martin performed some actor.	some actor	Martin
+Thompson captured some photographer.	some photographer	Thompson
+Martinez organized some librarian.	some librarian	Martinez
+Garcia invested some banker.	some banker	Garcia
+Robinson sewed some tailor.	some tailor	Robinson
+Clark flew some pilot.	some pilot	Clark
+Rodriguez defended some lawyer.	some lawyer	Rodriguez
+Lewis designed some architect.	some architect	Lewis
+Lee cooked some chef.	some chef	Lee
+Walker cared for some nurse.	some nurse	Walker
+Hall harvested some farmer.	some farmer	Hall
+Allen fixed some plumber.	some plumber	Allen
+Young counted some cashier.	some cashier	Young
+King painted some painter.	some painter	King
+Wright counseled some therapist.	some therapist	Wright
+Scott sang to some singer.	some singer	Scott
+Green rescued some firefighter.	some firefighter	Green
+Adams caught some fisherman.	some fisherman	Adams
+Baker served some bartender.	some bartender	Baker
+Gonzalez served some waiter.	some waiter	Gonzalez
+Nelson counted some cashier.	some cashier	Nelson
+Carter greeted some receptionist.	some receptionist	Carter
+Mitchell trained some athlete.	some athlete	Mitchell
+Perez reported on some journalist.	some journalist	Perez
+Roberts fought some soldier.	some soldier	Roberts
+Turner researched some scientist.	some scientist	Turner
+Phillips played for some musician.	some musician	Phillips
+Campbell danced for some dancer.	some dancer	Campbell
+Parker discovered some explorer.	some explorer	Parker
+Evans managed some manager.	some manager	Evans
+Edwards trained some coach.	some coach	Edwards
+Collins cleaned some cleaner.	some cleaner	Collins
+Stewart campaigned for some politician.	some politician	Stewart
+Sanchez drove some driver.	some driver	Sanchez
+Morris played against some gamer.	some gamer	Morris
+Rogers analyzed some analyst.	some analyst	Rogers
+Cook led some CEO.	some CEO	Cook
+Reed greeted some receptionist.	some receptionist	Reed
+Morgan organized some librarian.	some librarian	Morgan
+Bell coded for some programmer.	some programmer	Bell
+Cooper mentored some mentor.	some mentor	Cooper
+Richardson advised some consultant.	some consultant	Richardson
+Cox edited some editor.	some editor	Cox
+Howard posed for some model.	some model	Howard
+Ward influenced some influencer.	some influencer	Ward
+Torres patrolled some officer.	some officer	Torres
+Peterson coached some coach.	some coach	Peterson
+Gray cleaned some cleaner.	some cleaner	Gray
+Ramirez created for some artist.	some artist	Ramirez
+James designed for some designer.	some designer	James
+Watson styled some stylist.	some stylist	Watson
+Brooks invested some banker.	some banker	Brooks
+Kelly counted some cashier.	some cashier	Kelly
+Sanders assisted some clerk.	some clerk	Sanders
+Price directed some director.	some director	Price
+Bennett produced for some producer.	some producer	Bennett
+Wood wrote for some writer.	some writer	Wood
+Barnes reported on some journalist.	some journalist	Barnes
+Ross critiqued some critic.	some critic	Ross
+Henderson developed for some developer.	some developer	Henderson
+Coleman founded some entrepreneur.	some entrepreneur	Coleman
+Jenkins hosted some host.	some host	Jenkins
+Perry led some CEO.	some CEO	Perry
+Powell managed some manager.	some manager	Powell
+Long sold to some salesperson.	some salesperson	Long
+Patterson marketed for some marketer.	some marketer	Patterson
+Hughes interned for some intern.	some intern	Hughes
+Flores analyzed some analyst.	some analyst	Flores
+Washington researched some researcher.	some researcher	Washington
+Butler researched some scientist.	some scientist	Butler
+Johnson taught some professor.	some professor	Johnson
+Martinez studied some student.	some student	Martinez
+Robinson treated some doctor.	some doctor	Robinson
+Thompson cared for some nurse.	some nurse	Thompson
+Clark counseled some therapist.	some therapist	Clark
+Rodriguez consulted some patient.	some patient	Rodriguez
+Lewis counseled some therapist.	some therapist	Lewis
+Lee consulted some patient.	some patient	Lee
+Walker consulted some client.	some client	Walker
+Hall represented some attorney.	some attorney	Hall
+Allen defended some defendant.	some defendant	Allen
+Young judged some judge.	some judge	Young
+King testified for some witness.	some witness	King
+Wright researched some researcher.	some researcher	Wright
+Green participated for some participant.	some participant	Green
+Adams volunteered for some volunteer.	some volunteer	Adams
+Baker donated to some donor.	some donor	Baker
